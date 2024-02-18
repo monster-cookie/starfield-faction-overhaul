@@ -1,0 +1,18 @@
+FormKey: 01B30C:Starfield.esm
+EditorID: SDeltaPavonis_PGamow
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Gamow
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000802:GrindTerraIndustriesFaction.esm
+UnknownDATA2: 16
+ParentLocation: 061540:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 98924
+PlanetID: 4

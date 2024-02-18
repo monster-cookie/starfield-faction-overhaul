@@ -1,0 +1,17 @@
+FormKey: 01B303:Starfield.esm
+EditorID: SDeltaPavonis_PArachna_MItsy
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Itsy
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000802:GrindTerraIndustriesFaction.esm
+UnknownDATA2: 16
+ParentLocation: 01B300:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 98924
+PlanetID: 10

@@ -1,0 +1,17 @@
+FormKey: 01B2D5:Starfield.esm
+EditorID: SAltair_PAltairII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Altair II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 000802:GrindTerraIndustriesFaction.esm
+UnknownDATA2: 16
+ParentLocation: 061541:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 97338
+PlanetID: 2

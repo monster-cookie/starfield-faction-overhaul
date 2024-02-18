@@ -1,0 +1,17 @@
+FormKey: 01B321:Starfield.esm
+EditorID: SDeltaPavonis_PBode_MHerald
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Herald
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000802:GrindTerraIndustriesFaction.esm
+UnknownDATA2: 16
+ParentLocation: 01B31B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 98924
+PlanetID: 17

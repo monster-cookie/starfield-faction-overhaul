@@ -1,0 +1,17 @@
+FormKey: 01B069:Starfield.esm
+EditorID: SNemeria_PNemeriaV_MNemeriaV-c
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nemeria V-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000802:GrindTerraIndustriesFaction.esm
+UnknownDATA2: 16
+ParentLocation: 01B066:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 84604
+PlanetID: 14

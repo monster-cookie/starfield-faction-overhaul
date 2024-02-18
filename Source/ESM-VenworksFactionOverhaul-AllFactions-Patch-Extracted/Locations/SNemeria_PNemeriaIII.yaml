@@ -1,0 +1,17 @@
+FormKey: 01B057:Starfield.esm
+EditorID: SNemeria_PNemeriaIII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nemeria III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 000802:GrindTerraIndustriesFaction.esm
+UnknownDATA2: 16
+ParentLocation: 061552:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 84604
+PlanetID: 3
