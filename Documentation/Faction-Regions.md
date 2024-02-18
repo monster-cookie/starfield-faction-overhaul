@@ -110,11 +110,6 @@ The original human colonies that spread out when the Earth's biosphere failed.
   - Freestar Collective
   - The First
 
-- Jcault
-  - Starborn
-  - Freestar Collective
-  - The First
-
 - Narion <<<<< STOPPED HERE
   - Crimson Fleet
   - Ecliptic
