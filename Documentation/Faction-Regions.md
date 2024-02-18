@@ -18,7 +18,6 @@ Crimson Fleet controls the region around the prison star station they took contr
 The Ecliptic mercenary controls a region of space by the UC at the edge of the universe. But the also show up in contested region throughout the galaxy at the whims of their clients.
 
 - Alpha Andraste
-- Bessel
 - Beta Andraste
 - Carinae
 - Eta Cassiopeia
@@ -111,17 +110,7 @@ The original human colonies that spread out when the Earth's biosphere failed.
   - Freestar Collective
   - The First
 
-- Jaffa
-  - Starborn
-  - Freestar Collective
-  - The First
-
-- Jcault
-  - Starborn
-  - Freestar Collective
-  - The First
-
-- Narion 
+- Narion <<<<< STOPPED HERE
   - Crimson Fleet
   - Ecliptic
   - Freestar Collective
