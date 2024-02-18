@@ -4,4 +4,4 @@
 
 
 # Enhancements and New Features
-
+- [ ] Implement a viable freestar rangers NPC leveled list
