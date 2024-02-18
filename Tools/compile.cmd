@@ -10,7 +10,6 @@ cd "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Tools"
 del /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist\*.*"
 rmdir /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist"
 mkdir "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist"
-mkdir "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist\Strings"
 
 @REM Clear Dist-CCMBH-Patch DIR
 @echo "Clearing and scafolding the Dist-CCMBH-Patch dir"
