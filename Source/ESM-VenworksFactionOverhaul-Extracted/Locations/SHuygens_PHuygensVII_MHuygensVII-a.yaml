@@ -1,0 +1,17 @@
+FormKey: 01B94C:Starfield.esm
+EditorID: SHuygens_PHuygensVII_MHuygensVII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Huygens VII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B946:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73082
+PlanetID: 18

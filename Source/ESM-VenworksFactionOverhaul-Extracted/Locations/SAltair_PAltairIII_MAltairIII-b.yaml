@@ -1,0 +1,16 @@
+FormKey: 01B2DE:Starfield.esm
+EditorID: SAltair_PAltairIII_MAltairIII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Altair III-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B2D8:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 97338
+PlanetID: 8

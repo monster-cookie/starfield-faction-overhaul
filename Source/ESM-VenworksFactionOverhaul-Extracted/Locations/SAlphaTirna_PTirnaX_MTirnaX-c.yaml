@@ -1,0 +1,17 @@
+FormKey: 01A748:Starfield.esm
+EditorID: SAlphaTirna_PTirnaX_MTirnaX-c
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tirna X-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A742:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 57270
+PlanetID: 31

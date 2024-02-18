@@ -1,0 +1,17 @@
+FormKey: 01B4C7:Starfield.esm
+EditorID: SBel_PBelV_MBelV-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bel V-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B4C4:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69192
+PlanetID: 14

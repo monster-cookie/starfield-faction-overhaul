@@ -1,0 +1,17 @@
+FormKey: 01B76E:Starfield.esm
+EditorID: SSol_PUranus_MAriel
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Ariel
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 1E79B7:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B768:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 0
+PlanetID: 27

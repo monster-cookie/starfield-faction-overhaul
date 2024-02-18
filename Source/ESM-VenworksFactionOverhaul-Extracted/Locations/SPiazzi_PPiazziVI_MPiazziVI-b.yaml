@@ -1,0 +1,17 @@
+FormKey: 01B35E:Starfield.esm
+EditorID: SPiazzi_PPiazziVI_MPiazziVI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Piazzi VI-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B35B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 103879
+PlanetID: 18

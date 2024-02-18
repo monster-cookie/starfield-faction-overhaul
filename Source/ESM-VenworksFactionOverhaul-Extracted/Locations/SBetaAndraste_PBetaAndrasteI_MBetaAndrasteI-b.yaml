@@ -1,0 +1,17 @@
+FormKey: 3D9DF4:Starfield.esm
+EditorID: SBetaAndraste_PBetaAndrasteI_MBetaAndrasteI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Beta Andraste I-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 3D9DF1:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119221
+PlanetID: 17

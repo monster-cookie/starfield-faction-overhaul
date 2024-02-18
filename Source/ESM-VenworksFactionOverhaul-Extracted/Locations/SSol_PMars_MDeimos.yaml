@@ -1,0 +1,16 @@
+FormKey: 01B73B:Starfield.esm
+EditorID: SSol_PMars_MDeimos
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Deimos
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B735:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 0
+PlanetID: 13

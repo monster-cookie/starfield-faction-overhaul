@@ -1,0 +1,17 @@
+FormKey: 01B57C:Starfield.esm
+EditorID: SNikola_PNikolaII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nikola II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061531:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119217
+PlanetID: 2

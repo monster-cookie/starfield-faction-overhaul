@@ -1,0 +1,17 @@
+FormKey: 01B16D:Starfield.esm
+EditorID: SSchrodinger_PSchrodingerI_MSchrodingerI-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Schrodinger I-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B16A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 87902
+PlanetID: 10

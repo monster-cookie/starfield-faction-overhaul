@@ -1,0 +1,16 @@
+FormKey: 061552:Starfield.esm
+EditorID: SNemeria
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nemeria
+Keywords:
+- 00149F:Starfield.esm
+SystemLevel: 35
+UnknownDATA2: 11520
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 84604
+PlanetID: 0

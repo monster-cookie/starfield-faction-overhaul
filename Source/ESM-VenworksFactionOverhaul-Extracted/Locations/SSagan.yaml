@@ -1,0 +1,17 @@
+FormKey: 061528:Starfield.esm
+EditorID: SSagan
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Sagan
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B9:Starfield.esm
+SystemLevel: 15
+UnknownDATA2: 6400
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72717
+PlanetID: 0

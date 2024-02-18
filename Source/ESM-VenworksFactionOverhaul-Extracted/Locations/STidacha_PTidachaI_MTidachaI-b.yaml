@@ -1,0 +1,17 @@
+FormKey: 01AE67:Starfield.esm
+EditorID: STidacha_PTidachaI_MTidachaI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tidacha I-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AE5E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 82337
+PlanetID: 4

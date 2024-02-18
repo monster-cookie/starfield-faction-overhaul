@@ -1,0 +1,16 @@
+FormKey: 01B330:Starfield.esm
+EditorID: SDeltaPavonis_PFaraday_MOhm
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Ohm
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B324:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 98924
+PlanetID: 21

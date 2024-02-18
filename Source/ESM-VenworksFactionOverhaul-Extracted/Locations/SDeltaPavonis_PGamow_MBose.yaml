@@ -1,0 +1,16 @@
+FormKey: 01B30F:Starfield.esm
+EditorID: SDeltaPavonis_PGamow_MBose
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bose
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B30C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 98924
+PlanetID: 13

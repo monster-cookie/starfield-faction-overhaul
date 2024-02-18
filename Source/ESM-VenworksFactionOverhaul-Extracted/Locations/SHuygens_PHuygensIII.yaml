@@ -1,0 +1,17 @@
+FormKey: 01B931:Starfield.esm
+EditorID: SHuygens_PHuygensIII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Huygens III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 06151A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73082
+PlanetID: 3

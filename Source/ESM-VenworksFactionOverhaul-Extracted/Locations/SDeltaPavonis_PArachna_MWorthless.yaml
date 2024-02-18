@@ -1,0 +1,17 @@
+FormKey: 01B306:Starfield.esm
+EditorID: SDeltaPavonis_PArachna_MWorthless
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Worthless
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B300:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 98924
+PlanetID: 11

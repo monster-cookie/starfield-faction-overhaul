@@ -1,0 +1,35 @@
+FormKey: 061527:Starfield.esm
+EditorID: SSol
+FormVersion: 556
+LocationCellPersistentReferences:
+- Actor: 29C986:Starfield.esm
+  Location: 220F4E:Starfield.esm
+  Grid: 32767, 32767
+  Unknown: -1
+LocationCellUniqueReferences:
+- GenericBaseForm: 007911:Starfield.esm
+  Ref: 29C986:Starfield.esm
+  Location: 01B731:Starfield.esm
+LocationCellUniques: []
+LocationCellMarkerReference:
+- 29C986:Starfield.esm
+- 29C986:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Sol
+Keywords:
+- 00149F:Starfield.esm
+- 05BD8B:Starfield.esm
+- 061990:Starfield.esm
+- 1159EE:Starfield.esm
+- 12957A:Starfield.esm
+Faction: 05BD93:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 1
+UnknownDATA2: 2560
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 0
+PlanetID: 0

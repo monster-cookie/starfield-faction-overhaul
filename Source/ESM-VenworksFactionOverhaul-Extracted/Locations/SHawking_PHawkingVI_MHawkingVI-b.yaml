@@ -1,0 +1,17 @@
+FormKey: 01B918:Starfield.esm
+EditorID: SHawking_PHawkingVI_MHawkingVI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Hawking VI-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B915:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73489
+PlanetID: 11

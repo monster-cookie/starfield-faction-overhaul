@@ -1,0 +1,17 @@
+FormKey: 01A88B:Starfield.esm
+EditorID: SMarduk_PMardukVII_MMardukVII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Marduk VII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A885:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 60805
+PlanetID: 17

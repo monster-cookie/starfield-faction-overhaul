@@ -1,0 +1,16 @@
+FormKey: 01A989:Starfield.esm
+EditorID: SVolii_PVoliiTau_MVoliiPhi
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Volii Phi
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A983:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 64720
+PlanetID: 11

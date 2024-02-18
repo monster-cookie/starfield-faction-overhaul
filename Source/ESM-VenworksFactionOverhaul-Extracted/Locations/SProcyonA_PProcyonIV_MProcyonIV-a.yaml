@@ -1,0 +1,16 @@
+FormKey: 01A5EB:Starfield.esm
+EditorID: SProcyonA_PProcyonIV_MProcyonIV-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Procyon IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A5E8:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 37173
+PlanetID: 9

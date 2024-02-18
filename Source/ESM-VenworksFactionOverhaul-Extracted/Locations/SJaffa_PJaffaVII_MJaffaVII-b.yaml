@@ -1,0 +1,17 @@
+FormKey: 01AE19:Starfield.esm
+EditorID: SJaffa_PJaffaVII_MJaffaVII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Jaffa VII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AE16:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 79431
+PlanetID: 17

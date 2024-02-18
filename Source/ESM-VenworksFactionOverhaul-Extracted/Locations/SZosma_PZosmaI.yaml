@@ -1,0 +1,17 @@
+FormKey: 01A651:Starfield.esm
+EditorID: SZosma_PZosmaI
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Zosma I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 0615A0:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 54712
+PlanetID: 1

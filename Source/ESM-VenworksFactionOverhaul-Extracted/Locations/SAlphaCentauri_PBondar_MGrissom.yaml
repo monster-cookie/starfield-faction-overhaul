@@ -1,0 +1,17 @@
+FormKey: 01AB1F:Starfield.esm
+EditorID: SAlphaCentauri_PBondar_MGrissom
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Grissom
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 1E79B7:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AB1C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71456
+PlanetID: 6

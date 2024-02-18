@@ -1,0 +1,17 @@
+FormKey: 01B895:Starfield.esm
+EditorID: SArchimedes_PArchimedesV_MArchimedesV-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Archimedes V-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B892:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 75150
+PlanetID: 12

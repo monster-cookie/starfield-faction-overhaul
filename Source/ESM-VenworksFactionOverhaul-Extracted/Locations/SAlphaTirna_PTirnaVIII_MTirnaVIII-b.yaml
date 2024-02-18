@@ -1,0 +1,17 @@
+FormKey: 01A736:Starfield.esm
+EditorID: SAlphaTirna_PTirnaVIII_MTirnaVIII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tirna VIII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A730:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 57270
+PlanetID: 26

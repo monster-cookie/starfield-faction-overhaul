@@ -1,0 +1,17 @@
+FormKey: 1D9232:Starfield.esm
+EditorID: SCarinae_PCarinaeII_MCarinaeII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Carinae II-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A62A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118021
+PlanetID: 16

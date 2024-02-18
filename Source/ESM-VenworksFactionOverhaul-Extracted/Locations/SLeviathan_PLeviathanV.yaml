@@ -1,0 +1,16 @@
+FormKey: 01B242:Starfield.esm
+EditorID: SLeviathan_PLeviathanV
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Leviathan V
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061545:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 89684
+PlanetID: 5

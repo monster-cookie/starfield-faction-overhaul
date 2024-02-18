@@ -1,0 +1,17 @@
+FormKey: 01B7CA:Starfield.esm
+EditorID: SKang_PKangIV_MKangIV-c
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Kang IV-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B7C7:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71517
+PlanetID: 10

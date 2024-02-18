@@ -1,0 +1,16 @@
+FormKey: 01AC37:Starfield.esm
+EditorID: SCheyenne_PNavaha
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Navaha
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061572:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72432
+PlanetID: 9

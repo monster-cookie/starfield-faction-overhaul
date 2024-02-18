@@ -1,0 +1,19 @@
+FormKey: 0615A4:Starfield.esm
+EditorID: SProcyonB
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Procyon B
+Keywords:
+- 00149F:Starfield.esm
+- 1EF941:Starfield.esm
+- 1159EB:Starfield.esm
+- 05BD8B:Starfield.esm
+SystemLevel: 5
+UnknownDATA2: 3840
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118493
+PlanetID: 0

@@ -1,0 +1,18 @@
+FormKey: 061530:Starfield.esm
+EditorID: SZelazny
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Zelazny
+Keywords:
+- 00149F:Starfield.esm
+- 000805:VenworksFactionOverhaul.esm
+- 12179A:Starfield.esm
+SystemLevel: 60
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 59092
+PlanetID: 0

@@ -1,0 +1,16 @@
+FormKey: 01AC40:Starfield.esm
+EditorID: SCheyenne_PNavaha_MHardpoint
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Hardpoint
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AC37:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72432
+PlanetID: 31

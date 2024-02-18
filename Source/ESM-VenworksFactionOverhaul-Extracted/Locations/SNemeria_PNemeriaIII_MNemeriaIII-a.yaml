@@ -1,0 +1,16 @@
+FormKey: 01B05A:Starfield.esm
+EditorID: SNemeria_PNemeriaIII_MNemeriaIII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nemeria III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B057:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 84604
+PlanetID: 11

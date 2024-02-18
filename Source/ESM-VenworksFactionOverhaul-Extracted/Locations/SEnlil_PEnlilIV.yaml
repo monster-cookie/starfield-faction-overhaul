@@ -1,0 +1,17 @@
+FormKey: 01B707:Starfield.esm
+EditorID: SEnlil_PEnlilIV
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Enlil IV
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061529:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 78498
+PlanetID: 4

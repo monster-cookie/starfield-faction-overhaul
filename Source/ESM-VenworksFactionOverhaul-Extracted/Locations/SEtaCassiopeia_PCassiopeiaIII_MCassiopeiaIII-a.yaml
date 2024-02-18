@@ -1,0 +1,17 @@
+FormKey: 01A614:Starfield.esm
+EditorID: SEtaCassiopeia_PCassiopeiaIII_MCassiopeiaIII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Cassiopeia III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A611:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 3814
+PlanetID: 7

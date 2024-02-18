@@ -1,0 +1,16 @@
+FormKey: 06090B:Starfield.esm
+EditorID: SAlphaCentauri_PJemison_MKurtz
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Kurtz
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AB29:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71456
+PlanetID: 8

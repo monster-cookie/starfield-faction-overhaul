@@ -1,0 +1,16 @@
+FormKey: 061541:Starfield.esm
+EditorID: SAltair
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Altair
+Keywords:
+- 00149F:Starfield.esm
+SystemLevel: 15
+UnknownDATA2: 6400
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 97338
+PlanetID: 0

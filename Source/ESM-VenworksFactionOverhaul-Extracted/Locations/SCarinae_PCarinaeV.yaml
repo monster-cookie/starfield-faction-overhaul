@@ -1,0 +1,17 @@
+FormKey: 01A642:Starfield.esm
+EditorID: SCarinae_PCarinaeV
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Carinae V
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 0615A2:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118021
+PlanetID: 5

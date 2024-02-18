@@ -1,0 +1,18 @@
+FormKey: 061525:Starfield.esm
+EditorID: SKang
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Kang
+Keywords:
+- 00149F:Starfield.esm
+- 000804:VenworksFactionOverhaul.esm
+- 294969:Starfield.esm
+SystemLevel: 60
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71517
+PlanetID: 0

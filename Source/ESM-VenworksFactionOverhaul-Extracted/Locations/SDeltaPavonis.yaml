@@ -1,0 +1,16 @@
+FormKey: 061540:Starfield.esm
+EditorID: SDeltaPavonis
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Delta Pavonis
+Keywords:
+- 00149F:Starfield.esm
+SystemLevel: 25
+UnknownDATA2: 8960
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 98924
+PlanetID: 0

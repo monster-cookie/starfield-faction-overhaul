@@ -1,0 +1,16 @@
+FormKey: 01B2E7:Starfield.esm
+EditorID: SAltair_PAltairIV_MAltairIV-d
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Altair IV-d
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B2E4:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 97338
+PlanetID: 11

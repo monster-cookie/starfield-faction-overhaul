@@ -1,0 +1,17 @@
+FormKey: 01B1A1:Starfield.esm
+EditorID: SSchrodinger_PSchrodingerVIII_MSchrodingerVIII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Schrodinger VIII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B19B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 87902
+PlanetID: 20

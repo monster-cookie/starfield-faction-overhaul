@@ -1,0 +1,17 @@
+FormKey: 01B0C9:Starfield.esm
+EditorID: SBetaMarae_PBetaMaraeIV_MBetaMaraeIV-d
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Beta Marae IV-d
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B0C6:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119159
+PlanetID: 11

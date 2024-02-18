@@ -1,0 +1,20 @@
+FormKey: 061523:Starfield.esm
+EditorID: SKatydid
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Katydid
+Keywords:
+- 00149F:Starfield.esm
+- 1EF941:Starfield.esm
+- 1159EB:Starfield.esm
+- 000805:VenworksFactionOverhaul.esm
+- 12179A:Starfield.esm
+SystemLevel: 75
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 55539
+PlanetID: 0

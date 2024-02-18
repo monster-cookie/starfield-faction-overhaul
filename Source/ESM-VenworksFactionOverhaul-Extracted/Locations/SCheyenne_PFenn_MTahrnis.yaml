@@ -1,0 +1,16 @@
+FormKey: 01AC34:Starfield.esm
+EditorID: SCheyenne_PFenn_MTahrnis
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tahrnis
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AC2E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72432
+PlanetID: 28

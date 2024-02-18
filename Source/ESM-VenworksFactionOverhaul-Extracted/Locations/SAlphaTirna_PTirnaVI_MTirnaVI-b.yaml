@@ -1,0 +1,17 @@
+FormKey: 01A71B:Starfield.esm
+EditorID: SAlphaTirna_PTirnaVI_MTirnaVI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tirna VI-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A712:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 57270
+PlanetID: 19

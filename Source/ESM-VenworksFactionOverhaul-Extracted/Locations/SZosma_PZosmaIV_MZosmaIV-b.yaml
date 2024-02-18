@@ -1,0 +1,17 @@
+FormKey: 01A666:Starfield.esm
+EditorID: SZosma_PZosmaIV_MZosmaIV-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Zosma IV-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A660:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 54712
+PlanetID: 10

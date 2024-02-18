@@ -1,0 +1,16 @@
+FormKey: 01B5A3:Starfield.esm
+EditorID: SNikola_PNikolaVIII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nikola VIII
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061531:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119217
+PlanetID: 8

@@ -1,0 +1,17 @@
+FormKey: 01B92E:Starfield.esm
+EditorID: SHuygens_PHuygensII_MHuygensII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Huygens II-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B928:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73082
+PlanetID: 13
