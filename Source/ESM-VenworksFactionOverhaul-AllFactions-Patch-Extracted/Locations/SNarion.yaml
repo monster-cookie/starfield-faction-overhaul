@@ -1,0 +1,31 @@
+FormKey: 0615B0:Starfield.esm
+EditorID: SNarion
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Narion
+Keywords:
+- 00149F:Starfield.esm
+- 023305:Starfield.esm
+- 061990:Starfield.esm
+- 1159EE:Starfield.esm
+- 12179B:Starfield.esm
+- 283580:Starfield.esm
+- 283581:Starfield.esm
+- 283582:Starfield.esm
+- 294969:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 000813:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000910:GrindTerraIndustriesFaction.esm
+- 1998F6:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 15
+UnknownDATA2: 2560
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 88327
+PlanetID: 0

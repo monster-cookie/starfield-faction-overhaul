@@ -1,0 +1,22 @@
+FormKey: 061586:Starfield.esm
+EditorID: SBannocSecondus
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bannoc Secondus
+Keywords:
+- 00149F:Starfield.esm
+- 1EF941:Starfield.esm
+- 1159EB:Starfield.esm
+- 000813:VenworksFactionOverhaul.esm
+- 283581:Starfield.esm
+- 12179A:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+SystemLevel: 50
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118959
+PlanetID: 0

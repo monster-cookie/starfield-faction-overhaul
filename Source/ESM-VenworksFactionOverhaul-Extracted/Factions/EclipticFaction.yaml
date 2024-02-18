@@ -1,6 +1,9 @@
 FormKey: 27028D:Starfield.esm
 EditorID: EclipticFaction
 FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Ecliptic
 Relations:
 - Target: 010B30:Starfield.esm
   Reaction: Enemy

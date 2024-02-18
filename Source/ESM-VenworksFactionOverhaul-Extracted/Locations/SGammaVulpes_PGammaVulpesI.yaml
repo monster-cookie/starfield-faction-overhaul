@@ -1,0 +1,20 @@
+FormKey: 01ACC6:Starfield.esm
+EditorID: SGammaVulpes_PGammaVulpesI
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Gamma Vulpes I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179A:Starfield.esm
+- 283581:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 06156E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 75489
+PlanetID: 1

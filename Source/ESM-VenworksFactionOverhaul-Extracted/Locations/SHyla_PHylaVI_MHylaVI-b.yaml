@@ -1,0 +1,19 @@
+FormKey: 01AB00:Starfield.esm
+EditorID: SHyla_PHylaVI_MHylaVI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Hyla VI-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+- 294969:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AAFA:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 70096
+PlanetID: 17

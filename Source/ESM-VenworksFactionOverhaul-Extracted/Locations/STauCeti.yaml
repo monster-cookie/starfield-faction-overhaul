@@ -1,0 +1,20 @@
+FormKey: 061546:Starfield.esm
+EditorID: STauCeti
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tau Ceti
+Keywords:
+- 00149F:Starfield.esm
+- 000813:VenworksFactionOverhaul.esm
+- 283581:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+SystemLevel: 10
+UnknownDATA2: 5120
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 8087
+PlanetID: 0

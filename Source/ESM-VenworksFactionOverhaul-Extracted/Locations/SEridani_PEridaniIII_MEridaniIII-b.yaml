@@ -1,0 +1,20 @@
+FormKey: 01A583:Starfield.esm
+EditorID: SEridani_PEridaniIII_MEridaniIII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Eridani III-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 023305:Starfield.esm
+- 283581:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A580:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 15471
+PlanetID: 12

@@ -13,7 +13,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 000802:VenworksFactionOverhaul.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -28,7 +28,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 12179B:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -42,7 +42,7 @@ Entries:
   - MutagenObjectType: ConditionFloat
     Unknown1: 0x000000
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 023305:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -57,7 +57,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 283581:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -72,7 +72,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 12179A:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -87,7 +87,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 294969:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -108,7 +108,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 283580:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -131,7 +131,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 283582:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
@@ -144,9 +144,10 @@ Entries:
   Conditions:
   - MutagenObjectType: ConditionFloat
     Unknown1: 0x000000
+    Unknown2: 22509
     Data:
-      MutagenObjectType: IsTrueForConditionFormConditionData
-      FirstParameter: 000800:GrindTerraIndustriesFaction.esm
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
+      FirstParameter: 000802:GrindTerraIndustriesFaction.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
     Unknown1: 0x000000
@@ -160,7 +161,7 @@ Entries:
     Unknown1: 0x000000
     Unknown2: 22509
     Data:
-      MutagenObjectType: LocationHasKeywordConditionData
+      MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 000AA5:CoraCoeMultiversalBookHunter.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat

@@ -1,0 +1,19 @@
+FormKey: 01B113:Starfield.esm
+EditorID: SFeynman_PFeynmanV_MFeynmanV-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Feynman V-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+- 283581:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B110:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 86469
+PlanetID: 11

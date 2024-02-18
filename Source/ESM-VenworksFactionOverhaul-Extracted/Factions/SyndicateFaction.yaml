@@ -1,6 +1,9 @@
 FormKey: 270274:Starfield.esm
 EditorID: SyndicateFaction
 FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: The Syndicate
 Relations:
 - Target: 03E0C8:Starfield.esm
   Reaction: Friend

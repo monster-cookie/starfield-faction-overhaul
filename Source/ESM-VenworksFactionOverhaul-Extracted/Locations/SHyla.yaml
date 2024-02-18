@@ -1,0 +1,20 @@
+FormKey: 061582:Starfield.esm
+EditorID: SHyla
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Hyla
+Keywords:
+- 00149F:Starfield.esm
+- 000813:VenworksFactionOverhaul.esm
+- 294969:Starfield.esm
+- 12179A:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+SystemLevel: 40
+UnknownDATA2: 12800
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 70096
+PlanetID: 0

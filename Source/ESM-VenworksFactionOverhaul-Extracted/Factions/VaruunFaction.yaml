@@ -1,6 +1,9 @@
 FormKey: 27872A:Starfield.esm
 EditorID: VaruunFaction
 FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: House Va'ruun
 Relations:
 - Target: 03E0C8:Starfield.esm
   Reaction: Friend

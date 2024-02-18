@@ -1,0 +1,21 @@
+FormKey: 06152E:Starfield.esm
+EditorID: SSyrma
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Syrma
+Keywords:
+- 00149F:Starfield.esm
+- 000813:VenworksFactionOverhaul.esm
+- 294969:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+- 12179A:Starfield.esm
+SystemLevel: 55
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69479
+PlanetID: 0

@@ -3,7 +3,7 @@ EditorID: RyujinIndustriesFaction
 FormVersion: 556
 Name:
   TargetLanguage: English
-  Value: Ryujin Industries Faction
+  Value: Ryujin Industries
 Relations:
 - Target: 03E0C8:Starfield.esm
   Reaction: Friend

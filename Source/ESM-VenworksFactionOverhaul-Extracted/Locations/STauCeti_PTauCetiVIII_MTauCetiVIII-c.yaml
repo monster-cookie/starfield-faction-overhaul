@@ -1,0 +1,19 @@
+FormKey: 01B229:Starfield.esm
+EditorID: STauCeti_PTauCetiVIII_MTauCetiVIII-c
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tau Ceti VIII-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 283581:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B223:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 8087
+PlanetID: 17

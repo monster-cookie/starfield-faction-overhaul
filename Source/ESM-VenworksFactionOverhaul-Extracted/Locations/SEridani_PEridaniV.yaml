@@ -1,0 +1,20 @@
+FormKey: 01A598:Starfield.esm
+EditorID: SEridani_PEridaniV
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Eridani V
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 023305:Starfield.esm
+- 283581:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 0615AB:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 15471
+PlanetID: 5

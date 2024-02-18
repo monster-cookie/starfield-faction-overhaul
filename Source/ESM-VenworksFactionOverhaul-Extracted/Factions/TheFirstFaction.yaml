@@ -1,6 +1,9 @@
 FormKey: 26FB5B:Starfield.esm
 EditorID: TheFirstFaction
 FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: The First
 Relations:
 - Target: 01C21C:Starfield.esm
   Reaction: Enemy

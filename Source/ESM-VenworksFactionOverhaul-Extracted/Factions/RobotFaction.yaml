@@ -3,7 +3,7 @@ EditorID: RobotFaction
 FormVersion: 556
 Name:
   TargetLanguage: English
-  Value: Robot Faction
+  Value: Robots
 Relations:
 - Target: 03E0C8:Starfield.esm
   Reaction: Friend

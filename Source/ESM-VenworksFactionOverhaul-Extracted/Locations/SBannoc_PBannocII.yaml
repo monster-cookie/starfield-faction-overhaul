@@ -1,0 +1,20 @@
+FormKey: 01AAC2:Starfield.esm
+EditorID: SBannoc_PBannocII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bannoc II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179A:Starfield.esm
+- 283581:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 06153F:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69793
+PlanetID: 2

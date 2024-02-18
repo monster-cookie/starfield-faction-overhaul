@@ -1,6 +1,9 @@
 FormKey: 018EDE:Starfield.esm
 EditorID: StarbornEncounterFaction
 FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Starborn
 Relations:
 - Target: 018EDE:Starfield.esm
   Reaction: Ally

@@ -1,0 +1,20 @@
+FormKey: 01B0FD:Starfield.esm
+EditorID: SRasalhague_PRasalhagueIII_MRasalhagueIII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Rasalhague III-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+- 283581:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B0F7:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 85769
+PlanetID: 8
