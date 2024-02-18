@@ -65,7 +65,7 @@ After the armistice The First Calvary failed to honor they moved to a fringe are
 - Masada
 - Zelazny
 
-## United Commonwealth
+## United Colonies
 
 The original human colonies that spread out when the Earth's biosphere failed. 
 
@@ -88,7 +88,7 @@ The original human colonies that spread out when the Earth's biosphere failed.
 - Bessel
   - Ecliptic
   - Crimson Fleet
-  - United Commonwealth
+  - United Colonies
 
 - Eridani
   - Crimson Fleet
@@ -110,11 +110,8 @@ The original human colonies that spread out when the Earth's biosphere failed.
   - Freestar Collective
   - The First
 
-- Narion <<<<< STOPPED HERE
-  - Crimson Fleet
-  - Ecliptic
-  - Freestar Collective
-  - Grind Terra Industries
+- Narion
+  - All Factions
 
 - Rasalhague
   - Freestar Collective
@@ -128,4 +125,4 @@ The original human colonies that spread out when the Earth's biosphere failed.
 
 - Tau Ceti
   - Ecliptic
-  - United Commonwealth
+  - United Colonies
