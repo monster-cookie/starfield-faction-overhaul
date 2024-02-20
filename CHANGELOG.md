@@ -1,5 +1,9 @@
 # Venworks Faction Overhaul
 
+## Version 1.0.2
+* More terrormorphs from JaeDL 
+* Sorry forgot to put in House Va'ruun factions document updated too. 
+
 ## Version 1.0.1
 * Sorry JaeDL made us have terrormorphs 
 * Kreet is also now Hostile Humans only but I'm not 100% sure that keyword is honored by PCM.

@@ -1,0 +1,17 @@
+FormKey: 01B968:Starfield.esm
+EditorID: SBohr_PBohrIII_MBohrIII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bohr III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B965:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73018
+PlanetID: 12

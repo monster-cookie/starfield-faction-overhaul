@@ -1,0 +1,18 @@
+FormKey: 061519:Starfield.esm
+EditorID: SBohr
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bohr
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B6:Starfield.esm
+- 283580:Starfield.esm
+SystemLevel: 75
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73018
+PlanetID: 0

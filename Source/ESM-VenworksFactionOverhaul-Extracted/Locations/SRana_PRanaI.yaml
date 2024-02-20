@@ -1,0 +1,17 @@
+FormKey: 01B4D1:Starfield.esm
+EditorID: SRana_PRanaI
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Rana I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061534:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69766
+PlanetID: 1

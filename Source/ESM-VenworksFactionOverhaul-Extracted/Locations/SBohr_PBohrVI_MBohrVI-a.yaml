@@ -1,0 +1,17 @@
+FormKey: 01B97B:Starfield.esm
+EditorID: SBohr_PBohrVI_MBohrVI-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bohr VI-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B974:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73018
+PlanetID: 15

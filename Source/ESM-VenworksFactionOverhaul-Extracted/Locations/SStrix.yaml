@@ -1,0 +1,20 @@
+FormKey: 061533:Starfield.esm
+EditorID: SStrix
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Strix
+Keywords:
+- 00149F:Starfield.esm
+- 1EF941:Starfield.esm
+- 1159EB:Starfield.esm
+- 1E79B6:Starfield.esm
+- 283580:Starfield.esm
+SystemLevel: 70
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72407
+PlanetID: 0

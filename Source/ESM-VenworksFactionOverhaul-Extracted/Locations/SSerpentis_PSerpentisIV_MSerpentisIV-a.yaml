@@ -1,0 +1,17 @@
+FormKey: 01AD79:Starfield.esm
+EditorID: SSerpentis_PSerpentisIV_MSerpentisIV-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Serpentis IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AD76:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 76835
+PlanetID: 10

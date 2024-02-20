@@ -1,0 +1,18 @@
+FormKey: 01B84E:Starfield.esm
+EditorID: SMaal_PMaalVIII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Maal VIII
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+- 294969:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061522:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 74746
+PlanetID: 8
