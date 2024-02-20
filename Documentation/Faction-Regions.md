@@ -42,6 +42,14 @@ The Freestar Collective is a bit more spread out then usual as its is a loose co
 - Delta Pavonis
 - Nemeria
 
+## House Va'ruun
+
+- Bohr
+- Fermi
+- Rana
+- Serpentis
+- Strix
+
 ## Starborn
 
 Not much is known about the Starborn except they are very powerful and inhabit the edges of the universe in their temples.
@@ -109,6 +117,10 @@ The original human colonies that spread out when the Earth's biosphere failed.
   - Starborn
   - Freestar Collective
   - The First
+ 
+- Maal
+  - House Va'ruun
+  - Starborn
 
 - Narion
   - All Factions
