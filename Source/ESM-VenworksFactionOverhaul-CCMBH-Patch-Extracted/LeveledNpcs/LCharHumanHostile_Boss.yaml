@@ -7,36 +7,6 @@ Flags:
 - 0x40
 Entries:
 - Level: 1
-  Reference: 07F898:Starfield.esm
-  Count: 1
-  Conditions:
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Unknown2: 22509
-    Data:
-      MutagenObjectType: LocationOrParentHasKeywordConditionData
-      FirstParameter: 000802:VenworksFactionOverhaul.esm
-    ComparisonValue: 1
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Data:
-      MutagenObjectType: AreHostileActorsNearConditionData
-- Level: 1
-  Reference: 15E258:Starfield.esm
-  Count: 1
-  Conditions:
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Unknown2: 22509
-    Data:
-      MutagenObjectType: LocationOrParentHasKeywordConditionData
-      FirstParameter: 12179B:Starfield.esm
-    ComparisonValue: 1
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Data:
-      MutagenObjectType: AreHostileActorsNearConditionData
-- Level: 1
   Reference: 167010:Starfield.esm
   Count: 1
   Conditions:

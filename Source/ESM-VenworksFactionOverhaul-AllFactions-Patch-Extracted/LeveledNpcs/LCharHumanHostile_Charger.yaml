@@ -22,21 +22,6 @@ Entries:
     Data:
       MutagenObjectType: AreHostileActorsNearConditionData
 - Level: 1
-  Reference: 07F897:Starfield.esm
-  Count: 1
-  Conditions:
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Unknown2: 22509
-    Data:
-      MutagenObjectType: LocationOrParentHasKeywordConditionData
-      FirstParameter: 000802:VenworksFactionOverhaul.esm
-    ComparisonValue: 1
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Data:
-      MutagenObjectType: AreHostileActorsNearConditionData
-- Level: 1
   Reference: 12D055:Starfield.esm
   Count: 1
   Conditions:
@@ -112,21 +97,6 @@ Entries:
     Data:
       MutagenObjectType: LocationOrParentHasKeywordConditionData
       FirstParameter: 283581:Starfield.esm
-    ComparisonValue: 1
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Data:
-      MutagenObjectType: AreHostileActorsNearConditionData
-- Level: 1
-  Reference: 2733AC:Starfield.esm
-  Count: 1
-  Conditions:
-  - MutagenObjectType: ConditionFloat
-    Unknown1: 0x000000
-    Unknown2: 22509
-    Data:
-      MutagenObjectType: LocationOrParentHasKeywordConditionData
-      FirstParameter: 12179B:Starfield.esm
     ComparisonValue: 1
   - MutagenObjectType: ConditionFloat
     Unknown1: 0x000000
