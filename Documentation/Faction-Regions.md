@@ -6,135 +6,151 @@ For open world encounters to be able to use random NPCs via the hostile humans l
 
 Crimson Fleet controls the region around the prison star station they took control. 
 
-- Alpha Marae (No Human Presense Flagged)
+- Alpha Marae
+- Bara
 - Beta Marae
 - Celebrai
-- Kryx (Home System - No Human Presense Flagged)
-- Schrodinger (No Human Presense Flagged)
-- Tidacha (No Human Presense Flagged)
+- Charybdis
+- Copernicus
+- Copernicus Minor
+- Heisenberg
+- Kryx (Home Base)
+- Lantana
+- Leonis
+- Moloch
+- Schrodinger
+- Shoza
+- Tidacha
+- Zosma
 
 ## Ecliptic
 
 The Ecliptic mercenary controls a region of space by the UC at the edge of the universe. But the also show up in contested region throughout the galaxy at the whims of their clients.
 
-- Alpha Andraste
-- Beta Andraste
-- Carinae
-- Eta Cassiopeia
-- Jaffa (Home System)
-- Piazzi
-- Van Maanen's Star
-- Zosma (No Human Presense Flagged)
+- Alpha Ternion
+- Archimedes
+- Bel
+- Beta Ternion
+- Enlil
+- Foucault
+- Hawking
+- Kang
+- Proxima Ternion
+- Syrma
+- Zelazny
 
 ## Freestar Collective
 
 The Freestar Collective is a bit more spread out then usual as its is a loose collective of factions that banded together for security. 
 
+- Bolivar
 - Cheyenne (Home System)
-- Leviathan (No Human Presense Flagged)
-- Nikola (No Human Presense Flagged)
+- Delta Vulpes
+- Gamma Vulpes
+- Kumasi
+- Leviathan
+- Lunara
+- Maheo
+- Masada
+- Narion
+- Nikola
+- Rasalhague
 - Sagan
+- Ursae Majoris
+- Ursae Minoris
+- Valo
 - Volii
-
-## Grind Terra Industries
-
-- Altair
-- Delta Pavonis
-- Nemeria
+- Xi Ophiuchi
+- Zeta Ophiuchi
 
 ## House Va'ruun
 
 - Bohr
+- Decaran
 - Fermi
+- Freya
+- Huygens
+- Maal
+- Nirah
+- Pyraas
 - Rana
-- Serpentis
+- Serpentis (Home System)
+- Sparta
 - Strix
+- Verne
+
+## Spacers
+
+Some of the larger spacer bands have carved out an area of space as their own even though they fight each other as much as the other factions
+
+- Alchiba
+- Algorab
+- Alpha Tirna
+- Beta Tirna
+- Delta Pavonis
+- Katydid
+- Marduk
 
 ## Starborn
 
 Not much is known about the Starborn except they are very powerful and inhabit the edges of the universe in their temples.
 
-- Archimedes
-- Bell
-- Enlil (No Human Presense Flagged)
-- Hawking
-- Huygens
-- Kang
+- Alpha Andraste
+- Beta Andraste
+- Carinae
 
 ## The First
 
 After the armistice The First Calvary failed to honor they moved to a fringe area near the Freestar Collective.
 
-- Algorab
-- Alpha Tirna
-- Beta Tirna (No Human Presense Flagged)
-- Katydid (No Human Presense Flagged)
-- Marduk (No Human Presense Flagged)
-- Masada
-- Zelazny
+- Arcturus
+- Bardeen
+- Bradbury
+- Mcclure
+- Muphrid
+- Nemeria
+- Newton
 
 ## United Colonies
 
 The original human colonies that spread out when the Earth's biosphere failed. 
 
 - Alpha Centauri (Home System)
+- Altair
 - Barnard's Star
+- Bessel
+- Denebola
+- Guniibuu
+- Indum
+- Kapteyn's Star
+- Luyten's Star
+- Piazzi
 - Procyon A
-- Procyon B (No Human Presense Flagged)
+- Procyon B (No Human Presence Flagged)
 - Sakharov
+- Sirius
 - Sol
+- The Pup
 - Toliman
 - Wolf
 
 ## Contested Zones
 
+All factions are fighting for control of contested planets
+
+- Al-Battani
+- Andromas
+- Aranae
 - Bannoc
-  - Freestar Collective
-  - Ecliptic
-  - The First
-
-- Bessel
-  - Ecliptic
-  - Crimson Fleet
-  - United Colonies
-
+- Bannoc Secondus
 - Eridani
-  - Crimson Fleet
-  - Ecliptic
-  - Starborn
-
 - Feynman
-  - Freestar Collective
-  - Ecliptic
-  - The First
-
-- Gamma Vulpes
-  - Freestar Collective
-  - Ecliptic
-  - The First
-
-- Hyla
-  - Starborn
-  - Freestar Collective
-  - The First
- 
-- Maal
-  - House Va'ruun
-  - Starborn
-
-- Narion
-  - All Factions
-
-- Rasalhague
-  - Freestar Collective
-  - Ecliptic
-  - The First
-
-- Syrma
-  - Starborn
-  - Freestar Collective
-  - The First
-
-- Tau Ceti
-  - Ecliptic
-  - United Colonies
+- Groombridge
+- Ixyll
+- Khayyam
+- Olympus
+- Oborum Prime
+- Oborum Proxima
+- Rutherford
+- Vega
+- Zosma
