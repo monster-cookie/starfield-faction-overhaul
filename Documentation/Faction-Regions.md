@@ -34,6 +34,7 @@ The Ecliptic mercenary controls a region of space by the UC at the edge of the u
 - Enlil
 - Foucault
 - Hawking
+- Jaffa (Home Base)
 - Kang
 - Proxima Ternion
 - Syrma
@@ -106,7 +107,7 @@ After the armistice The First Calvary failed to honor they moved to a fringe are
 - Arcturus
 - Bardeen
 - Bradbury
-- Mcclure
+- Mcclure           <<<<<<<<<<<<<<< STOPPED HERE ON CONVERSION
 - Muphrid
 - Nemeria
 - Newton
@@ -143,9 +144,11 @@ All factions are fighting for control of contested planets
 - Aranae
 - Bannoc
 - Bannoc Secondus
+- Eta Cassiopeia
 - Eridani
 - Feynman
 - Groombridge
+- Hyla
 - Ixyll
 - Khayyam
 - Olympus
@@ -154,3 +157,8 @@ All factions are fighting for control of contested planets
 - Rutherford
 - Vega
 - Zosma
+
+## Unchanged Systems
+
+- Heinlein
+- Linnaeus
