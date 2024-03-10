@@ -17,17 +17,17 @@ del /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist
 rmdir /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-CCMBH-Patch"
 mkdir "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-CCMBH-Patch"
 
-@REM Clear Dist-GrindTerraFactions-Patch DIR
-@echo "Clearing and scafolding the Dist-GrindTerraFactions-Patch dir"
-del /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch\*.*"
-rmdir /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch"
-mkdir "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch"
+@REM @REM Clear Dist-GrindTerraFactions-Patch DIR
+@REM @echo "Clearing and scafolding the Dist-GrindTerraFactions-Patch dir"
+@REM del /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch\*.*"
+@REM rmdir /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch"
+@REM mkdir "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch"
 
-@REM Clear Dist-AllFactions-Patch DIR
-@echo "Clearing and scafolding the Dist-AllFactions-Patch dir"
-del /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch\*.*"
-rmdir /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch"
-mkdir "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch"
+@REM @REM Clear Dist-AllFactions-Patch DIR
+@REM @echo "Clearing and scafolding the Dist-AllFactions-Patch dir"
+@REM del /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch\*.*"
+@REM rmdir /s /q "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch"
+@REM mkdir "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch"
 
 @REM Clear Dist-BA2-Main DIR
 @echo "Clearing and scafolding the Dist-BA2-Main dir"
@@ -54,18 +54,18 @@ copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-Experimental\Venwo
 copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-CCMBH-Patch-Experimental\VenworksFactionOverhaul-CCMBH-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM"
 copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-CCMBH-Patch-Experimental\VenworksFactionOverhaul-CCMBH-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-CCMBH-Patch"
 
-copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-GrindTerraFactions-Patch-Experimental\VenworksFactionOverhaul-GrindTerraFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM"
-copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-GrindTerraFactions-Patch-Experimental\VenworksFactionOverhaul-GrindTerraFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch"
+@REM copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-GrindTerraFactions-Patch-Experimental\VenworksFactionOverhaul-GrindTerraFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM"
+@REM copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-GrindTerraFactions-Patch-Experimental\VenworksFactionOverhaul-GrindTerraFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-GrindTerraFactions-Patch"
 
-copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-AllFactions-Patch-Experimental\VenworksFactionOverhaul-AllFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM"
-copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-AllFactions-Patch-Experimental\VenworksFactionOverhaul-AllFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch"
+@REM copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-AllFactions-Patch-Experimental\VenworksFactionOverhaul-AllFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM"
+@REM copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-AllFactions-Patch-Experimental\VenworksFactionOverhaul-AllFactions-Patch.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist-AllFactions-Patch"
 
 @REM Use Spriggit to extract record from ESM
 @echo "Running Spriggit to extract record from ESM"
-"D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
-"D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-CCMBH-Patch-Experimental\VenworksFactionOverhaul-CCMBH-Patch.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-CCMBH-Patch-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
-"D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-GrindTerraFactions-Patch-Experimental\VenworksFactionOverhaul-GrindTerraFactions-Patch.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-GrindTerraFactions-Patch-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
-"D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-AllFactions-Patch-Experimental\VenworksFactionOverhaul-AllFactions-Patch.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-AllFactions-Patch-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
+@REM "D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
+@REM "D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-CCMBH-Patch-Experimental\VenworksFactionOverhaul-CCMBH-Patch.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-CCMBH-Patch-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
+@REM "D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-GrindTerraFactions-Patch-Experimental\VenworksFactionOverhaul-GrindTerraFactions-Patch.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-GrindTerraFactions-Patch-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
+@REM "D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-AllFactions-Patch-Experimental\VenworksFactionOverhaul-AllFactions-Patch.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-AllFactions-Patch-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
 
 @REM Create and copy the BA2 Main Archive to Dist folder
 @echo "Creating the BA2 Main Archive"

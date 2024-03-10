@@ -107,7 +107,7 @@ After the armistice The First Calvary failed to honor they moved to a fringe are
 - Arcturus
 - Bardeen
 - Bradbury
-- Mcclure           <<<<<<<<<<<<<<< STOPPED HERE ON CONVERSION
+- Mcclure
 - Muphrid
 - Nemeria
 - Newton
@@ -155,6 +155,7 @@ All factions are fighting for control of contested planets
 - Oborum Prime
 - Oborum Proxima
 - Rutherford
+- Tau Ceti
 - Vega
 - Zosma
 
@@ -162,3 +163,8 @@ All factions are fighting for control of contested planets
 
 - Heinlein
 - Linnaeus
+- Nirvana
+- Ophion
+- Porrima
+- Rivera
+- Van Maanen's Star

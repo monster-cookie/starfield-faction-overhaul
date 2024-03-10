@@ -1,5 +1,10 @@
 # Venworks Faction Overhaul
 
+## Version 1.0.4
+* Fully utilizing StarSim's coming faction map
+* Factions only need CrimeFaction for the starmap faction tag on the system and this doesn't mess up planetary looting as long as you don't put it at the planet level too. 
+* Restructuring creature vs faction relations again to try and stop the blind attacking of peaceful creatures
+
 ## Version 1.0.3
 * Typo on a non-used title on a Keyword title JaeDL found (English Majors).
 * Removed the non-hostile hostile UC Troops 
