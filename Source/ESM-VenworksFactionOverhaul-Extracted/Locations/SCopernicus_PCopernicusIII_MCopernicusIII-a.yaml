@@ -1,0 +1,17 @@
+FormKey: 01AD31:Starfield.esm
+EditorID: SCopernicus_PCopernicusIII_MCopernicusIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Copernicus III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AD2E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 76816
+PlanetID: 10

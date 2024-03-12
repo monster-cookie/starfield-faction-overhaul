@@ -1,0 +1,20 @@
+FormKey: 061587:Starfield.esm
+EditorID: SArcturus
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Arcturus
+Keywords:
+- 00149F:Starfield.esm
+- 000805:VenworksFactionOverhaul.esm
+- 12179A:Starfield.esm
+Faction: 26FB5B:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 15
+UnknownDATA2: 6400
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69451
+PlanetID: 0

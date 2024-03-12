@@ -1,0 +1,18 @@
+FormKey: 01AC78:Starfield.esm
+EditorID: SMaheo_PMaheoVII_MMaheoVII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Maheo VII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AC75:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118988
+PlanetID: 12

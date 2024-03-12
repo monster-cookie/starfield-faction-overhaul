@@ -1,0 +1,21 @@
+FormKey: 061542:Starfield.esm
+EditorID: SNewton
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Newton
+Keywords:
+- 00149F:Starfield.esm
+- 1EF941:Starfield.esm
+- 000805:VenworksFactionOverhaul.esm
+- 12179A:Starfield.esm
+Faction: 26FB5B:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 55
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91756
+PlanetID: 0

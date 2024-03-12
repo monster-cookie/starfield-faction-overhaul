@@ -1,0 +1,27 @@
+FormKey: 01B25E:Starfield.esm
+EditorID: SVega_PVegaI_MVegaI-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Vega I-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+- 12179B:Starfield.esm
+- 1998F6:Starfield.esm
+- 283580:Starfield.esm
+- 283581:Starfield.esm
+- 283582:Starfield.esm
+- 283585:Starfield.esm
+- 294969:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B255:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 90979
+PlanetID: 6

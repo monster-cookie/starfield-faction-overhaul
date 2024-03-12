@@ -1,0 +1,21 @@
+FormKey: 061571:Starfield.esm
+EditorID: SMaheo
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Maheo
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B9:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 1
+UnknownDATA2: 2560
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118988
+PlanetID: 0

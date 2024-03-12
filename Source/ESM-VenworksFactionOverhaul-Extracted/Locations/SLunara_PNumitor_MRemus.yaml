@@ -1,0 +1,18 @@
+FormKey: 01AEEB:Starfield.esm
+EditorID: SLunara_PNumitor_MRemus
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Remus
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AED9:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83865
+PlanetID: 11

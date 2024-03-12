@@ -1,0 +1,17 @@
+FormKey: 01AE9F:Starfield.esm
+EditorID: SHeisenberg_PHeisenbergI
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Heisenberg I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061559:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83344
+PlanetID: 1

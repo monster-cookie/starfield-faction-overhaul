@@ -1,0 +1,17 @@
+FormKey: 01AA9B:Starfield.esm
+EditorID: SAlphaAndraste_PAlphaAndrasteIV
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Alpha Andraste IV
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 000804:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 061589:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 5325
+PlanetID: 4

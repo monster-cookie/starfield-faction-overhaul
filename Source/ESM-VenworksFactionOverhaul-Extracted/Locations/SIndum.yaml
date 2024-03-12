@@ -1,0 +1,21 @@
+FormKey: 061557:Starfield.esm
+EditorID: SIndum
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Indum
+Keywords:
+- 00149F:Starfield.esm
+- 05BD8B:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+Faction: 05BD93:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 20
+UnknownDATA2: 7680
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119135
+PlanetID: 0

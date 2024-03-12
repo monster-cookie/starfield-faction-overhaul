@@ -1,0 +1,17 @@
+FormKey: 1E7576:Starfield.esm
+EditorID: SVanMaanensStar_PVanMaanenI
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Van Maanen I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 0615A1:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 3820
+PlanetID: 1

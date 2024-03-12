@@ -1,0 +1,19 @@
+FormKey: 01ABE9:Starfield.esm
+EditorID: SCheyenne_PAkila_MAntharum
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Antharum
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01ABE3:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72432
+PlanetID: 13

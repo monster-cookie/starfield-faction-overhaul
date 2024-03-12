@@ -1,0 +1,18 @@
+FormKey: 01B62D:Starfield.esm
+EditorID: SSyrma_PSyrmaIII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Syrma III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 06152E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69479
+PlanetID: 3

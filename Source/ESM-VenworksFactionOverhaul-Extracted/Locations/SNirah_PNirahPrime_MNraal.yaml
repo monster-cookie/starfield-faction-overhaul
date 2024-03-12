@@ -1,0 +1,17 @@
+FormKey: 06093B:Starfield.esm
+EditorID: SNirah_PNirahPrime_MNraal
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: N'raal
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 060938:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 77172
+PlanetID: 7

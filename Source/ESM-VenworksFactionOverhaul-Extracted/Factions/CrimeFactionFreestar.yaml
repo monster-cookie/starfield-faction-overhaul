@@ -1,0 +1,32 @@
+FormKey: 0638E5:Starfield.esm
+EditorID: CrimeFactionFreestar
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Freestar Collective
+Relations:
+- Target: 2BAD22:Starfield.esm
+  Reaction: Friend
+Keyword: 0546DF:Starfield.esm
+Flags:
+- HiddenFromPC
+- TrackCrime
+- CrimeGoldUseDefaults
+- CanBeOwner
+SharedCrimeFactionList: 1EBAFC:Starfield.esm
+CrimeValues:
+  Arrest: True
+  AttackOnSight: True
+  Murder: 15000
+  Assault: 650
+  Trespass: 350
+  Pickpocket: 500
+  StealMult: 0.5
+  Escape: 1500
+  WerewolfUnused: 1500
+  Unknown2: 999519420
+PRIS: 0xEFB805004DC10200EDB80500EEB80500ECB8050069CA2100053602005DD22C0012CF150011CF150013801200EEFD2C00F6510900148012000AB10900AAB0150029FB2600A7B01500A9B01500A8B01500
+VendorValues:
+  EndHour: 24
+  BuysStolenItems: True
+  BuysNonStolenItems: True

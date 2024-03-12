@@ -1,0 +1,17 @@
+FormKey: 01B7FB:Starfield.esm
+EditorID: SCelebrai_PCelebraiI
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Celebrai I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061524:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 86475
+PlanetID: 1

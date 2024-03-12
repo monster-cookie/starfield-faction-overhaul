@@ -1,0 +1,17 @@
+FormKey: 01A9A3:Starfield.esm
+EditorID: SBara_PBaraIII_MBaraIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bara III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A9A0:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 65515
+PlanetID: 10

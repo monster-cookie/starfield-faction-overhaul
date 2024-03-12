@@ -1,0 +1,18 @@
+FormKey: 01A636:Starfield.esm
+EditorID: SCarinae_PCarinaeIII_MCarinaeIII-d
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Carinae III-d
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 294969:Starfield.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A62D:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118021
+PlanetID: 10

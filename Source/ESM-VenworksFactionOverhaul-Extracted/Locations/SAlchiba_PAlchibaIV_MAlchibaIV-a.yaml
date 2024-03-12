@@ -1,0 +1,17 @@
+FormKey: 01A82C:Starfield.esm
+EditorID: SAlchiba_PAlchibaIV_MAlchibaIV-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Alchiba IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283585:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A829:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 59020
+PlanetID: 13

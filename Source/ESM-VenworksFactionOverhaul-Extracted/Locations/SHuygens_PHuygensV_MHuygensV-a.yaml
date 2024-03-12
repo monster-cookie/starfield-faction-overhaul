@@ -1,0 +1,17 @@
+FormKey: 01B93A:Starfield.esm
+EditorID: SHuygens_PHuygensV_MHuygensV-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Huygens V-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B937:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73082
+PlanetID: 15

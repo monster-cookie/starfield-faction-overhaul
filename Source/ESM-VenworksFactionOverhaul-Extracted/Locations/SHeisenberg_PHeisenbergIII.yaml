@@ -1,0 +1,17 @@
+FormKey: 01AEA5:Starfield.esm
+EditorID: SHeisenberg_PHeisenbergIII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Heisenberg III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061559:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83344
+PlanetID: 3

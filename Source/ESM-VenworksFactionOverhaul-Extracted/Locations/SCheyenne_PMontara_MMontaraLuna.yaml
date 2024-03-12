@@ -1,0 +1,21 @@
+FormKey: 01AC0D:Starfield.esm
+EditorID: SCheyenne_PMontara_MMontaraLuna
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Montara Luna
+Keywords:
+- 016010:Starfield.esm
+- 062F2F:Starfield.esm
+- 070A54:Starfield.esm
+- 1998F6:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+UnknownDATA2: 16
+ParentLocation: 01ABFE:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72432
+PlanetID: 18

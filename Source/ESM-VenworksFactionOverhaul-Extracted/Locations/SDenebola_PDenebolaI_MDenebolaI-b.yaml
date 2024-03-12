@@ -1,0 +1,18 @@
+FormKey: 01A759:Starfield.esm
+EditorID: SDenebola_PDenebolaI_MDenebolaI-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Denebola I-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01A753:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 57459
+PlanetID: 6

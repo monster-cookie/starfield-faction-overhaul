@@ -1,0 +1,18 @@
+FormKey: 01AC59:Starfield.esm
+EditorID: SMaheo_PMaheoIV
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Maheo IV
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 061571:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118988
+PlanetID: 4

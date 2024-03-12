@@ -1,0 +1,18 @@
+FormKey: 01B07B:Starfield.esm
+EditorID: SNemeria_PNemeriaVI_MNemeriaVI-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nemeria VI-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 1998F6:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B072:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 84604
+PlanetID: 19

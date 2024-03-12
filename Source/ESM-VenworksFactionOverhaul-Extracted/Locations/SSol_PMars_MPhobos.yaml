@@ -1,0 +1,19 @@
+FormKey: 01B738:Starfield.esm
+EditorID: SSol_PMars_MPhobos
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Phobos
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B735:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 0
+PlanetID: 12

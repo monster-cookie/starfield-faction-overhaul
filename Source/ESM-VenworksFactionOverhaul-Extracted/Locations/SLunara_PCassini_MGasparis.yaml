@@ -1,0 +1,19 @@
+FormKey: 01AF00:Starfield.esm
+EditorID: SLunara_PCassini_MGasparis
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Gasparis
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AEF7:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83865
+PlanetID: 16

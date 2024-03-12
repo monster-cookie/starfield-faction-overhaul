@@ -1,0 +1,17 @@
+FormKey: 01A70F:Starfield.esm
+EditorID: SAlphaTirna_PTirnaV
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Tirna V
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283585:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 06159C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 57270
+PlanetID: 5

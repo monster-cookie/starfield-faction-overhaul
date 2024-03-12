@@ -1,0 +1,17 @@
+FormKey: 01ADE5:Starfield.esm
+EditorID: SSparta_PSpartaVIII_MSpartaVIII-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Sparta VIII-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01ADE2:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 79252
+PlanetID: 20

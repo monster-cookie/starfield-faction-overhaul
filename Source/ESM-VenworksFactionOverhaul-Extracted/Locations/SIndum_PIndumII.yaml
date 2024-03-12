@@ -1,0 +1,19 @@
+FormKey: 01AF7F:Starfield.esm
+EditorID: SIndum_PIndumII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Indum II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 061557:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119135
+PlanetID: 2

@@ -1,0 +1,17 @@
+FormKey: 01B62A:Starfield.esm
+EditorID: SSyrma_PSyrmaII_MSyrmaII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Syrma II-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B627:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69479
+PlanetID: 11

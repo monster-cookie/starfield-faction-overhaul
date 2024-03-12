@@ -1,0 +1,18 @@
+FormKey: 01B377:Starfield.esm
+EditorID: SBessel_PBesselII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bessel II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 06153D:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 103883
+PlanetID: 2

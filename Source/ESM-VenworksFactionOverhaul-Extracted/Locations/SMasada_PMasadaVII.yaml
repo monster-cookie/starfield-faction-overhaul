@@ -1,0 +1,19 @@
+FormKey: 01AE8C:Starfield.esm
+EditorID: SMasada_PMasadaVII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Masada VII
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 06155A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83021
+PlanetID: 7

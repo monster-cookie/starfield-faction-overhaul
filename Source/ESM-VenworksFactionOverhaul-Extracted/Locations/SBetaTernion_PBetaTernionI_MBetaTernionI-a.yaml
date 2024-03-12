@@ -1,0 +1,17 @@
+FormKey: 3D9DC5:Starfield.esm
+EditorID: SBetaTernion_PBetaTernionI_MBetaTernionI-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Beta Ternion I-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 3D9DC2:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119225
+PlanetID: 26

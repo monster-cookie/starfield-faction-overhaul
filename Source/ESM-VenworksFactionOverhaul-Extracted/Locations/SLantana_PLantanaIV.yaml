@@ -1,0 +1,18 @@
+FormKey: 01A779:Starfield.esm
+EditorID: SLantana_PLantanaIV
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Lantana IV
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061599:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 57584
+PlanetID: 4

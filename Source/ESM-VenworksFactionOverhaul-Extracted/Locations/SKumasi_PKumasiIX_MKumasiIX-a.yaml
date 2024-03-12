@@ -1,0 +1,18 @@
+FormKey: 01A6F0:Starfield.esm
+EditorID: SKumasi_PKumasiIX_MKumasiIX-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Kumasi IX-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01A6ED:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 56828
+PlanetID: 17

@@ -1,0 +1,17 @@
+FormKey: 01AD41:Starfield.esm
+EditorID: SCopernicus_PCopernicusVII_MCopernicusVII-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Copernicus VII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AD3E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 76816
+PlanetID: 11

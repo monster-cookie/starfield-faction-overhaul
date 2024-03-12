@@ -1,0 +1,18 @@
+FormKey: 3D9E07:Starfield.esm
+EditorID: SUrsaeMinoris_PUrsaMinorI_MUrsaMinorI-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Ursa Minor I-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 3D9E01:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119222
+PlanetID: 20

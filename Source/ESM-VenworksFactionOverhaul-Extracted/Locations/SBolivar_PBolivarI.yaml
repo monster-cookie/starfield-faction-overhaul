@@ -1,0 +1,19 @@
+FormKey: 01B3BE:Starfield.esm
+EditorID: SBolivar_PBolivarI
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bolivar I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 0615AE:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118818
+PlanetID: 1

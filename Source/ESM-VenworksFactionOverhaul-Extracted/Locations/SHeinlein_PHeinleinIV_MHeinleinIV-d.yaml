@@ -1,0 +1,16 @@
+FormKey: 01B670:Starfield.esm
+EditorID: SHeinlein_PHeinleinIV_MHeinleinIV-d
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Heinlein IV-d
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B667:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71731
+PlanetID: 17

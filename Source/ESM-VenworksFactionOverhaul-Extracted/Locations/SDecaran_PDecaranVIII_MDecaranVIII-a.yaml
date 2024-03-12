@@ -1,0 +1,17 @@
+FormKey: 01B56F:Starfield.esm
+EditorID: SDecaran_PDecaranVIII_MDecaranVIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Decaran VIII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B56C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119105
+PlanetID: 16

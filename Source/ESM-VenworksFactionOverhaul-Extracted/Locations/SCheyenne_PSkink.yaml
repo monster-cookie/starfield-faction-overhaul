@@ -1,0 +1,19 @@
+FormKey: 01ABE0:Starfield.esm
+EditorID: SCheyenne_PSkink
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Skink
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061572:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72432
+PlanetID: 1

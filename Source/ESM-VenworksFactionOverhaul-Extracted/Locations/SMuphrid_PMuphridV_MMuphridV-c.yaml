@@ -1,0 +1,17 @@
+FormKey: 01AA33:Starfield.esm
+EditorID: SMuphrid_PMuphridV_MMuphridV-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Muphrid V-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AA2A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 67711
+PlanetID: 18

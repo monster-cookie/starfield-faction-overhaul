@@ -1,0 +1,18 @@
+FormKey: 01A67C:Starfield.esm
+EditorID: SUrsaeMajoris_PUrsaMajorI_MUrsaMajorI-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Ursa Major I-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01A679:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118742
+PlanetID: 5

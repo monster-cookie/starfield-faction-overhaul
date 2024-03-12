@@ -1,0 +1,16 @@
+FormKey: 01B3E0:Starfield.esm
+EditorID: SRivera_PRiveraV_MRiveraV-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Rivera V-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B3DD:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118819
+PlanetID: 13

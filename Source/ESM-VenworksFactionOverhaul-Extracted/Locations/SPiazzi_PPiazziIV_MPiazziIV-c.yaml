@@ -1,0 +1,19 @@
+FormKey: 01B346:Starfield.esm
+EditorID: SPiazzi_PPiazziIV_MPiazziIV-c
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Piazzi IV-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B343:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 103879
+PlanetID: 12

@@ -1,0 +1,17 @@
+FormKey: 01B45B:Starfield.esm
+EditorID: SPyraas_PPyraasII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Pyraas II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061536:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 68415
+PlanetID: 2

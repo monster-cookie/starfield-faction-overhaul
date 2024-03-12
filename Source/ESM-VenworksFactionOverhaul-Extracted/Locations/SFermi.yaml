@@ -1,0 +1,20 @@
+FormKey: 06151C:Starfield.esm
+EditorID: SFermi
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Fermi
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B6:Starfield.esm
+- 283580:Starfield.esm
+Faction: 27872A:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 75
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73788
+PlanetID: 0

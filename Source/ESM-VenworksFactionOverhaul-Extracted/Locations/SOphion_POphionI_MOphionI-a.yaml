@@ -1,0 +1,16 @@
+FormKey: 060947:Starfield.esm
+EditorID: SOphion_POphionI_MOphionI-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Ophion I-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 060944:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 74309
+PlanetID: 2

@@ -1,0 +1,16 @@
+FormKey: 061543:Starfield.esm
+EditorID: SLinnaeus
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Linnaeus
+Keywords:
+- 00149F:Starfield.esm
+SystemLevel: 45
+UnknownDATA2: 14080
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91156
+PlanetID: 0

@@ -1,0 +1,17 @@
+FormKey: 01AD82:Starfield.esm
+EditorID: SSerpentis_PSerpentisV_MSerpentisV-d
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Serpentis V-d
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AD7C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 76835
+PlanetID: 12

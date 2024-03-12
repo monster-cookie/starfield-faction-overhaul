@@ -1,0 +1,21 @@
+FormKey: 061553:Starfield.esm
+EditorID: SZetaOphiuchi
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Zeta Ophiuchi
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B9:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 50
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119147
+PlanetID: 0

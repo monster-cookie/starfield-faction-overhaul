@@ -1,0 +1,17 @@
+FormKey: 01AE38:Starfield.esm
+EditorID: SBradbury_PBradburyIII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bradbury III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061560:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 81444
+PlanetID: 3

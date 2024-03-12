@@ -1,0 +1,18 @@
+FormKey: 01AD5B:Starfield.esm
+EditorID: SCopernicusMinor_PCopernicusMinorI_MCopernicusMinorI-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Copernicus Minor I-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AD58:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119039
+PlanetID: 3

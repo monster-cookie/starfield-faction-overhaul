@@ -1,0 +1,21 @@
+FormKey: 3D9E00:Starfield.esm
+EditorID: SUrsaeMinoris
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Ursae Minoris
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B8:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 20
+UnknownDATA2: 10240
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119222
+PlanetID: 0

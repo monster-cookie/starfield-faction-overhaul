@@ -1,0 +1,17 @@
+FormKey: 01A9BF:Starfield.esm
+EditorID: SBara_PBaraVII_MBaraVII-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bara VII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A9BC:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 65515
+PlanetID: 15

@@ -1,0 +1,18 @@
+FormKey: 01B2BC:Starfield.esm
+EditorID: SNewton_PNewtonIII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Newton III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061542:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91756
+PlanetID: 3

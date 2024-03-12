@@ -1,0 +1,17 @@
+FormKey: 061537:Starfield.esm
+EditorID: SPyraas_PPyraasIII_MPyraasIII-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Pyraas III-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B461:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 68415
+PlanetID: 23

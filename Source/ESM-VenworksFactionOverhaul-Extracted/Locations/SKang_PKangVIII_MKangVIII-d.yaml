@@ -1,0 +1,17 @@
+FormKey: 01B7F7:Starfield.esm
+EditorID: SKang_PKangVIII_MKangVIII-d
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Kang VIII-d
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B7EB:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71517
+PlanetID: 21

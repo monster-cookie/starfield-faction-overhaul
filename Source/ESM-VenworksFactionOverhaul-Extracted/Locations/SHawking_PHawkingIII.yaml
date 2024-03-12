@@ -1,0 +1,17 @@
+FormKey: 01B906:Starfield.esm
+EditorID: SHawking_PHawkingIII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Hawking III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 06151B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73489
+PlanetID: 3

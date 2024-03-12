@@ -1,0 +1,16 @@
+FormKey: 06152D:Starfield.esm
+EditorID: SHeinlein
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Heinlein
+Keywords:
+- 00149F:Starfield.esm
+SystemLevel: 45
+UnknownDATA2: 14080
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71731
+PlanetID: 0

@@ -1,0 +1,21 @@
+FormKey: 06159F:Starfield.esm
+EditorID: SUrsaeMajoris
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Ursae Majoris
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B8:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 30
+UnknownDATA2: 10240
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118742
+PlanetID: 0

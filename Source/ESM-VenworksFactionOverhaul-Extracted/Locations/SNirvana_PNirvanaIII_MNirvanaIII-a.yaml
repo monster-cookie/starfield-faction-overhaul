@@ -1,0 +1,16 @@
+FormKey: 01A80A:Starfield.esm
+EditorID: SNirvana_PNirvanaIII_MNirvanaIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Nirvana III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A807:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 58401
+PlanetID: 7

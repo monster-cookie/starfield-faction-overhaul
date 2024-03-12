@@ -1,0 +1,23 @@
+FormKey: 0615AE:Starfield.esm
+EditorID: SBolivar
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bolivar
+Keywords:
+- 00149F:Starfield.esm
+- 1159EB:Starfield.esm
+- 1EF941:Starfield.esm
+- 1E79B9:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 35
+UnknownDATA2: 11520
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118818
+PlanetID: 0

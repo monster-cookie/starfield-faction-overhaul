@@ -1,0 +1,17 @@
+FormKey: 01B3B7:Starfield.esm
+EditorID: SCharybdis_PCharybdisVIII_MCharybdisVIII-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Charybdis VIII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B3B1:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 56075
+PlanetID: 20

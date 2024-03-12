@@ -1,0 +1,19 @@
+FormKey: 3D9E14:Starfield.esm
+EditorID: SToliman_PTolimanI
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Toliman I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 1E79B7:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 3D9E13:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119223
+PlanetID: 28

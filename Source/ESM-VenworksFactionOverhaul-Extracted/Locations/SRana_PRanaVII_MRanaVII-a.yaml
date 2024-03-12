@@ -1,0 +1,17 @@
+FormKey: 01B50A:Starfield.esm
+EditorID: SRana_PRanaVII_MRanaVII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Rana VII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B504:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 69766
+PlanetID: 23

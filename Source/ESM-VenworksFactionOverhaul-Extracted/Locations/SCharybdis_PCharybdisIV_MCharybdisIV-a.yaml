@@ -1,0 +1,17 @@
+FormKey: 01B390:Starfield.esm
+EditorID: SCharybdis_PCharybdisIV_MCharybdisIV-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Charybdis IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B38D:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 56075
+PlanetID: 11

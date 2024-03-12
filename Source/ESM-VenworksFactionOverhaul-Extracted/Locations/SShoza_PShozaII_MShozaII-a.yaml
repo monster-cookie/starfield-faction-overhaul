@@ -1,0 +1,17 @@
+FormKey: 01A9D5:Starfield.esm
+EditorID: SShoza_PShozaII_MShozaII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Shoza II-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A9D2:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 67063
+PlanetID: 12

@@ -1,0 +1,22 @@
+FormKey: 061568:Starfield.esm
+EditorID: SSparta
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Sparta
+Keywords:
+- 00149F:Starfield.esm
+- 1159EB:Starfield.esm
+- 1EF941:Starfield.esm
+- 1E79B6:Starfield.esm
+- 283580:Starfield.esm
+Faction: 27872A:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 60
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 79252
+PlanetID: 0

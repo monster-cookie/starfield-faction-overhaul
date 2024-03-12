@@ -1,0 +1,18 @@
+FormKey: 01B004:Starfield.esm
+EditorID: SXiOphiuchi_PXiOphiuchiVIII_MXiOphiuchiVIII-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Xi Ophiuchi VIII-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AFFB:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 84636
+PlanetID: 22

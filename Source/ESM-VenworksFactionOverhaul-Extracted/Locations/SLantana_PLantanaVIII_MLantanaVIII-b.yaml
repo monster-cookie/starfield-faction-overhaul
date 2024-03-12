@@ -1,0 +1,17 @@
+FormKey: 01A797:Starfield.esm
+EditorID: SLantana_PLantanaVIII_MLantanaVIII-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Lantana VIII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A78B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 57584
+PlanetID: 17

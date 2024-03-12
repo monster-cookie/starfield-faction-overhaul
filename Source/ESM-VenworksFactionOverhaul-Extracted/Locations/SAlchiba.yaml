@@ -1,0 +1,20 @@
+FormKey: 061593:Starfield.esm
+EditorID: SAlchiba
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Alchiba
+Keywords:
+- 00149F:Starfield.esm
+- 000816:VenworksFactionOverhaul.esm
+- 283585:Starfield.esm
+Faction: 27BB8C:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 50
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 59020
+PlanetID: 0

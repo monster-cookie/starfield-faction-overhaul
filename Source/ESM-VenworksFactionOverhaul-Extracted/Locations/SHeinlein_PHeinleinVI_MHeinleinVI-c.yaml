@@ -1,0 +1,16 @@
+FormKey: 01B688:Starfield.esm
+EditorID: SHeinlein_PHeinleinVI_MHeinleinVI-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Heinlein VI-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B685:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71731
+PlanetID: 20

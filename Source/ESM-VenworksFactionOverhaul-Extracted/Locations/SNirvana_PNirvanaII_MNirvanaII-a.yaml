@@ -1,0 +1,16 @@
+FormKey: 01A804:Starfield.esm
+EditorID: SNirvana_PNirvanaII_MNirvanaII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Nirvana II-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A801:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 58401
+PlanetID: 6

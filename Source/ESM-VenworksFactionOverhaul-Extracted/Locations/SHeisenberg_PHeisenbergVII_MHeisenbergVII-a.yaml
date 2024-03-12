@@ -1,0 +1,17 @@
+FormKey: 01AEC0:Starfield.esm
+EditorID: SHeisenberg_PHeisenbergVII_MHeisenbergVII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Heisenberg VII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AEBD:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83344
+PlanetID: 16

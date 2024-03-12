@@ -1,0 +1,19 @@
+FormKey: 01A974:Starfield.esm
+EditorID: SVolii_PVoliiBeta_MVoliiDelta
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Volii Delta
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A971:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 64720
+PlanetID: 8

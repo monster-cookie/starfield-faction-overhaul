@@ -1,0 +1,16 @@
+FormKey: 01B290:Starfield.esm
+EditorID: SLinnaeus_PLinnaeusIII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Linnaeus III
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061543:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91156
+PlanetID: 3

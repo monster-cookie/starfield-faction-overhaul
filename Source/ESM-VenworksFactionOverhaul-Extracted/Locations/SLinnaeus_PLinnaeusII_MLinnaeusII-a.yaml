@@ -1,0 +1,16 @@
+FormKey: 01B28B:Starfield.esm
+EditorID: SLinnaeus_PLinnaeusII_MLinnaeusII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Linnaeus II-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B277:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91156
+PlanetID: 10

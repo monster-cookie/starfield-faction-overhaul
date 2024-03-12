@@ -1,0 +1,16 @@
+FormKey: 01B29F:Starfield.esm
+EditorID: SLinnaeus_PLinnaeusIV_MLinnaeusIV-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Linnaeus IV-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B296:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91156
+PlanetID: 14

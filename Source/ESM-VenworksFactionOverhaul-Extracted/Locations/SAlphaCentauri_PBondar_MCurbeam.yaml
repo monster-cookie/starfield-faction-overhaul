@@ -1,0 +1,19 @@
+FormKey: 01AB22:Starfield.esm
+EditorID: SAlphaCentauri_PBondar_MCurbeam
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Curbeam
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 1E79B7:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AB1C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71456
+PlanetID: 7

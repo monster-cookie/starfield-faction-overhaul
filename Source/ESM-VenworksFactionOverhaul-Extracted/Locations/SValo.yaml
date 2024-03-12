@@ -1,0 +1,22 @@
+FormKey: 0615AF:Starfield.esm
+EditorID: SValo
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Valo
+Keywords:
+- 00149F:Starfield.esm
+- 061990:Starfield.esm
+- 1E79B9:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 5
+UnknownDATA2: 3840
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119198
+PlanetID: 0

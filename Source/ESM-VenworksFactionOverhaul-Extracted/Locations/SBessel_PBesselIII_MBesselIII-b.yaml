@@ -1,0 +1,19 @@
+FormKey: 01B380:Starfield.esm
+EditorID: SBessel_PBesselIII_MBesselIII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Bessel III-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B37A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 103883
+PlanetID: 6

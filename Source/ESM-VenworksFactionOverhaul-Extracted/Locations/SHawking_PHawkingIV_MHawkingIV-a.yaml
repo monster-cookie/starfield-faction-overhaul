@@ -1,0 +1,17 @@
+FormKey: 01B90C:Starfield.esm
+EditorID: SHawking_PHawkingIV_MHawkingIV-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Hawking IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B909:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 73489
+PlanetID: 9

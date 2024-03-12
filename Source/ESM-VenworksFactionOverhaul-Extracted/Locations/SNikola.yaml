@@ -1,0 +1,21 @@
+FormKey: 061531:Starfield.esm
+EditorID: SNikola
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nikola
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B9:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 40
+UnknownDATA2: 12800
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119217
+PlanetID: 0

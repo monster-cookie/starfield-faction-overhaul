@@ -1,0 +1,18 @@
+FormKey: 01B78A:Starfield.esm
+EditorID: SLeonis_PLeonisI
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Leonis I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061526:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 55476
+PlanetID: 1

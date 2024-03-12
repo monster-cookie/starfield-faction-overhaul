@@ -1,0 +1,18 @@
+FormKey: 06092F:Starfield.esm
+EditorID: SNirah_PDelah
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Delah
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 0615B6:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 77172
+PlanetID: 2

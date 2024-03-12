@@ -1,0 +1,17 @@
+FormKey: 01B5F3:Starfield.esm
+EditorID: SVerne_PVerneII_MVerneII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Verne II-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B5F0:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 63947
+PlanetID: 10

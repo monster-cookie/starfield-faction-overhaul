@@ -1,0 +1,18 @@
+FormKey: 01B24E:Starfield.esm
+EditorID: SLeviathan_PLeviathanVI_MLeviathanVI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Leviathan VI-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B248:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 89684
+PlanetID: 11

@@ -1,0 +1,36 @@
+FormKey: 05BD93:Starfield.esm
+EditorID: CrimeFactionUC
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: United Colonies
+Relations:
+- Target: 05BD99:Starfield.esm
+  Reaction: Friend
+- Target: 110C31:Starfield.esm
+  Reaction: Enemy
+- Target: 1CD8D3:Starfield.esm
+  Reaction: Ally
+Keyword: 0546DC:Starfield.esm
+Flags:
+- HiddenFromPC
+- TrackCrime
+- CrimeGoldUseDefaults
+- CanBeOwner
+SharedCrimeFactionList: 1EBAFC:Starfield.esm
+CrimeValues:
+  Arrest: True
+  AttackOnSight: True
+  Murder: 15000
+  Assault: 650
+  Trespass: 350
+  Pickpocket: 500
+  StealMult: 0.5
+  Escape: 1500
+  WerewolfUnused: 1500
+  Unknown2: 999519420
+PRIS: 0xF75B2B00053602005DD22C001E032C00581C1A008A66200017C90F0088662000896620000267200010CF150019801B0006CF15000FCF150005CF1500
+VendorValues:
+  EndHour: 24
+  BuysStolenItems: True
+  BuysNonStolenItems: True

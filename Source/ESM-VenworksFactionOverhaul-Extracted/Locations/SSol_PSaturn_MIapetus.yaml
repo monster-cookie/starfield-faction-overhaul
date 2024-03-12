@@ -1,0 +1,20 @@
+FormKey: 01B765:Starfield.esm
+EditorID: SSol_PSaturn_MIapetus
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Iapetus
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 1E79B7:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B750:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 0
+PlanetID: 25

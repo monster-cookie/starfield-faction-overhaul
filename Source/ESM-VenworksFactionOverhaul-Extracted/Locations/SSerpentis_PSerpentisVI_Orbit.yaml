@@ -1,0 +1,16 @@
+FormKey: 01AD8D:Starfield.esm
+EditorID: SSerpentis_PSerpentisVI_Orbit
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Serpentis VI
+Keywords:
+- 016504:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AD8B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 76835
+PlanetID: 6

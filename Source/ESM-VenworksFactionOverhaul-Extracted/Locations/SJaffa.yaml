@@ -1,0 +1,21 @@
+FormKey: 061567:Starfield.esm
+EditorID: SJaffa
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Jaffa
+Keywords:
+- 00149F:Starfield.esm
+- 283581:Starfield.esm
+- 000803:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+Faction: 27028D:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 35
+UnknownDATA2: 11520
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 79431
+PlanetID: 0

@@ -1,0 +1,17 @@
+FormKey: 01ADCA:Starfield.esm
+EditorID: SSparta_PSpartaVI
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Sparta VI
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061568:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 79252
+PlanetID: 6

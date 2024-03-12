@@ -1,0 +1,18 @@
+FormKey: 01A53C:Starfield.esm
+EditorID: SBardeen_PBardeenI
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bardeen I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 0615AC:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 90582
+PlanetID: 1

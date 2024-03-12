@@ -1,0 +1,19 @@
+FormKey: 0615A6:Starfield.esm
+EditorID: SProcyonA_PProcyonIII_MProcyonIII-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Procyon III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A5E2:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 37173
+PlanetID: 16

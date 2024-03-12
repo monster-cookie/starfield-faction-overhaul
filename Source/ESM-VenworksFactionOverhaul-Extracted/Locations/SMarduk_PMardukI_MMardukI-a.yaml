@@ -1,0 +1,17 @@
+FormKey: 01A86D:Starfield.esm
+EditorID: SMarduk_PMardukI_MMardukI-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Marduk I-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283585:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A86A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 60805
+PlanetID: 11

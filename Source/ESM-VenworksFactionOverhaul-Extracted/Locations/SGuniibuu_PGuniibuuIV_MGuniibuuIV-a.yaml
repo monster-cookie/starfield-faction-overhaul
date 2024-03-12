@@ -1,0 +1,18 @@
+FormKey: 01AF45:Starfield.esm
+EditorID: SGuniibuu_PGuniibuuIV_MGuniibuuIV-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Guniibuu IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AF3F:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 84147
+PlanetID: 16

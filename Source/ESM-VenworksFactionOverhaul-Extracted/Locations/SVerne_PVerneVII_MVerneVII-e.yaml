@@ -1,0 +1,17 @@
+FormKey: 01B611:Starfield.esm
+EditorID: SVerne_PVerneVII_MVerneVII-e
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Verne VII-e
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B60B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 63947
+PlanetID: 15

@@ -1,0 +1,17 @@
+FormKey: 01ABA5:Starfield.esm
+EditorID: SFoucault_PFoucaultVIII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Foucault VIII
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061580:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72377
+PlanetID: 8

@@ -1,0 +1,21 @@
+FormKey: 061522:Starfield.esm
+EditorID: SMaal
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Maal
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B6:Starfield.esm
+- 283580:Starfield.esm
+- 1998F6:Starfield.esm
+Faction: 27872A:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 60
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 74746
+PlanetID: 0

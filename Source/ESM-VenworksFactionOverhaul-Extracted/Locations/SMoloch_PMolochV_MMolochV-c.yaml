@@ -1,0 +1,18 @@
+FormKey: 01AA7C:Starfield.esm
+EditorID: SMoloch_PMolochV_MMolochV-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Moloch V-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AA73:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 68463
+PlanetID: 12

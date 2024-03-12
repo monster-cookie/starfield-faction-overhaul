@@ -1,0 +1,20 @@
+FormKey: 3D9DF0:Starfield.esm
+EditorID: SBetaAndraste
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Beta Andraste
+Keywords:
+- 00149F:Starfield.esm
+- 294969:Starfield.esm
+- 000804:VenworksFactionOverhaul.esm
+Faction: 018EDE:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 20
+UnknownDATA2: 10240
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119221
+PlanetID: 0

@@ -1,0 +1,28 @@
+FormKey: 01B13D:Starfield.esm
+EditorID: SFeynman_PFeynmanVIII_MFeynmanVIII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Feynman VIII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+- 283581:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 023305:Starfield.esm
+- 12179B:Starfield.esm
+- 1998F6:Starfield.esm
+- 283580:Starfield.esm
+- 283582:Starfield.esm
+- 283585:Starfield.esm
+- 294969:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B131:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 86469
+PlanetID: 24

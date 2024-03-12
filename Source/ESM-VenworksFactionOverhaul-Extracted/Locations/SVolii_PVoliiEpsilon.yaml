@@ -1,0 +1,20 @@
+FormKey: 01A97D:Starfield.esm
+EditorID: SVolii_PVoliiEpsilon
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Volii Epsilon
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 06158E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 64720
+PlanetID: 3

@@ -1,0 +1,19 @@
+FormKey: 01B088:Starfield.esm
+EditorID: SSakharov_PBonner_MMirII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Mir II
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B085:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 85264
+PlanetID: 3

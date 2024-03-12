@@ -1,0 +1,21 @@
+FormKey: 0615B1:Starfield.esm
+EditorID: SLunara
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Lunara
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B9:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 25
+UnknownDATA2: 8960
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83865
+PlanetID: 0

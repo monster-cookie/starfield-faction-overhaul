@@ -1,0 +1,20 @@
+FormKey: 01B741:Starfield.esm
+EditorID: SSol_PJupiter
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Jupiter
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 1E79B7:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061527:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 0
+PlanetID: 5

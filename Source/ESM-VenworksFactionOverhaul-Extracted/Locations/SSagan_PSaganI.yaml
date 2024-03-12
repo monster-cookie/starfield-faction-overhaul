@@ -1,0 +1,19 @@
+FormKey: 0608FC:Starfield.esm
+EditorID: SSagan_PSaganI
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Sagan I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061528:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72717
+PlanetID: 1

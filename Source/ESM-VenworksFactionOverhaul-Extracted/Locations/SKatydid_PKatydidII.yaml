@@ -1,0 +1,17 @@
+FormKey: 01B81A:Starfield.esm
+EditorID: SKatydid_PKatydidII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Katydid II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283585:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061523:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 55539
+PlanetID: 2

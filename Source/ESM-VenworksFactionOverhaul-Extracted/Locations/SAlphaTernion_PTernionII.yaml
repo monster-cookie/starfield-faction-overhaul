@@ -1,0 +1,17 @@
+FormKey: 01B6C7:Starfield.esm
+EditorID: SAlphaTernion_PTernionII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Ternion II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 06152A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119060
+PlanetID: 2

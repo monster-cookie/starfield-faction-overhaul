@@ -1,0 +1,18 @@
+FormKey: 3D9E24:Starfield.esm
+EditorID: SThePup_PPupI
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Pup I
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 3D9E23:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119224
+PlanetID: 11

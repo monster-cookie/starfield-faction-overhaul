@@ -1,0 +1,16 @@
+FormKey: 01A8AD:Starfield.esm
+EditorID: SPorrima_PPorrimaII_MPorrimaII-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Porrima II-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A8AA:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 61748
+PlanetID: 10

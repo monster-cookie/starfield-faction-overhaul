@@ -1,0 +1,12 @@
+FormKey: 000807:VenworksFactionOverhaul.esm
+EditorID: SQ_Group_CND_SubjectIs_Military_TheFirst_Any
+FormVersion: 556
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Flags:
+  - OR
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetInFactionConditionData
+    FirstParameter: 000809:VenworksFactionOverhaul.esm
+  ComparisonValue: 1

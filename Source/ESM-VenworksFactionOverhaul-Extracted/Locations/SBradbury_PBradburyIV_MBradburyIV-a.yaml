@@ -1,0 +1,17 @@
+FormKey: 061561:Starfield.esm
+EditorID: SBradbury_PBradburyIV_MBradburyIV-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bradbury IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AE3B:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 81444
+PlanetID: 9

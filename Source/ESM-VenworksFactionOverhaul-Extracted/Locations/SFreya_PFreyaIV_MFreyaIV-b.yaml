@@ -1,0 +1,17 @@
+FormKey: 01ABBB:Starfield.esm
+EditorID: SFreya_PFreyaIV_MFreyaIV-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Freya IV-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01ABB5:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72341
+PlanetID: 12

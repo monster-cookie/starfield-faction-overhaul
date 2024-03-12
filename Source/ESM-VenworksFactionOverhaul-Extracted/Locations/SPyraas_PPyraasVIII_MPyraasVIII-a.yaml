@@ -1,0 +1,18 @@
+FormKey: 01B496:Starfield.esm
+EditorID: SPyraas_PPyraasVIII_MPyraasVIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Pyraas VIII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B488:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 68415
+PlanetID: 18

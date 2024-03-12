@@ -1,0 +1,17 @@
+FormKey: 01A863:Starfield.esm
+EditorID: SAlchiba_PAlchibaX_MAlchibaX-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Alchiba X-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283585:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A860:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 59020
+PlanetID: 25

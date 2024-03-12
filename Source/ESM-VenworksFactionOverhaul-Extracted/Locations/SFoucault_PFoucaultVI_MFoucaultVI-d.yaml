@@ -1,0 +1,17 @@
+FormKey: 01AB8D:Starfield.esm
+EditorID: SFoucault_PFoucaultVI_MFoucaultVI-d
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Foucault VI-d
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AB81:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72377
+PlanetID: 25

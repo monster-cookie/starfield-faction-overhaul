@@ -1,0 +1,17 @@
+FormKey: 01B7E5:Starfield.esm
+EditorID: SKang_PKangVII_MKangVII-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Kang VII-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B7DC:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71517
+PlanetID: 16

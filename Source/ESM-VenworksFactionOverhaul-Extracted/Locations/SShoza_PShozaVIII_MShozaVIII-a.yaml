@@ -1,0 +1,17 @@
+FormKey: 01AA05:Starfield.esm
+EditorID: SShoza_PShozaVIII_MShozaVIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Shoza VIII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01A9F9:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 67063
+PlanetID: 21

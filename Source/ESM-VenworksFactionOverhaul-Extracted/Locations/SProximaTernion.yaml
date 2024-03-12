@@ -1,0 +1,20 @@
+FormKey: 06152B:Starfield.esm
+EditorID: SProximaTernion
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Proxima Ternion
+Keywords:
+- 00149F:Starfield.esm
+- 000803:VenworksFactionOverhaul.esm
+- 283581:Starfield.esm
+Faction: 27028D:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 65
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119059
+PlanetID: 0

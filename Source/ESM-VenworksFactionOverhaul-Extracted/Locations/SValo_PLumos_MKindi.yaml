@@ -1,0 +1,19 @@
+FormKey: 01B1F8:Starfield.esm
+EditorID: SValo_PLumos_MKindi
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Kindi
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B1EF:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119198
+PlanetID: 11

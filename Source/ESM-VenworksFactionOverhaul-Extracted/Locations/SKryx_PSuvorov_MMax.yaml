@@ -1,0 +1,19 @@
+FormKey: 01ADAB:Starfield.esm
+EditorID: SKryx_PSuvorov_MMax
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Max
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+- 1998F6:Starfield.esm
+Faction: 010B30:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AD95:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 77022
+PlanetID: 9

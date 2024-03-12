@@ -1,0 +1,18 @@
+FormKey: 01A6DB:Starfield.esm
+EditorID: SKumasi_PKumasiVII_MKumasiVII-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Kumasi VII-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 000814:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01A6CF:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 56828
+PlanetID: 26

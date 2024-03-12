@@ -1,0 +1,17 @@
+FormKey: 01AB93:Starfield.esm
+EditorID: SFoucault_PFoucaultVII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Foucault VII
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061580:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72377
+PlanetID: 7

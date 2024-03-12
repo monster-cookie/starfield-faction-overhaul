@@ -1,0 +1,17 @@
+FormKey: 01AE57:Starfield.esm
+EditorID: SMcClure_PMcClureII_MMcClureII-c
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: McClure II-c
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AE4E:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119106
+PlanetID: 7

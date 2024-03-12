@@ -1,0 +1,17 @@
+FormKey: 01B2C2:Starfield.esm
+EditorID: SNewton_PNewtonV
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Newton V
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061542:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91756
+PlanetID: 5

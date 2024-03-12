@@ -1,0 +1,17 @@
+FormKey: 01AECC:Starfield.esm
+EditorID: SHeisenberg_PHeisenbergVIII_MHeisenbergVIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Heisenberg VIII-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AEC3:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83344
+PlanetID: 19

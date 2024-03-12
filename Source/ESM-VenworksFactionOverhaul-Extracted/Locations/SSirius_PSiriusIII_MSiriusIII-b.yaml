@@ -1,0 +1,19 @@
+FormKey: 01A5CD:Starfield.esm
+EditorID: SSirius_PSiriusIII_MSiriusIII-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Sirius III-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 1998F6:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01A5CA:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 32263
+PlanetID: 6

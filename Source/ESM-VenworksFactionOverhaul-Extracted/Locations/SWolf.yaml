@@ -1,0 +1,23 @@
+FormKey: 0615B3:Starfield.esm
+EditorID: SWolf
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Wolf
+Keywords:
+- 00149F:Starfield.esm
+- 05BD8B:Starfield.esm
+- 061990:Starfield.esm
+- 1159EB:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+Faction: 05BD93:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 5
+UnknownDATA2: 3840
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118720
+PlanetID: 0

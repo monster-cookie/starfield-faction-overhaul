@@ -1,0 +1,18 @@
+FormKey: 01B59A:Starfield.esm
+EditorID: SNikola_PNikolaVI_MNikolaVI-b
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Nikola VI-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+- 000815:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01B594:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119217
+PlanetID: 17

@@ -1,0 +1,18 @@
+FormKey: 01AE2F:Starfield.esm
+EditorID: SBradbury_PBradburyI_MBradburyI-b
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bradbury I-b
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 12179A:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01AE2C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 81444
+PlanetID: 7

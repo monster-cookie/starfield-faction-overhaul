@@ -1,0 +1,22 @@
+FormKey: 0615AC:Starfield.esm
+EditorID: SBardeen
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Bardeen
+Keywords:
+- 00149F:Starfield.esm
+- 1159EB:Starfield.esm
+- 1EF941:Starfield.esm
+- 000805:VenworksFactionOverhaul.esm
+- 12179A:Starfield.esm
+Faction: 26FB5B:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 70
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 90582
+PlanetID: 0

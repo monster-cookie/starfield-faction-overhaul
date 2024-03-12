@@ -1,0 +1,17 @@
+FormKey: 01B6FE:Starfield.esm
+EditorID: SEnlil_PEnlilII
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Enlil II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283581:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061529:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 78498
+PlanetID: 2

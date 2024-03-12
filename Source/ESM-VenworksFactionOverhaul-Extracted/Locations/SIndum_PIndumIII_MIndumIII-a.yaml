@@ -1,0 +1,18 @@
+FormKey: 01AF88:Starfield.esm
+EditorID: SIndum_PIndumIII_MIndumIII-a
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Indum III-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+UnknownDATA2: 16
+ParentLocation: 01AF82:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119135
+PlanetID: 9

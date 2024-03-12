@@ -1,0 +1,17 @@
+FormKey: 01B535:Starfield.esm
+EditorID: SStrix_PStrixIV_MStrixIV-a
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Strix IV-a
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 01B532:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 72407
+PlanetID: 9

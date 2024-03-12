@@ -1,0 +1,17 @@
+FormKey: 060935:Starfield.esm
+EditorID: SNirah_PKazarah_MKazaal
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Ka'zaal
+Keywords:
+- 016010:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 060932:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 77172
+PlanetID: 5

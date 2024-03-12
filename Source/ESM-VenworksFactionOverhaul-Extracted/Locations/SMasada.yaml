@@ -1,0 +1,22 @@
+FormKey: 06155A:Starfield.esm
+EditorID: SMasada
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Masada
+Keywords:
+- 00149F:Starfield.esm
+- 1E79B9:Starfield.esm
+- 000815:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+- 000814:VenworksFactionOverhaul.esm
+Faction: 0638E5:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 75
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 83021
+PlanetID: 0

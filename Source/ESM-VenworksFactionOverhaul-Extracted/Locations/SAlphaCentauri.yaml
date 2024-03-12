@@ -1,0 +1,25 @@
+FormKey: 061581:Starfield.esm
+EditorID: SAlphaCentauri
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Alpha Centauri
+Keywords:
+- 00149F:Starfield.esm
+- 05BD8B:Starfield.esm
+- 061990:Starfield.esm
+- 1159EB:Starfield.esm
+- 12957A:Starfield.esm
+- 12179B:Starfield.esm
+- 000802:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+Faction: 05BD93:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 1
+UnknownDATA2: 2560
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 71456
+PlanetID: 0

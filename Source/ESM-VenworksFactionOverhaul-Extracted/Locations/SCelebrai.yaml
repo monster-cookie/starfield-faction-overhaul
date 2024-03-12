@@ -1,0 +1,20 @@
+FormKey: 061524:Starfield.esm
+EditorID: SCelebrai
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Celebrai
+Keywords:
+- 00149F:Starfield.esm
+- 023305:Starfield.esm
+- 1E79B8:Starfield.esm
+Faction: 010B30:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 70
+UnknownDATA2: -256
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 86475
+PlanetID: 0

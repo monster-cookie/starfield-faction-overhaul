@@ -1,0 +1,17 @@
+FormKey: 060932:Starfield.esm
+EditorID: SNirah_PKazarah
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Kazarah
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 283580:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 0615B6:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 77172
+PlanetID: 4

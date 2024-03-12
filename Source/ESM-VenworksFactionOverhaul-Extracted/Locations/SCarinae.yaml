@@ -1,0 +1,21 @@
+FormKey: 0615A2:Starfield.esm
+EditorID: SCarinae
+FormVersion: 556
+Name:
+  TargetLanguage: English
+  Value: Carinae
+Keywords:
+- 00149F:Starfield.esm
+- 294969:Starfield.esm
+- 000804:VenworksFactionOverhaul.esm
+- 1998F6:Starfield.esm
+Faction: 018EDE:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 20
+UnknownDATA2: 7680
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 118021
+PlanetID: 0

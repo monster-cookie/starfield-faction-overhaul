@@ -1,0 +1,18 @@
+FormKey: 01AD2B:Starfield.esm
+EditorID: SCopernicus_PCopernicusII
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Copernicus II
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+- 07C6A8:Starfield.esm
+- 023305:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 06156C:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 76816
+PlanetID: 2

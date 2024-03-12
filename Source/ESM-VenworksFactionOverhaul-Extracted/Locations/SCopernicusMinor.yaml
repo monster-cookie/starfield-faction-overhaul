@@ -1,0 +1,22 @@
+FormKey: 06156B:Starfield.esm
+EditorID: SCopernicusMinor
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Copernicus Minor
+Keywords:
+- 00149F:Starfield.esm
+- 1159EB:Starfield.esm
+- 1EF941:Starfield.esm
+- 1E79B8:Starfield.esm
+- 023305:Starfield.esm
+Faction: 010B30:Starfield.esm
+UnknownDATA: -1
+SystemLevel: 30
+UnknownDATA2: 10240
+ParentLocation: 01A53A:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 119039
+PlanetID: 0

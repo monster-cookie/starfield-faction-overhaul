@@ -1,0 +1,16 @@
+FormKey: 01B2A2:Starfield.esm
+EditorID: SLinnaeus_PLinnaeusV
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Linnaeus V
+Keywords:
+- 0014A0:Starfield.esm
+- 070A54:Starfield.esm
+UnknownDATA2: 16
+ParentLocation: 061543:Starfield.esm
+WorldLocationRadius: 0
+ActorFadeMult: 1
+TNAM: 0
+StarID: 91156
+PlanetID: 5
