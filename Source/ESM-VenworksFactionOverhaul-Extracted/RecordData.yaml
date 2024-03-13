@@ -7,8 +7,8 @@ ModHeader:
   Flags:
   - Master
   Stats:
-    NumRecords: 1883
-    NextFormID: 2072
+    NumRecords: 2019
+    NextFormID: 2190
   Author: ''
   MasterReferences:
   - Master: Starfield.esm

@@ -1,0 +1,12 @@
+FormKey: 00088A:VenworksFactionOverhaul.esm
+EditorID: MCS_Template_Abilities_Tank
+Level:
+  MutagenObjectType: NpcLevel
+Race: 00347D:Starfield.esm
+ActorEffect:
+- 23AF06:Starfield.esm
+- 23AF09:Starfield.esm
+- 23AF0D:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1

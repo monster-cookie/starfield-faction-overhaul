@@ -1,0 +1,11 @@
+FormKey: 00088B:VenworksFactionOverhaul.esm
+EditorID: MCS_Template_Abilities_Sniper
+Level:
+  MutagenObjectType: NpcLevel
+Race: 00347D:Starfield.esm
+ActorEffect:
+- 23AF02:Starfield.esm
+- 23AF0A:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1

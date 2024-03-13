@@ -1,0 +1,19 @@
+FormKey: 000844:VenworksFactionOverhaul.esm
+EditorID: MCS_Template_AIData_VeryAggressive_Cowardly
+FormVersion: 558
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Race: 00347D:Starfield.esm
+Aggression: VeryAggressive
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1

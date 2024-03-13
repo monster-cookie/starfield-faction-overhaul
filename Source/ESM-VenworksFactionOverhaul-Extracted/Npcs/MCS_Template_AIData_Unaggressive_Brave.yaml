@@ -1,0 +1,19 @@
+FormKey: 000838:VenworksFactionOverhaul.esm
+EditorID: MCS_Template_AIData_Unaggressive_Brave
+FormVersion: 558
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Race: 00347D:Starfield.esm
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1

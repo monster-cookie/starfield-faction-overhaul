@@ -1,5 +1,9 @@
 # Venworks Faction Overhaul
 
+## Version 1.0.5 [UNRELEASED]
+* Finally ready to merge in the Modular Creation System (HCS) based on BGS's Creature System. I had to use template actors instead of OMODs, as the OMOD system requires engine support. 
+* Only faction/human definitions for Spacers exist in this version next version depending on feedback will have all factions, classes, and spell packages available. 
+
 ## Version 1.0.4
 * Fully utilizing StarSim's coming faction map
 * Factions only need CrimeFaction for the starmap faction tag on the system and this doesn't mess up planetary looting as long as you don't put it at the planet level too. 
