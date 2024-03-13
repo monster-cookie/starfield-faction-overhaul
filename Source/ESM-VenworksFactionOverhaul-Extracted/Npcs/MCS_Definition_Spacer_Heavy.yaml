@@ -2,7 +2,7 @@ FormKey: 0008FC:VenworksFactionOverhaul.esm
 EditorID: MCS_Definition_Spacer_Heavy
 VirtualMachineAdapter:
   Scripts:
-  - Name: HCS_NPCOverrideName
+  - Name: MCS_NPCOverrideName
     Properties:
     - MutagenObjectType: ScriptObjectProperty
       Name: LIST_NAMES_FEMALE
@@ -13,6 +13,7 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: Venpi_DebugEnabled
       Object: 000800:VenpiCore.esm
+ODTY: 0
 Flags:
 - Respawn
 XpValueOffset: 15

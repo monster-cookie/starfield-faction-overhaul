@@ -1,7 +1,7 @@
 # Venworks Faction Overhaul
 
-## Version 1.0.5 [UNRELEASED]
-* Finally ready to merge in the Modular Creation System (HCS) based on BGS's Creature System. I had to use template actors instead of OMODs, as the OMOD system requires engine support. 
+## Version 1.0.5
+* Finally ready to merge in the Modular Creation System (MCS) based on BGS's Creature System. I had to use template actors instead of OMODs, as the OMOD system requires engine support. 
 * Only faction/human definitions for Spacers exist in this version next version depending on feedback will have all factions, classes, and spell packages available. 
 
 ## Version 1.0.4

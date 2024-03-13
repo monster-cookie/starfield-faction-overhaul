@@ -2,7 +2,7 @@ FormKey: 0008F6:VenworksFactionOverhaul.esm
 EditorID: MCS_Definition_Spacer_Boss
 VirtualMachineAdapter:
   Scripts:
-  - Name: HCS_NPCOverrideName
+  - Name: MCS_NPCOverrideName
     Properties:
     - MutagenObjectType: ScriptObjectProperty
       Name: LIST_NAMES_FEMALE
@@ -18,6 +18,7 @@ VirtualMachineAdapter:
     - MutagenObjectType: ScriptObjectProperty
       Name: LegendaryAliasQuest
       Object: 0308F5:Starfield.esm
+ODTY: 0
 Flags:
 - Respawn
 XpValueOffset: 15

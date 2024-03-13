@@ -1,4 +1,4 @@
-ScriptName HCS_NPCOverrideName Extends Actor
+ScriptName MCS_NPCOverrideName Extends Actor
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;
@@ -27,7 +27,7 @@ FormList Property LIST_NAMES_FEMALE Auto Const Mandatory
 ;;; Events
 ;;;
 Event OnLoad()
-  VPI_Debug.DebugMessage(Venpi_ModName, "HCS_NPCOverrideName", "OnLoad", "OnLoad triggered - Generate and apply random name for the NPC.", 0, Venpi_DebugEnabled.GetValueInt())
+  VPI_Debug.DebugMessage(Venpi_ModName, "MCS_NPCOverrideName", "OnLoad", "OnLoad triggered - Generate and apply random name for the NPC.", 0, Venpi_DebugEnabled.GetValueInt())
   If (Self.IsDead() == False)
     self.SetOverrideName(GetFullName())
   EndIf

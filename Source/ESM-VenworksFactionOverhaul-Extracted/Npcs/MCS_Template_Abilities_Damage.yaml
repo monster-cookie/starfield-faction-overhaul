@@ -1,0 +1,11 @@
+FormKey: 000890:VenworksFactionOverhaul.esm
+EditorID: MCS_Template_Abilities_Damage
+Level:
+  MutagenObjectType: NpcLevel
+Race: 00347D:Starfield.esm
+ActorEffect:
+- 23AF07:Starfield.esm
+- 25E15C:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
