@@ -21,7 +21,6 @@ Level:
   MutagenObjectType: NpcLevel
   Level: 1
 DispositionBase: 35
-UseTemplateActors: 8338
 Factions:
 - Faction: 04CE25:Starfield.esm
 - Faction: 27028D:Starfield.esm
@@ -45,8 +44,6 @@ UnknownAIDT: 1
 Keywords:
 - 06D977:Starfield.esm
 - 12FF1F:Starfield.esm
-- 0008AB:VenworksFactionOverhaul.esm
-- 0008AF:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
 CombatStyle: 2C5632:Starfield.esm
 NAM5: 0xFF00

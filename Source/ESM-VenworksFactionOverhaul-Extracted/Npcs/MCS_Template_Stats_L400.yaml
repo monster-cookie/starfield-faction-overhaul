@@ -36,17 +36,17 @@ Properties:
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 40000
+  Value: 3150
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
   Value: 100
 - ActorValue: 0002E3:Starfield.esm
-  Value: 375
+  Value: 400
 - ActorValue: 0002EB:Starfield.esm
-  Value: 375
+  Value: 400
 - ActorValue: 000392:Starfield.esm
-  Value: 375
+  Value: 400
 Confidence: Average
 EnergyLevel: 50
 Responsibility: NoCrime
@@ -97,7 +97,7 @@ RDSAs:
   UnknownFloat5: 2
   UnknownFloat6: 1
 Class: 010B2F:Starfield.esm
-CalculatedHealth: 4000
+CalculatedHealth: 3150
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43

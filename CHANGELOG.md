@@ -1,5 +1,10 @@
 # Venworks Faction Overhaul
 
+## Version 1.0.6
+* New MCS Faction Definitions for Ecliptic, Crimson Fleet, Syndicate, The First, and Starborn
+* Stat scaling is a curve from 1 to 500 with a balanced record every 5 levels
+* Removing nested template levels this may be causing the stats to not apply. Sorry this might have been hidden from me in my testing cause of Scale the World. 
+
 ## Version 1.0.5
 * Finally ready to merge in the Modular Creation System (MCS) based on BGS's Creature System. I had to use template actors instead of OMODs, as the OMOD system requires engine support. 
 * Only faction/human definitions for Spacers exist in this version next version depending on feedback will have all factions, classes, and spell packages available. 

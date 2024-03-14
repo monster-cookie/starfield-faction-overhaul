@@ -1,5 +1,5 @@
-FormKey: 000860:VenworksFactionOverhaul.esm
-EditorID: MCS_Template_Stats_L500
+FormKey: 0008C2:VenworksFactionOverhaul.esm
+EditorID: MCS_Template_Stats_L155
 FormVersion: 558
 ObjectBounds:
   First: -0.31000048, -0.31000048, -4.7683716E-07
@@ -8,45 +8,45 @@ ODTY: 0
 Flags:
 - Respawn
 - AutoCalcStats
-XpValueOffset: 500
+XpValueOffset: 100
 Level:
   MutagenObjectType: PcLevelMult
-  LevelMult: 1.25
-CalcMinLevel: 500
+  LevelMult: 1.1
+CalcMinLevel: 155
 CalcMaxLevel: 999
 DispositionBase: 35
 Race: 00347D:Starfield.esm
 Properties:
 - ActorValue: 0002C2:Starfield.esm
-  Value: 20
+  Value: 7
 - ActorValue: 0002C3:Starfield.esm
-  Value: 20
+  Value: 7
 - ActorValue: 0002C4:Starfield.esm
-  Value: 20
+  Value: 7
 - ActorValue: 0002C5:Starfield.esm
-  Value: 20
+  Value: 7
 - ActorValue: 0002C6:Starfield.esm
-  Value: 20
+  Value: 7
 - ActorValue: 0002C7:Starfield.esm
-  Value: 20
+  Value: 7
 - ActorValue: 0002C8:Starfield.esm
-  Value: 20
+  Value: 7
 - ActorValue: 0002CC:Starfield.esm
   Value: 15
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 6000
+  Value: 850
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
   Value: 100
 - ActorValue: 0002E3:Starfield.esm
-  Value: 500
+  Value: 150
 - ActorValue: 0002EB:Starfield.esm
-  Value: 500
+  Value: 150
 - ActorValue: 000392:Starfield.esm
-  Value: 500
+  Value: 150
 Confidence: Average
 EnergyLevel: 50
 Responsibility: NoCrime
@@ -97,7 +97,7 @@ RDSAs:
   UnknownFloat5: 2
   UnknownFloat6: 1
 Class: 010B2F:Starfield.esm
-CalculatedHealth: 6000
+CalculatedHealth: 850
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43

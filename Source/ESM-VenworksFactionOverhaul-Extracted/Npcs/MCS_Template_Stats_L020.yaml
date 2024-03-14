@@ -18,35 +18,28 @@ DispositionBase: 35
 Race: 00347D:Starfield.esm
 Properties:
 - ActorValue: 0002C2:Starfield.esm
-  Value: 4
 - ActorValue: 0002C3:Starfield.esm
-  Value: 4
 - ActorValue: 0002C4:Starfield.esm
-  Value: 4
 - ActorValue: 0002C5:Starfield.esm
-  Value: 4
 - ActorValue: 0002C6:Starfield.esm
-  Value: 4
 - ActorValue: 0002C7:Starfield.esm
-  Value: 4
 - ActorValue: 0002C8:Starfield.esm
-  Value: 4
 - ActorValue: 0002CC:Starfield.esm
   Value: 15
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 45
+  Value: 150
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
   Value: 100
 - ActorValue: 0002E3:Starfield.esm
-  Value: 10
+  Value: 5
 - ActorValue: 0002EB:Starfield.esm
-  Value: 10
+  Value: 5
 - ActorValue: 000392:Starfield.esm
-  Value: 10
+  Value: 5
 Confidence: Average
 EnergyLevel: 50
 Responsibility: NoCrime
@@ -97,7 +90,7 @@ RDSAs:
   UnknownFloat5: 2
   UnknownFloat6: 1
 Class: 010B2F:Starfield.esm
-CalculatedHealth: 45
+CalculatedHealth: 150
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43

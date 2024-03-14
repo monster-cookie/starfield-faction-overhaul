@@ -11,28 +11,28 @@ Flags:
 XpValueOffset: 15
 Level:
   MutagenObjectType: PcLevelMult
-  LevelMult: 1
+  LevelMult: 0.95
 CalcMinLevel: 25
 CalcMaxLevel: 999
 DispositionBase: 35
 Race: 00347D:Starfield.esm
 Properties:
 - ActorValue: 0002C2:Starfield.esm
-  Value: 5
+  Value: 1
 - ActorValue: 0002C3:Starfield.esm
-  Value: 5
+  Value: 1
 - ActorValue: 0002C4:Starfield.esm
-  Value: 5
+  Value: 1
 - ActorValue: 0002C5:Starfield.esm
-  Value: 5
+  Value: 1
 - ActorValue: 0002C6:Starfield.esm
-  Value: 5
+  Value: 1
 - ActorValue: 0002C7:Starfield.esm
-  Value: 5
+  Value: 1
 - ActorValue: 0002C8:Starfield.esm
-  Value: 5
+  Value: 1
 - ActorValue: 0002D4:Starfield.esm
-  Value: 50
+  Value: 175
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
@@ -97,7 +97,7 @@ RDSAs:
   UnknownFloat5: 2
   UnknownFloat6: 1
 Class: 010B2F:Starfield.esm
-CalculatedHealth: 50
+CalculatedHealth: 175
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43

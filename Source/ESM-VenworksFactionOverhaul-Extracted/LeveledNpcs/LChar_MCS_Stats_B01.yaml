@@ -1,0 +1,70 @@
+FormKey: 0008BC:VenworksFactionOverhaul.esm
+EditorID: LChar_MCS_Stats_B01
+FormVersion: 558
+ODTY: 0
+Entries:
+- Level: 1
+  Reference: 000828:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 5
+  Reference: 000829:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 10
+  Reference: 00082A:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 15
+  Reference: 00082B:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 20
+  Reference: 00082C:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 25
+  Reference: 00082D:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 30
+  Reference: 00082E:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 35
+  Reference: 00082F:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 40
+  Reference: 000830:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 45
+  Reference: 000831:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 50
+  Reference: 000832:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 55
+  Reference: 000833:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 60
+  Reference: 000834:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 65
+  Reference: 000835:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 70
+  Reference: 000836:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 75
+  Reference: 00084B:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 80
+  Reference: 00084C:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 85
+  Reference: 00084D:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 90
+  Reference: 00084E:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 95
+  Reference: 00084F:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 100
+  Reference: 000850:VenworksFactionOverhaul.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

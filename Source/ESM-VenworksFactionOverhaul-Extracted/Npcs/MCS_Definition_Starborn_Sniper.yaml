@@ -1,0 +1,56 @@
+FormKey: 0008BA:VenworksFactionOverhaul.esm
+EditorID: MCS_Definition_Starborn_Sniper
+VirtualMachineAdapter:
+  Scripts:
+  - Name: MCS_NPCOverrideName
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LIST_NAMES_FEMALE
+      Object: 0008EB:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LIST_NAMES_MALE
+      Object: 0008EA:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Venpi_DebugEnabled
+      Object: 000800:VenpiCore.esm
+ODTY: 0
+Flags:
+- Respawn
+XpValueOffset: 15
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Factions:
+- Faction: 018EDE:Starfield.esm
+- Faction: 04CE27:Starfield.esm
+DeathItem: 27025F:Starfield.esm
+TemplateActors:
+  StatsTemplate: 000861:VenworksFactionOverhaul.esm
+  SpellListTemplate: 00088B:VenworksFactionOverhaul.esm
+  AiDataTemplate: 00083F:VenworksFactionOverhaul.esm
+  BaseDataTemplate: 000861:VenworksFactionOverhaul.esm
+  Unknown1: 000871:VenworksFactionOverhaul.esm
+Race: 00347D:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Items:
+- Item:
+    Item: 00B28A:Starfield.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+UnknownAIDT: 1
+Keywords:
+- 12FF1F:Starfield.esm
+- 000893:VenworksFactionOverhaul.esm
+Class: 010B2F:Starfield.esm
+CombatStyle: 12B471:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+DefaultOutfit: 100E31:Starfield.esm
+SpaceOutfit: 27025C:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+FormationFaction: 04CE27:Starfield.esm
