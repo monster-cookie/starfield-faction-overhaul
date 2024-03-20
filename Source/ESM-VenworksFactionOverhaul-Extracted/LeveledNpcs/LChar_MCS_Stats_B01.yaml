@@ -2,6 +2,9 @@ FormKey: 0008BC:VenworksFactionOverhaul.esm
 EditorID: LChar_MCS_Stats_B01
 FormVersion: 558
 ODTY: 0
+Flags:
+- 0x20
+- 0x40
 Entries:
 - Level: 1
   Reference: 000828:VenworksFactionOverhaul.esm

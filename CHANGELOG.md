@@ -1,5 +1,9 @@
 # Venworks Faction Overhaul
 
+## Version 1.0.7
+* Stats leveled NPC list was no longer sending on the PC level multiplier added back Flags unknown5 and unknown6
+* Also added Crimson Fleet Titles for Scale The World's Leveled NPCs to MCS Beta. 
+
 ## Version 1.0.6
 * New MCS Faction Definitions for Ecliptic, Crimson Fleet, Syndicate, The First, and Starborn.
 * Stat scaling is a curve from 1 to 400 with a balanced record every 5 levels.
