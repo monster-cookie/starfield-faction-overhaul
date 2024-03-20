@@ -1,5 +1,10 @@
 # Venworks Faction Overhaul
 
+## Version 1.0.8
+* Compatibility for Starfield 1.10.31.0
+* Leveled Hostile Human NPC lists now users SystemBodyHasKeyword and the AreHostileActorsNear as a global conditions. 
+* KNOWN ISSUE: Spacers are spawning with other groups more often but no longer are we getting generic humans. Going to see if there is a script way to handle this instead of AreHostileActorsNear but this is no worse then vanilla if the ruin/dungeon has multiple LocEnc*_Exclusive keywords. 
+
 ## Version 1.0.7
 * Stats leveled NPC list was no longer sending on the PC level multiplier added back Flags unknown5 and unknown6
 * Also added Crimson Fleet Titles for Scale The World's Leveled NPCs to MCS Beta. 

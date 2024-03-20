@@ -3,6 +3,8 @@ EditorID: LChar_MCS_Stats_B03
 FormVersion: 558
 ODTY: 0
 Flags:
+- 0x8
+- 0x10
 - 0x20
 - 0x40
 Entries:

@@ -2,7 +2,7 @@ FormKey: 15DD22:Starfield.esm
 EditorID: LocEncSecurityFreestar
 FormVersion: 556
 Color: '#00FFFFFF'
-Type: None
+Type: 20
 FNAM: 0x00000000
 Name:
   TargetLanguage: English
