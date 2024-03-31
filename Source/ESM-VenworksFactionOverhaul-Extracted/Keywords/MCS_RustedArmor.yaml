@@ -1,0 +1,9 @@
+FormKey: 000A49:VenworksFactionOverhaul.esm
+EditorID: MCS_RustedArmor
+Color: '#00FFFFFF'
+Notes: 50% reduction to base armor and resistance
+Type: None
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Target is using rusted armor

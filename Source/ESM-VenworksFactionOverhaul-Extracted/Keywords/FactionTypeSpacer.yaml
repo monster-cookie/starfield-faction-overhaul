@@ -1,0 +1,9 @@
+FormKey: 000A08:VenworksFactionOverhaul.esm
+EditorID: FactionTypeSpacer
+FormVersion: 556
+Color: '#00FFFFFF'
+Type: 27
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Spacer

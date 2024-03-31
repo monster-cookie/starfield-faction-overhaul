@@ -1,14 +1,14 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.17.0
+  Version: 0.18.0
 ModKey: VenworksFactionOverhaul.esm
 GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
   Stats:
-    NumRecords: 2113
-    NextFormID: 2330
+    NumRecords: 2242
+    NextFormID: 2639
   Author: ''
   MasterReferences:
   - Master: Starfield.esm

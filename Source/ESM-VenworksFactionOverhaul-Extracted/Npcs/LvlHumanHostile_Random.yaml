@@ -1,349 +1,240 @@
-FormKey: 00080A:VenworksFactionOverhaul.esm
+FormKey: 000936:VenworksFactionOverhaul.esm
 EditorID: LvlHumanHostile_Random
 FormVersion: 556
+VirtualMachineAdapter:
+  Scripts:
+  - Name: MCS_NPCOverrideAutomaticTitle
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Assault_Keyword
+      Object: 06D977:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Boss_Keyword
+      Object: 000895:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Charger_Keyword
+      Object: 06D976:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Heavy_Keyword
+      Object: 000892:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Recruit_Keyword
+      Object: 000898:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Sniper_Keyword
+      Object: 000893:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Support_Keyword
+      Object: 000894:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeCrimsonFleet
+      Object: 0546E0:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeEcliptic
+      Object: 000800:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeFreestarCollective
+      Object: 0546DF:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeHouseVaruun
+      Object: 0546DE:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeRyujinIndustries
+      Object: 0546DD:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeSpacer
+      Object: 000A08:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeStarborn
+      Object: 000801:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeSyndicate
+      Object: 000A09:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeTheFirst
+      Object: 000A0A:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeUnitedColonies
+      Object: 0546DC:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Assault
+      Object: 000A13:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Boss
+      Object: 000A14:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Charger
+      Object: 000A15:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Heavy
+      Object: 000A16:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Recruit
+      Object: 000A17:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Sniper
+      Object: 000A18:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Support
+      Object: 000A19:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Assault
+      Object: 000A1A:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Boss
+      Object: 000A1B:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Charger
+      Object: 000A1C:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Heavy
+      Object: 000A1D:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Recruit
+      Object: 000A1E:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Sniper
+      Object: 000A1F:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Support
+      Object: 000A20:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Assault
+      Object: 000A0B:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Boss
+      Object: 000A0C:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Charger
+      Object: 000A0D:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Heavy
+      Object: 000A0E:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Recruit
+      Object: 000A0F:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Sniper
+      Object: 000A10:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Support
+      Object: 000A11:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Assault
+      Object: 000A21:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Boss
+      Object: 000A22:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Charger
+      Object: 000A23:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Heavy
+      Object: 000A24:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Recruit
+      Object: 000A25:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Sniper
+      Object: 000A26:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Support
+      Object: 000A27:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Venpi_DebugEnabled
+      Object: 000800:VenpiCore.esm
 ObjectBounds:
   First: -0.31000048, -0.31000048, -4.7683716E-07
   Second: 0.31000048, 0.31000048, 1.8000004
 ODTY: 0
 Flags:
-- Female
 - Respawn
-XpValueOffset: 5
+- AutoCalcStats
+XpValueOffset: 50
 Level:
-  MutagenObjectType: NpcLevel
-  Level: 2
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 1
+CalcMaxLevel: 999
 DispositionBase: 35
-UseTemplateActors: 32687
+UseTemplateActors: 31869
 DeathItem: 00ABF8:Starfield.esm
-Voice: 010B2C:Starfield.esm
-DefaultTemplate: 000812:VenworksFactionOverhaul.esm
-LegendaryChance: 0C55B8:Starfield.esm
+DefaultTemplate: 00092E:VenworksFactionOverhaul.esm
 TemplateActors:
-  TraitTemplate: 000812:VenworksFactionOverhaul.esm
-  StatsTemplate: 000812:VenworksFactionOverhaul.esm
-  FactionsTemplate: 000812:VenworksFactionOverhaul.esm
-  SpellListTemplate: 000812:VenworksFactionOverhaul.esm
-  AiDataTemplate: 000812:VenworksFactionOverhaul.esm
-  AiPackagesTemplate: 000812:VenworksFactionOverhaul.esm
-  BaseDataTemplate: 000812:VenworksFactionOverhaul.esm
-  InventoryTemplate: 000812:VenworksFactionOverhaul.esm
-  ScriptTemplate: 000812:VenworksFactionOverhaul.esm
-  DefPackListTemplate: 000812:VenworksFactionOverhaul.esm
-  AttackDataTemplate: 000812:VenworksFactionOverhaul.esm
-  KeywordsTemplate: 000812:VenworksFactionOverhaul.esm
-  Unknown1: 000812:VenworksFactionOverhaul.esm
-  Unknown2: 000812:VenworksFactionOverhaul.esm
+  TraitTemplate: 000929:VenworksFactionOverhaul.esm
+  FactionsTemplate: 00092E:VenworksFactionOverhaul.esm
+  SpellListTemplate: 00092E:VenworksFactionOverhaul.esm
+  AiDataTemplate: 000971:VenworksFactionOverhaul.esm
+  AiPackagesTemplate: 00092E:VenworksFactionOverhaul.esm
+  ModelOrAnimationTemplate: 000929:VenworksFactionOverhaul.esm
+  InventoryTemplate: 00092E:VenworksFactionOverhaul.esm
+  ScriptTemplate: 00092E:VenworksFactionOverhaul.esm
+  DefPackListTemplate: 00092E:VenworksFactionOverhaul.esm
+  AttackDataTemplate: 00092E:VenworksFactionOverhaul.esm
+  KeywordsTemplate: 00092E:VenworksFactionOverhaul.esm
+  Unknown1: 00097A:VenworksFactionOverhaul.esm
+  Unknown2: 00092E:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
-CombatOverridePackageList: 0102ED:Starfield.esm
+Perks:
+- Perk: 000A3C:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A43:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A44:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A45:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A46:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A48:VenworksFactionOverhaul.esm
+  Rank: 1
 Properties:
 - ActorValue: 0002C2:Starfield.esm
+  Value: 5
 - ActorValue: 0002C3:Starfield.esm
   Value: 5
 - ActorValue: 0002C4:Starfield.esm
+  Value: 5
 - ActorValue: 0002C5:Starfield.esm
   Value: 5
 - ActorValue: 0002C6:Starfield.esm
+  Value: 5
 - ActorValue: 0002C7:Starfield.esm
   Value: 5
 - ActorValue: 0002C8:Starfield.esm
+  Value: 5
 - ActorValue: 0002CC:Starfield.esm
   Value: 15
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 25
+  Value: 200
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
   Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 25
+- ActorValue: 0002EB:Starfield.esm
+  Value: 25
+- ActorValue: 000385:Starfield.esm
+  Value: 100
+- ActorValue: 000392:Starfield.esm
+  Value: 25
+Items:
+- Item:
+    Item: 29B9D5:Starfield.esm
+    Count: 1
 Confidence: Brave
 EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
-RDSAs:
-- UnknownInt: 2
-  UnknownInt2: 6
-  UnknownInt3: 32864
-  UnknownFloat5: 2
-  UnknownLink7: 0F0E7E:Starfield.esm
-  UnknownFloat6: 1
-- UnknownInt: 1
-  UnknownInt2: 6
-  UnknownLink1: 090311:Starfield.esm
-  UnknownInt3: 34920
-  UnknownLink5: 090313:Starfield.esm
-  UnknownFloat4: 3
-  UnknownFloat5: 2
-  UnknownLink7: 0F0EF4:Starfield.esm
-  UnknownFloat6: 1
-- UnknownInt2: 6
-  UnknownLink1: 090311:Starfield.esm
-  UnknownInt3: 34920
-  UnknownLink5: 090313:Starfield.esm
-  UnknownFloat5: 2
-  UnknownLink7: 0F0EAF:Starfield.esm
-  UnknownFloat6: 1
-- UnknownInt: 2
-  UnknownInt2: 6
-  UnknownInt3: 32771
-  UnknownLink2: 215CB8:Starfield.esm
-  UnknownLink3: 215CB9:Starfield.esm
-  UnknownFloat5: 2
-  UnknownFloat6: 1
-- UnknownInt: 1
-  UnknownInt2: 6
-  UnknownInt3: 34827
-  UnknownLink2: 215CBA:Starfield.esm
-  UnknownLink3: 215CBB:Starfield.esm
-  UnknownLink5: 090313:Starfield.esm
-  UnknownFloat5: 2
-  UnknownFloat6: 1
-- UnknownInt2: 6
-  UnknownInt3: 34819
-  UnknownLink2: 215CBD:Starfield.esm
-  UnknownLink3: 215CBC:Starfield.esm
-  UnknownFloat5: 2
-  UnknownFloat6: 1
-Class: 010B2F:Starfield.esm
-CalculatedHealth: 50
-CalculatedActionPoints: 50
+CalculatedHealth: 200
+CalculatedActionPoints: 100
 GearedUpWeapons: 1
-HeadParts:
-- 012201:Starfield.esm
-- 012202:Starfield.esm
-- 012203:Starfield.esm
-- 0317AE:Starfield.esm
-- 0317AF:Starfield.esm
-- 0640B8:Starfield.esm
-- 078273:Starfield.esm
-- 128008:Starfield.esm
-- 1F7EF3:Starfield.esm
-- 3A2F00:Starfield.esm
-- 3BE58F:Starfield.esm
-CombatStyle: 178CA4:Starfield.esm
+Unused: 43
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
-Weight:
-  Thin: 0.27
-SpaceOutfit: 06682D:Starfield.esm
-DefaultPackageList: 2C55CA:Starfield.esm
-Tints:
-- TintType: SimpleGroup
-  TintGroup: Dermaesthetic
-  TintName: European_Female_yo1_Sk1
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/dermaesthetic/female_eu_yo1_sk1_derm_color.dds
-  TintColor: '#00000000'
-  TintIntensity: 64
-- TintType: SimpleGroup
-  TintGroup: ComplexionMask1
-  TintName: Freckles_FullFace
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/freckles_fullface_mask.dds
-  TintColor: '#A6822846'
-  TintIntensity: 31
-- TintType: SimpleGroup
-  TintGroup: Complexion1
-  TintName: Crevice_Complexion_Cool
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/complexioncool_color.dds
-  TintColor: '#00000000'
-  TintIntensity: 64
-- TintType: ComplexGroup
-  TintGroup: Accents1
-  TintName: Accents_ChinCleft
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_chincleft_color.dds
-  TintColor: '#00000000'
-  TintIntensity: 50
-- TintType: ComplexGroup
-  TintGroup: Accents2
-  TintName: Accents_UnderEyeBags_Small
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_undereyebagssmall_color.dds
-  TintColor: '#00000000'
-  TintIntensity: 64
-- TintType: SimpleGroup
-  TintGroup: Cheeks1
-  TintName: Blush_Soft
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/cheeks1/testblush02_mask.dds
-  TintColor: '#4DFF1E14'
-  TintIntensity: 64
-- TintType: SimpleGroup
-  TintGroup: Lipstick1
-  TintName: Lipstick_Soft
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/lipstick1/testlipstick02_mask.dds
-  TintColor: '#26FF0311'
-  TintIntensity: 31
-- TintType: SimpleGroup
-  TintGroup: Eyeshadow1
-  TintName: EyeShadow_Upper_02
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/eyeshadow1/testeyeshadowupper02_mask.dds
-  TintColor: '#94FF252D'
-  TintIntensity: 50
-- TintType: SimpleGroup
-  TintGroup: Eyeshadow2
-  TintName: EyeShadow_Lower_01
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/eyeshadow2/testeyeshadowlower01_mask.dds
-  TintColor: '#DDFF0600'
-  TintIntensity: 44
-- TintType: SimpleGroup
-  TintGroup: Eyeliner1
-  TintName: Eyeliner_Upper_01
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/eyeliner1/testeyelinerupper01_mask.dds
-  TintColor: '#26FF0311'
-  TintIntensity: 95
-- TintType: SimpleGroup
-  TintGroup: Eyeliner2
-  TintName: Eyeliner_Lower_01
-  TintTexture: textures/actors/human/faces/chargen/postblenddetails/eyeliner2/testeyelinerlower01_mask.dds
-  TintColor: '#26FF0311'
-  TintIntensity: 56
-FaceDialPositions:
-- Index: 24
-  Position: 0.4
-- Index: 30
-  Position: -0.64
-- Index: 31
-  Position: -0.55
-- Index: 34
-  Position: 0.27
-- Index: 35
-  Position: 0.66
-- Index: 36
-  Position: 0.32
-- Index: 38
-  Position: 0.02
-- Index: 40
-  Position: 0.1
-- Index: 42
-  Position: -0.55
-- Index: 43
-  Position: 0.55
-- Index: 45
-  Position: -0.23
-- Index: 47
-  Position: -0.24
-- Index: 48
-  Position: -0.62
-- Index: 51
-  Position: 0.16
-- Index: 52
-  Position: 0.77
-- Index: 53
-  Position: -0.96
-- Index: 55
-  Position: -0.45
-- Index: 63
-  Position: -0.62
-- Index: 65
-  Position: 0.15
-- Index: 67
-  Position: 0.25
-- Index: 70
-  Position: -1
-- Index: 75
-  Position: 0.51
-- Index: 77
-  Position: 0.23
-- Index: 78
-  Position: -0.8
-- Index: 79
-  Position: -0.67
-FaceMorphs:
-- Index: 1
-  MorphGroups:
-  - MorphGroup: Chin
-    BlendIntensity: 0.14709482
-  - MorphGroup: Ears
-    BlendIntensity: 0.08541907
-  - MorphGroup: Eyes
-    BlendIntensity: 1
-  - MorphGroup: Forehead
-    BlendIntensity: 0.06153889
-  - MorphGroup: Jaw
-    BlendIntensity: -2.7755576E-17
-  - MorphGroup: Mouth
-    BlendIntensity: 0.45
-  - MorphGroup: Neck
-    BlendIntensity: 1
-  - MorphGroup: Nose
-    BlendIntensity: 0.11845844
-- Index: 3
-  MorphGroups:
-  - MorphGroup: Mouth
-    BlendIntensity: 0.03
-- Index: 5
-  MorphGroups:
-  - MorphGroup: Chin
-    BlendIntensity: 0.17672059
-  - MorphGroup: Ears
-    BlendIntensity: 0.249895
-  - MorphGroup: Forehead
-    BlendIntensity: 0.18964341
-  - MorphGroup: Mouth
-    BlendIntensity: 0.38
-  - MorphGroup: Nose
-    BlendIntensity: 0.015286573
-- Index: 9
-  MorphGroups:
-  - MorphGroup: Cheeks
-    BlendIntensity: 0.51
-  - MorphGroup: Chin
-    BlendIntensity: 0.15167405
-  - MorphGroup: Ears
-    BlendIntensity: 0.12830168
-  - MorphGroup: Forehead
-    BlendIntensity: 0.030640615
-  - MorphGroup: Jaw
-    BlendIntensity: 1
-  - MorphGroup: Nose
-    BlendIntensity: 0.064474
-- Index: 11
-  MorphGroups:
-  - MorphGroup: Chin
-    BlendIntensity: 0.098286405
-  - MorphGroup: Ears
-    BlendIntensity: 0.21445829
-  - MorphGroup: Forehead
-    BlendIntensity: 0.07325089
-  - MorphGroup: Jaw
-    BlendIntensity: -6.938894E-18
-  - MorphGroup: Nose
-    BlendIntensity: 0.13843328
-- Index: 19
-  MorphGroups:
-  - MorphGroup: Cheeks
-    BlendIntensity: 0.49
-MorphBlends:
-- BlendName: female_af_md1_Cheeks
-  Intensity: 0.51
-- BlendName: female_af_md1_Eyes
-  Intensity: 0.51
-- BlendName: female_af_md1_Jaw
-  Intensity: 1
-- BlendName: female_af_md1_Mouth
-  Intensity: 0.25
-- BlendName: female_af_md1_Nose
-  Intensity: 0.31
-- BlendName: female_af_yo1_Nose
-  Intensity: 0.69
-- BlendName: female_as_md1_Mouth
-  Intensity: 0.24
-- BlendName: female_as_ol1_Chin
-  Intensity: 0.8493431
-- BlendName: female_as_ol1_Ears
-  Intensity: 0.116880246
-- BlendName: female_as_ol1_Forehead
-  Intensity: 0.292099
-- BlendName: female_as_yo1_Cheeks
-  Intensity: 0.49
-- BlendName: female_eu_md2_Eyes
-  Intensity: 0.49
-- BlendName: female_eu_md2_Mouth
-  Intensity: 0.51
-- BlendName: female_eu_md2_Neck
-  Intensity: 1
-SkinToneIndex: 0
-HairColor: Copper
-EyebrowColor: Copper
-EyeColor: Hazel
-JewelryColor: Black
 Pronoun: Unspecified

@@ -1,4 +1,4 @@
-FormKey: 000891:VenworksFactionOverhaul.esm
+FormKey: 00093F:VenworksFactionOverhaul.esm
 EditorID: MCS_Definition_Ecliptic_Boss
 VirtualMachineAdapter:
   Scripts:
@@ -6,10 +6,10 @@ VirtualMachineAdapter:
     Properties:
     - MutagenObjectType: ScriptObjectProperty
       Name: LIST_NAMES_FEMALE
-      Object: 0008EB:VenworksFactionOverhaul.esm
+      Object: 000A03:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
       Name: LIST_NAMES_MALE
-      Object: 0008EA:VenworksFactionOverhaul.esm
+      Object: 000A03:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
       Name: Venpi_DebugEnabled
       Object: 000800:VenpiCore.esm
@@ -30,13 +30,18 @@ Factions:
 - Faction: 04CE25:Starfield.esm
 - Faction: 27028D:Starfield.esm
 DeathItem: 27028B:Starfield.esm
-TemplateActors:
-  StatsTemplate: 000861:VenworksFactionOverhaul.esm
-  AiDataTemplate: 000843:VenworksFactionOverhaul.esm
-  BaseDataTemplate: 000861:VenworksFactionOverhaul.esm
-  Unknown1: 000870:VenworksFactionOverhaul.esm
+TemplateActors: {}
 Race: 00347D:Starfield.esm
 CombatOverridePackageList: 0102ED:Starfield.esm
+Perks:
+- Perk: 000A3C:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A43:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A44:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A45:VenworksFactionOverhaul.esm
+  Rank: 1
 ForcedLocations:
 - 003956:Starfield.esm
 Items:
@@ -51,6 +56,7 @@ UnknownAIDT: 1
 Keywords:
 - 12FF24:Starfield.esm
 - 000895:VenworksFactionOverhaul.esm
+- 000800:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
 CombatStyle: 2C5630:Starfield.esm
 NAM5: 0xFF00

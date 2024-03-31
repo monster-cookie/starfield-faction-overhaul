@@ -1,0 +1,9 @@
+FormKey: 000A4A:VenworksFactionOverhaul.esm
+EditorID: MCS_Sickly
+Color: '#00FFFFFF'
+Notes: 50% reduction in health
+Type: None
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Target is sickly resulting in loss of health

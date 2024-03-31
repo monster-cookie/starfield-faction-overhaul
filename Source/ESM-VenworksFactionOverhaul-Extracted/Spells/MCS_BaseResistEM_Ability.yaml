@@ -1,0 +1,224 @@
+FormKey: 000A42:VenworksFactionOverhaul.esm
+EditorID: MCS_BaseResistEM_Ability
+FormVersion: 558
+ODTY: 0
+Name:
+  TargetLanguage: English
+  Value: NPC Base EM Resistance Abiltiy
+EquipmentType: 013F44:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Type:
+- Ability
+Effects:
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 50
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 25
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 50
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 100
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 50
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 75
+  EFIF: 0
+  MUID: 2
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 150
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 75
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 100
+  EFIF: 0
+  MUID: 3
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 200
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 100
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 125
+  EFIF: 0
+  MUID: 4
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 200
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 125
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 150
+  EFIF: 0
+  MUID: 5
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 250
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 150
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 175
+  EFIF: 0
+  MUID: 6
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 250
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 175
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 200
+  EFIF: 0
+  MUID: 7
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 300
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 200
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 225
+  EFIF: 0
+  MUID: 8
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 300
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 225
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 250
+  EFIF: 0
+  MUID: 9
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 300
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 250
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 275
+  EFIF: 0
+  MUID: 10
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 300
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 275
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: LessThan
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 300
+  EFIF: 0
+  MUID: 11
+- BaseEffect: 000A37:VenworksFactionOverhaul.esm
+  Data:
+    Magnitude: 350
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x000000
+    Data:
+      MutagenObjectType: GetLevelConditionData
+    ComparisonValue: 300
+  EFIF: 0
+  MUID: 12

@@ -1,0 +1,240 @@
+FormKey: 375AB9:Starfield.esm
+EditorID: LvlHumanHostile_Heavy
+FormVersion: 558
+VirtualMachineAdapter:
+  Scripts:
+  - Name: MCS_NPCOverrideAutomaticTitle
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Assault_Keyword
+      Object: 06D977:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Boss_Keyword
+      Object: 000895:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Charger_Keyword
+      Object: 06D976:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Heavy_Keyword
+      Object: 000892:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Recruit_Keyword
+      Object: 000898:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Sniper_Keyword
+      Object: 000893:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Support_Keyword
+      Object: 000894:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeCrimsonFleet
+      Object: 0546E0:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeEcliptic
+      Object: 000800:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeFreestarCollective
+      Object: 0546DF:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeHouseVaruun
+      Object: 0546DE:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeRyujinIndustries
+      Object: 0546DD:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeSpacer
+      Object: 000A08:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeStarborn
+      Object: 000801:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeSyndicate
+      Object: 000A09:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeTheFirst
+      Object: 000A0A:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: FactionTypeUnitedColonies
+      Object: 0546DC:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Assault
+      Object: 000A13:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Boss
+      Object: 000A14:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Charger
+      Object: 000A15:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Heavy
+      Object: 000A16:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Recruit
+      Object: 000A17:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Sniper
+      Object: 000A18:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_CrimsonFleet_Support
+      Object: 000A19:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Assault
+      Object: 000A1A:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Boss
+      Object: 000A1B:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Charger
+      Object: 000A1C:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Heavy
+      Object: 000A1D:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Recruit
+      Object: 000A1E:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Sniper
+      Object: 000A1F:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Ecliptic_Support
+      Object: 000A20:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Assault
+      Object: 000A0B:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Boss
+      Object: 000A0C:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Charger
+      Object: 000A0D:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Heavy
+      Object: 000A0E:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Recruit
+      Object: 000A0F:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Sniper
+      Object: 000A10:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_Spacer_Support
+      Object: 000A11:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Assault
+      Object: 000A21:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Boss
+      Object: 000A22:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Charger
+      Object: 000A23:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Heavy
+      Object: 000A24:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Recruit
+      Object: 000A25:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Sniper
+      Object: 000A26:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MCS_AUTONAME_TheFirst_Support
+      Object: 000A27:VenworksFactionOverhaul.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Venpi_DebugEnabled
+      Object: 000800:VenpiCore.esm
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+Flags:
+- Respawn
+- AutoCalcStats
+XpValueOffset: 50
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 1
+CalcMaxLevel: 999
+DispositionBase: 35
+UseTemplateActors: 31869
+DeathItem: 00ABF8:Starfield.esm
+DefaultTemplate: 00092D:VenworksFactionOverhaul.esm
+TemplateActors:
+  TraitTemplate: 000929:VenworksFactionOverhaul.esm
+  FactionsTemplate: 00092D:VenworksFactionOverhaul.esm
+  SpellListTemplate: 00092D:VenworksFactionOverhaul.esm
+  AiDataTemplate: 000975:VenworksFactionOverhaul.esm
+  AiPackagesTemplate: 00092D:VenworksFactionOverhaul.esm
+  ModelOrAnimationTemplate: 000929:VenworksFactionOverhaul.esm
+  InventoryTemplate: 00092D:VenworksFactionOverhaul.esm
+  ScriptTemplate: 00092D:VenworksFactionOverhaul.esm
+  DefPackListTemplate: 00092D:VenworksFactionOverhaul.esm
+  AttackDataTemplate: 00092D:VenworksFactionOverhaul.esm
+  KeywordsTemplate: 00092D:VenworksFactionOverhaul.esm
+  Unknown1: 00097D:VenworksFactionOverhaul.esm
+  Unknown2: 00092D:VenworksFactionOverhaul.esm
+Race: 00347D:Starfield.esm
+Perks:
+- Perk: 000A3C:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A43:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A44:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A45:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A46:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A48:VenworksFactionOverhaul.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+  Value: 5
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+  Value: 5
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+  Value: 5
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+  Value: 5
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+- ActorValue: 0002D4:Starfield.esm
+  Value: 200
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 25
+- ActorValue: 0002EB:Starfield.esm
+  Value: 25
+- ActorValue: 000385:Starfield.esm
+  Value: 100
+- ActorValue: 000392:Starfield.esm
+  Value: 25
+Items:
+- Item:
+    Item: 29B9D0:Starfield.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+UnknownAIDT: 1
+CalculatedHealth: 200
+CalculatedActionPoints: 100
+GearedUpWeapons: 1
+Unused: 43
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Pronoun: Unspecified

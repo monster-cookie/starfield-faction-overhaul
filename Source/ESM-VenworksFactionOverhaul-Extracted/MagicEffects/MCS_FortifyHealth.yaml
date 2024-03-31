@@ -1,0 +1,20 @@
+FormKey: 000A34:VenworksFactionOverhaul.esm
+EditorID: MCS_FortifyHealth
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Fortify Health Buff
+ActorValue2: 0002D4:Starfield.esm
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+UnkownInt2: 3
+UnkownInt3: 1065353216
+Flags:
+- Recover
+- NoDuration
+- NoArea
+- HideInUI
+Unknown: 0x00000000000000000000000000000000000000000000
+Description:
+  TargetLanguage: English
+  Value: +<mag> Health

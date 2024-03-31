@@ -1,0 +1,48 @@
+FormKey: 000A46:VenworksFactionOverhaul.esm
+EditorID: MCS_NPCFlexiblePerk_Health
+Name:
+  TargetLanguage: English
+  Value: MCS NPC Flexible Health Perk
+Description:
+  TargetLanguage: English
+  Value: ''
+Flags:
+- 0x4
+Ranks:
+- Effects:
+  - MutagenObjectType: PerkAbilityEffect
+    Priority: 1
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Data:
+          MutagenObjectType: HasKeywordConditionData
+          FirstParameter: 000A4A:VenworksFactionOverhaul.esm
+        ComparisonValue: 1
+    Ability: 000A4C:VenworksFactionOverhaul.esm
+  - MutagenObjectType: PerkAbilityEffect
+    Priority: 2
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Data:
+          MutagenObjectType: HasKeywordConditionData
+          FirstParameter: 000A2E:VenworksFactionOverhaul.esm
+        ComparisonValue: 1
+    Ability: 000A4D:VenworksFactionOverhaul.esm
+  - MutagenObjectType: PerkAbilityEffect
+    Priority: 3
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Data:
+          MutagenObjectType: HasKeywordConditionData
+          FirstParameter: 000A2F:VenworksFactionOverhaul.esm
+        ComparisonValue: 1
+    Ability: 000A4E:VenworksFactionOverhaul.esm
+  Description:
+    TargetLanguage: English
+    Value: ''

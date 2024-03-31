@@ -1,0 +1,17 @@
+FormKey: 000A37:VenworksFactionOverhaul.esm
+EditorID: MCS_FortifyElectromagneticResistance
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Fortify Electromagnetic Resistance Buff
+ActorValue2: 000392:Starfield.esm
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+UnkownInt3: 3132588084
+Flags:
+- Recover
+- HideInUI
+Unknown: 0x0000000000003480B7BA000000000000000000000000
+Description:
+  TargetLanguage: English
+  Value: ''

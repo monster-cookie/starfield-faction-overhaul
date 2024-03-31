@@ -1,0 +1,59 @@
+FormKey: 000A48:VenworksFactionOverhaul.esm
+EditorID: MCS_NPCFlexiblePerk_Armor
+Name:
+  TargetLanguage: English
+  Value: MCS NPC Flexible Armor Perk
+Description:
+  TargetLanguage: English
+  Value: ''
+Flags:
+- 0x4
+Ranks:
+- Effects:
+  - MutagenObjectType: PerkEntryPointModifyActorValue
+    Priority: 1
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Data:
+          MutagenObjectType: HasKeywordConditionData
+          FirstParameter: 000A2C:VenworksFactionOverhaul.esm
+    EntryPoint: ModArmorRating
+    PerkConditionTabCount: 3
+    PerkEntryID: 1
+    ActorValue: 00082F:VenpiCore.esm
+    Value: 0.005
+    Modification: MultiplyOnePlusAVMult
+  - MutagenObjectType: PerkEntryPointModifyActorValue
+    Priority: 2
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Data:
+          MutagenObjectType: HasKeywordConditionData
+          FirstParameter: 000A2D:VenworksFactionOverhaul.esm
+    EntryPoint: ModArmorRating
+    PerkConditionTabCount: 3
+    PerkEntryID: 2
+    ActorValue: 00082F:VenpiCore.esm
+    Value: 0.01
+    Modification: MultiplyOnePlusAVMult
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 3
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Data:
+          MutagenObjectType: HasKeywordConditionData
+          FirstParameter: 000A49:VenworksFactionOverhaul.esm
+    EntryPoint: ModArmorRating
+    PerkConditionTabCount: 3
+    PerkEntryID: 3
+    Modification: Multiply
+    Value: 0.5
+  Description:
+    TargetLanguage: English
+    Value: ''

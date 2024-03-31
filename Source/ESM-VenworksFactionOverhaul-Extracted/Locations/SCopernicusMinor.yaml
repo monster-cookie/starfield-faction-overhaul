@@ -13,7 +13,7 @@ Keywords:
 Faction: 010B30:Starfield.esm
 UnknownDATA: -1
 SystemLevel: 30
-UnknownDATA2: 10240
+UnknownDATA2: -256
 ParentLocation: 01A53A:Starfield.esm
 WorldLocationRadius: 0
 ActorFadeMult: 1

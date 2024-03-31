@@ -1,0 +1,29 @@
+FormKey: 00092E:VenworksFactionOverhaul.esm
+EditorID: LChar_MCS_Definitions_Random
+ODTY: 0
+Flags:
+- CalculateForEachItemInCount
+- 0x8
+- 0x10
+- 0x20
+- 0x40
+- 0x100
+Entries:
+- Level: 1
+  Reference: 00091F:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 1
+  Reference: 00092A:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 1
+  Reference: 00092C:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 1
+  Reference: 00092D:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 1
+  Reference: 00092F:VenworksFactionOverhaul.esm
+  Count: 1
+- Level: 1
+  Reference: 000930:VenworksFactionOverhaul.esm
+  Count: 1

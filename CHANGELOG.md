@@ -1,5 +1,18 @@
 # Venworks Faction Overhaul
 
+## Version 2.0.0
+* Since Starfield 1.10.31.0 MCS SetOverRideNames are not working on non-mod index 00 creations. Added debugging and logging to help trace this. 
+* Revert global AreHostilesNearCondition change
+* Converting lvlHostileHuman* to use MCS to get around the generic human issue since 1.10.31.0
+* Reverted base NPC unaggressive AI back to unaggressive 
+* Adjusted game settings for level actor spawn rules. Feel free to tweak the new RTFP file.
+* Removed all patches as CCMBH is too broken by the latest patch to fix and I strongly recommend removing it. 
+* Stats are now boosted by perk without using scripts to avoid deadlocks in papyrus. Stats increase level 25 levels.
+* Convert MQ101 Pirates fixed to use the MCS so they stop being dead on arrival. Though I would love to know why they are being killed. 
+* Requires Venworks Core 1.0.18 or newer.
+* HELP: Need names for the generic role names like Spacer Sniper, Ecliptic Sniper, Pirate Sniper as something like Space Assassin, Ecliptic Sniper, Pirate Lookout. Using role names makes more sense that random level titles that don't mean anything when using a true scaling system. Also still haven't found a way around whatever LChar change BGS made that is blocking template chains. 
+* NOTE: This is probably not safe mid-game due to the level of changes needed by 1.10.31.0. Once installed jump to a new game/universe as quickly as possible. 
+
 ## Version 1.0.8
 * Compatibility for Starfield 1.10.31.0
 * Leveled Hostile Human NPC lists now users SystemBodyHasKeyword and the AreHostileActorsNear as a global condition. 

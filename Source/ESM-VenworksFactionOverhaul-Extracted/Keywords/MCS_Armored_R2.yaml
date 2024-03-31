@@ -1,0 +1,9 @@
+FormKey: 000A2D:VenworksFactionOverhaul.esm
+EditorID: MCS_Armored_R2
+Color: '#00FFFFFF'
+Notes: 50% boost to base armor and resistance
+Type: None
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Improved Armor Rank 2
