@@ -1,6 +1,13 @@
 FormKey: 073E68:Starfield.esm
 EditorID: LvlCrimsonFleet_Boss_Aggro_NoScript
 FormVersion: 558
+VirtualMachineAdapter:
+  Scripts:
+  - Name: ForceLegendaryActorScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LegendaryAliasQuest
+      Object: 0308F5:Starfield.esm
 ObjectBounds:
   First: -0.31000048, -0.31000048, -4.7683716E-07
   Second: 0.31000048, 0.31000048, 1.8000004
@@ -65,7 +72,7 @@ Properties:
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 400
+  Value: 200
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
@@ -96,7 +103,7 @@ Keywords:
 Name:
   TargetLanguage: English
   Value: Pirate Boss*
-CalculatedHealth: 400
+CalculatedHealth: 200
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43

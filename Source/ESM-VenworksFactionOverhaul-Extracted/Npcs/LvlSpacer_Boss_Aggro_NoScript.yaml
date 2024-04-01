@@ -72,7 +72,7 @@ Properties:
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 400
+  Value: 200
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
@@ -103,11 +103,10 @@ Keywords:
 Name:
   TargetLanguage: English
   Value: Spacer Boss*
-CalculatedHealth: 400
+CalculatedHealth: 200
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43
-CombatStyle: 2C562D:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1

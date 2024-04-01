@@ -1,0 +1,106 @@
+FormKey: 26FB3C:Starfield.esm
+EditorID: LvlTheFirst_Heavy
+FormVersion: 558
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Respawn
+- AutoCalcStats
+XpValueOffset: 50
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 1
+CalcMaxLevel: 999
+DispositionBase: 35
+UseTemplateActors: 27773
+DeathItem: 26FB68:Starfield.esm
+DefaultTemplate: 000959:VenworksFactionOverhaul.esm
+TemplateActors:
+  TraitTemplate: 26FB6A:Starfield.esm
+  StatsTemplate: 26FB60:Starfield.esm
+  FactionsTemplate: 000959:VenworksFactionOverhaul.esm
+  SpellListTemplate: 000959:VenworksFactionOverhaul.esm
+  AiDataTemplate: 000970:VenworksFactionOverhaul.esm
+  AiPackagesTemplate: 000959:VenworksFactionOverhaul.esm
+  ModelOrAnimationTemplate: 26FB6A:Starfield.esm
+  BaseDataTemplate: 26FB60:Starfield.esm
+  ScriptTemplate: 26FB60:Starfield.esm
+  DefPackListTemplate: 000959:VenworksFactionOverhaul.esm
+  AttackDataTemplate: 000959:VenworksFactionOverhaul.esm
+  KeywordsTemplate: 26FB60:Starfield.esm
+  Unknown1: 00097C:VenworksFactionOverhaul.esm
+  Unknown2: 000959:VenworksFactionOverhaul.esm
+Race: 00347D:Starfield.esm
+Perks:
+- Perk: 000A3C:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A43:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A44:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A45:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A46:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A48:VenworksFactionOverhaul.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+  Value: 5
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+  Value: 5
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+  Value: 5
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+  Value: 5
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+- ActorValue: 0002D4:Starfield.esm
+  Value: 100
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 25
+- ActorValue: 0002EB:Starfield.esm
+  Value: 25
+- ActorValue: 000385:Starfield.esm
+  Value: 100
+- ActorValue: 000392:Starfield.esm
+  Value: 25
+Items:
+- Item:
+    Item: 0B8514:Starfield.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+UnknownAIDT: 1
+Keywords:
+- 12FF1F:Starfield.esm
+- 000892:VenworksFactionOverhaul.esm
+- 000A0A:VenworksFactionOverhaul.esm
+Name:
+  TargetLanguage: English
+  Value: 1st Cav Heavy*
+CalculatedHealth: 100
+CalculatedActionPoints: 100
+GearedUpWeapons: 1
+Unused: 43
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Pronoun: Unspecified

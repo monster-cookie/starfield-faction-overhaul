@@ -208,7 +208,7 @@ Properties:
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 200
+  Value: 100
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
@@ -230,7 +230,7 @@ EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
-CalculatedHealth: 200
+CalculatedHealth: 100
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43

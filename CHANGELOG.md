@@ -1,53 +1,5 @@
 # Venworks Faction Overhaul
 
-## Version 2.0.0
-* Since Starfield 1.10.31.0 MCS SetOverRideNames are not working on non-mod index 00 creations. Added debugging and logging to help trace this. 
-* Revert global AreHostilesNearCondition change
-* Converting lvlHostileHuman* to use MCS to get around the generic human issue since 1.10.31.0
-* Reverted base NPC unaggressive AI back to unaggressive 
-* Adjusted game settings for level actor spawn rules. Feel free to tweak the new RTFP file.
-* Removed all patches as CCMBH is too broken by the latest patch to fix and I strongly recommend removing it. 
-* Stats are now boosted by perk without using scripts to avoid deadlocks in papyrus. Stats increase level 25 levels.
-* Convert MQ101 Pirates fixed to use the MCS so they stop being dead on arrival. Though I would love to know why they are being killed. 
-* Requires Venworks Core 1.0.18 or newer.
-* HELP: Need names for the generic role names like Spacer Sniper, Ecliptic Sniper, Pirate Sniper as something like Space Assassin, Ecliptic Sniper, Pirate Lookout. Using role names makes more sense that random level titles that don't mean anything when using a true scaling system. Also still haven't found a way around whatever LChar change BGS made that is blocking template chains. 
-* NOTE: This is probably not safe mid-game due to the level of changes needed by 1.10.31.0. Once installed jump to a new game/universe as quickly as possible. 
-
-## Version 1.0.8
-* Compatibility for Starfield 1.10.31.0
-* Leveled Hostile Human NPC lists now users SystemBodyHasKeyword and the AreHostileActorsNear as a global condition. 
-* KNOWN ISSUE: Spacers are spawning with other groups more often but no longer are we getting generic humans. Going to see if there is a script way to handle this instead of AreHostileActorsNear but this is no worse than vanilla if the ruin/dungeon has multiple LocEnc*_Exclusive keywords. 
-
-## Version 1.0.7
-* Stats leveled NPC list was no longer sending on the PC level multiplier added back Flags unknown5 and unknown6
-* Also added Crimson Fleet Titles for Scale The World's Leveled NPCs to MCS Beta. 
-
-## Version 1.0.6
-* New MCS Faction Definitions for Ecliptic, Crimson Fleet, Syndicate, The First, and Starborn.
-* Stat scaling is a curve from 1 to 400 with a balanced record every 5 levels.
-* Removing nested template levels this may be causing the stats to not apply. Sorry, this might have been hidden from me in my testing cause of Scale the World. 
-
-## Version 1.0.5
-* Finally ready to merge in the Modular Creation System (MCS) based on BGS's Creature System. I had to use template actors instead of OMODs, as the OMOD system requires engine support. 
-* Only faction/human definitions for Spacers exist in this version next version depending on feedback will have all factions, classes, and spell packages available. 
-
-## Version 1.0.4
-* Fully utilizing StarSim's coming faction map
-* Factions only need CrimeFaction for the starmap faction tag on the system and this doesn't mess up planetary looting as long as you don't put it at the planet level too. 
-* Restructuring creature vs faction relations again to try and stop the blind attacking of peaceful creatures
-
-## Version 1.0.3
-* Typo on a non-used title on a Keyword title JaeDL found (English Majors).
-* Removed the non-hostile hostile UC Troops 
-
-## Version 1.0.2
-* More terrormorphs from JaeDL all contested planets spawn terrormorphs. Sorry JaeDL I refuse to do all systems but figure the battles/wars would drag them out. 
-* Sorry forgot to put in House Va'ruun factions document updated too. 
-
-## Version 1.0.1
-* Sorry JaeDL made us have terrormorphs 
-* Kreet is also now Hostile Humans only but I'm not 100% sure that keyword is honored by PCM.
-* REmoved and empty Strings folder that was being created in the archive
-
-## Version 1.0.0
-* Initial Release
+## Version 2.0.1 [UNRELEASED]
+* Converted Ecliptic, The First, and Va'Ruun to MCS
+* Fixed a typo that was making low levels hard basically I was giving them double the health they were supposed to get. 
