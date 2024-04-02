@@ -237,4 +237,6 @@ Unused: 43
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
+DefaultOutfit: 2EB236:Starfield.esm
+SpaceOutfit: 06682D:Starfield.esm
 Pronoun: Unspecified

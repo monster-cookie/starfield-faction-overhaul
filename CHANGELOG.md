@@ -1,6 +1,5 @@
 # Venworks Faction Overhaul
 
-## Version 2.0.2
-* Restored template actor inventory settings post 1.10.31.0 they are working again
-* Removed the default template actor and the container items from Ecliptic so see if stuff populates better (experimental)
-* Male/Female only actors now use their correct sex
+## Version 2.0.3
+* Reverted template actor inventory settings, they sporadically work now so explicitly setting the stuff.
+* The random hostile human list like BGS now just uses crimson fleet outfits for everyone. I'll have to revisit this once we have access to the CK2 Docs.

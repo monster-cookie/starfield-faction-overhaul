@@ -1,5 +1,5 @@
-FormKey: 054328:Starfield.esm
-EditorID: LvlCrimsonFleet_Heavy
+FormKey: 1AD194:Starfield.esm
+EditorID: LvlSpacer_Aggro
 FormVersion: 558
 ObjectBounds:
   First: -0.31000048, -0.31000048, -4.7683716E-07
@@ -15,23 +15,22 @@ Level:
 CalcMinLevel: 1
 CalcMaxLevel: 999
 DispositionBase: 35
-UseTemplateActors: 28029
-DeathItem: 00ABF8:Starfield.esm
-DefaultTemplate: 00093B:VenworksFactionOverhaul.esm
+UseTemplateActors: 27773
+DeathItem: 27BB74:Starfield.esm
+DefaultTemplate: 000944:VenworksFactionOverhaul.esm
 TemplateActors:
-  TraitTemplate: 010B35:Starfield.esm
-  FactionsTemplate: 00093B:VenworksFactionOverhaul.esm
-  SpellListTemplate: 00093B:VenworksFactionOverhaul.esm
-  AiDataTemplate: 000974:VenworksFactionOverhaul.esm
-  AiPackagesTemplate: 00093B:VenworksFactionOverhaul.esm
-  ModelOrAnimationTemplate: 010B35:Starfield.esm
-  InventoryTemplate: 00093B:VenworksFactionOverhaul.esm
-  ScriptTemplate: 00093B:VenworksFactionOverhaul.esm
-  DefPackListTemplate: 00093B:VenworksFactionOverhaul.esm
-  AttackDataTemplate: 00093B:VenworksFactionOverhaul.esm
-  KeywordsTemplate: 00093B:VenworksFactionOverhaul.esm
-  Unknown1: 00097D:VenworksFactionOverhaul.esm
-  Unknown2: 00093B:VenworksFactionOverhaul.esm
+  TraitTemplate: 27BB7C:Starfield.esm
+  FactionsTemplate: 000944:VenworksFactionOverhaul.esm
+  SpellListTemplate: 000944:VenworksFactionOverhaul.esm
+  AiDataTemplate: 000971:VenworksFactionOverhaul.esm
+  AiPackagesTemplate: 000944:VenworksFactionOverhaul.esm
+  ModelOrAnimationTemplate: 27BB7C:Starfield.esm
+  ScriptTemplate: 000944:VenworksFactionOverhaul.esm
+  DefPackListTemplate: 000944:VenworksFactionOverhaul.esm
+  AttackDataTemplate: 000944:VenworksFactionOverhaul.esm
+  KeywordsTemplate: 000944:VenworksFactionOverhaul.esm
+  Unknown1: 00097A:VenworksFactionOverhaul.esm
+  Unknown2: 000944:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
 Perks:
 - Perk: 000A3C:VenworksFactionOverhaul.esm
@@ -81,7 +80,7 @@ Properties:
   Value: 25
 Items:
 - Item:
-    Item: 3E8656:Starfield.esm
+    Item: 3D0946:Starfield.esm
     Count: 1
 Confidence: Brave
 EnergyLevel: 50
@@ -90,12 +89,12 @@ Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
 Keywords:
 - 03818E:Starfield.esm
-- 0546E0:Starfield.esm
-- 000892:VenworksFactionOverhaul.esm
+- 06D977:Starfield.esm
 - 12FF1F:Starfield.esm
+- 000A08:VenworksFactionOverhaul.esm
 Name:
   TargetLanguage: English
-  Value: Pirate Heavy*
+  Value: Spacer Assault*
 CalculatedHealth: 100
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
@@ -104,5 +103,5 @@ NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
 DefaultOutfit: 2EB236:Starfield.esm
-SpaceOutfit: 018DCF:Starfield.esm
+SpaceOutfit: 3D094D:Starfield.esm
 Pronoun: Unspecified

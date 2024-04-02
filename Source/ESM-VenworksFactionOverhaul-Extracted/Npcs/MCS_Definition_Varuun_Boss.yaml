@@ -43,13 +43,17 @@ Perks:
   Rank: 1
 - Perk: 000A45:VenworksFactionOverhaul.esm
   Rank: 1
+- Perk: 000A46:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A48:VenworksFactionOverhaul.esm
+  Rank: 1
 ForcedLocations:
 - 003956:Starfield.esm
 Items:
 - Item:
     Item: 25C601:Starfield.esm
     Count: 1
-Confidence: Average
+Confidence: Brave
 EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
@@ -57,6 +61,8 @@ UnknownAIDT: 1
 Keywords:
 - 12FF24:Starfield.esm
 - 000895:VenworksFactionOverhaul.esm
+- 000A2E:VenworksFactionOverhaul.esm
+- 0546DE:Starfield.esm
 Class: 010B2F:Starfield.esm
 CombatStyle: 26FDB6:Starfield.esm
 NAM5: 0xFF00
@@ -67,3 +73,4 @@ SpaceOutfit: 278715:Starfield.esm
 DefaultPackageList: 2C55CA:Starfield.esm
 CrimeFaction: 2758C5:Starfield.esm
 FormationFaction: 04CE29:Starfield.esm
+Pronoun: Unspecified

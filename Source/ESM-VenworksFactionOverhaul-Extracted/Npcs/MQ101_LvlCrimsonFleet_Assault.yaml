@@ -15,7 +15,7 @@ Level:
 CalcMinLevel: 1
 CalcMaxLevel: 999
 DispositionBase: 35
-UseTemplateActors: 28029
+UseTemplateActors: 27773
 DeathItem: 00ABF8:Starfield.esm
 DefaultTemplate: 000938:VenworksFactionOverhaul.esm
 TemplateActors:
@@ -25,7 +25,6 @@ TemplateActors:
   AiDataTemplate: 000976:VenworksFactionOverhaul.esm
   AiPackagesTemplate: 000938:VenworksFactionOverhaul.esm
   ModelOrAnimationTemplate: 010B35:Starfield.esm
-  InventoryTemplate: 000938:VenworksFactionOverhaul.esm
   ScriptTemplate: 000938:VenworksFactionOverhaul.esm
   DefPackListTemplate: 000938:VenworksFactionOverhaul.esm
   AttackDataTemplate: 000938:VenworksFactionOverhaul.esm
@@ -66,7 +65,7 @@ Properties:
 - ActorValue: 0002CD:Starfield.esm
   Value: 45
 - ActorValue: 0002D4:Starfield.esm
-  Value: 200
+  Value: 100
 - ActorValue: 0002D5:Starfield.esm
   Value: 50
 - ActorValue: 0002DA:Starfield.esm
@@ -97,11 +96,13 @@ Keywords:
 Name:
   TargetLanguage: English
   Value: Pirate Assault*
-CalculatedHealth: 200
+CalculatedHealth: 100
 CalculatedActionPoints: 100
 GearedUpWeapons: 1
 Unused: 43
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
+DefaultOutfit: 2EB236:Starfield.esm
+SpaceOutfit: 06682D:Starfield.esm
 Pronoun: Unspecified

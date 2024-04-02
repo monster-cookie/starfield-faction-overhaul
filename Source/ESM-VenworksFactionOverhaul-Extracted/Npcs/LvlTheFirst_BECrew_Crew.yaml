@@ -15,7 +15,7 @@ Level:
 CalcMinLevel: 1
 CalcMaxLevel: 999
 DispositionBase: 35
-UseTemplateActors: 28029
+UseTemplateActors: 27773
 DeathItem: 26FB68:Starfield.esm
 DefaultTemplate: 000956:VenworksFactionOverhaul.esm
 TemplateActors:
@@ -27,7 +27,6 @@ TemplateActors:
   AiPackagesTemplate: 000956:VenworksFactionOverhaul.esm
   ModelOrAnimationTemplate: 26FB6A:Starfield.esm
   BaseDataTemplate: 26FB6B:Starfield.esm
-  InventoryTemplate: 000956:VenworksFactionOverhaul.esm
   ScriptTemplate: 26FB6B:Starfield.esm
   DefPackListTemplate: 000956:VenworksFactionOverhaul.esm
   AttackDataTemplate: 000956:VenworksFactionOverhaul.esm
@@ -105,4 +104,5 @@ NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
 DefaultOutfit: 0BDA65:Starfield.esm
+SpaceOutfit: 12B42F:Starfield.esm
 Pronoun: Unspecified

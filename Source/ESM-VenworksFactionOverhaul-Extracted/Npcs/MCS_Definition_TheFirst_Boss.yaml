@@ -28,7 +28,7 @@ Level:
 DispositionBase: 35
 Factions:
 - Faction: 26FB5B:Starfield.esm
-DeathItem: 00ABF8:Starfield.esm
+DeathItem: 26FB68:Starfield.esm
 TemplateActors: {}
 Race: 00347D:Starfield.esm
 CombatOverridePackageList: 0102ED:Starfield.esm
@@ -41,13 +41,17 @@ Perks:
   Rank: 1
 - Perk: 000A45:VenworksFactionOverhaul.esm
   Rank: 1
+- Perk: 000A46:VenworksFactionOverhaul.esm
+  Rank: 1
+- Perk: 000A48:VenworksFactionOverhaul.esm
+  Rank: 1
 ForcedLocations:
 - 003956:Starfield.esm
 Items:
 - Item:
     Item: 09E15E:Starfield.esm
     Count: 1
-Confidence: Average
+Confidence: Brave
 EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
@@ -56,6 +60,7 @@ Keywords:
 - 12FF24:Starfield.esm
 - 000895:VenworksFactionOverhaul.esm
 - 000A0A:VenworksFactionOverhaul.esm
+- 000A2E:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
 CombatStyle: 2C5646:Starfield.esm
 NAM5: 0xFF00
@@ -64,3 +69,4 @@ HeightMax: 1
 DefaultOutfit: 133D53:Starfield.esm
 SpaceOutfit: 12B42F:Starfield.esm
 DefaultPackageList: 2C55CA:Starfield.esm
+Pronoun: Unspecified
