@@ -15,19 +15,17 @@ Level:
 CalcMinLevel: 1
 CalcMaxLevel: 999
 DispositionBase: 35
-UseTemplateActors: 27773
-DeathItem: 27028B:Starfield.esm
-DefaultTemplate: 00093E:VenworksFactionOverhaul.esm
+UseTemplateActors: 28029
 TemplateActors:
-  TraitTemplate: 270288:Starfield.esm
+  TraitTemplate: 10DD77:Starfield.esm
   StatsTemplate: 270287:Starfield.esm
   FactionsTemplate: 00093E:VenworksFactionOverhaul.esm
   SpellListTemplate: 00093E:VenworksFactionOverhaul.esm
   AiDataTemplate: 000971:VenworksFactionOverhaul.esm
   AiPackagesTemplate: 00093E:VenworksFactionOverhaul.esm
-  ModelOrAnimationTemplate: 270288:Starfield.esm
+  ModelOrAnimationTemplate: 10DD77:Starfield.esm
   BaseDataTemplate: 270287:Starfield.esm
-  InventoryTemplate: 270287:Starfield.esm
+  InventoryTemplate: 00093E:VenworksFactionOverhaul.esm
   ScriptTemplate: 270287:Starfield.esm
   DefPackListTemplate: 00093E:VenworksFactionOverhaul.esm
   AttackDataTemplate: 00093E:VenworksFactionOverhaul.esm
@@ -81,10 +79,6 @@ Properties:
   Value: 100
 - ActorValue: 000392:Starfield.esm
   Value: 25
-Items:
-- Item:
-    Item: 3D60AF:Starfield.esm
-    Count: 1
 Confidence: Brave
 EnergyLevel: 50
 Responsibility: NoCrime

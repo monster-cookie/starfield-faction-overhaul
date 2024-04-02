@@ -15,7 +15,7 @@ Level:
 CalcMinLevel: 1
 CalcMaxLevel: 999
 DispositionBase: 35
-UseTemplateActors: 27773
+UseTemplateActors: 28029
 DeathItem: 27BB74:Starfield.esm
 DefaultTemplate: 000948:VenworksFactionOverhaul.esm
 TemplateActors:
@@ -25,7 +25,7 @@ TemplateActors:
   AiDataTemplate: 000972:VenworksFactionOverhaul.esm
   AiPackagesTemplate: 000948:VenworksFactionOverhaul.esm
   ModelOrAnimationTemplate: 27BB7C:Starfield.esm
-  InventoryTemplate: 000944:VenworksFactionOverhaul.esm
+  InventoryTemplate: 000948:VenworksFactionOverhaul.esm
   ScriptTemplate: 000944:VenworksFactionOverhaul.esm
   DefPackListTemplate: 000948:VenworksFactionOverhaul.esm
   AttackDataTemplate: 000948:VenworksFactionOverhaul.esm

@@ -157,7 +157,7 @@ Level:
 CalcMinLevel: 1
 CalcMaxLevel: 999
 DispositionBase: 35
-UseTemplateActors: 31869
+UseTemplateActors: 32125
 DeathItem: 00ABF8:Starfield.esm
 DefaultTemplate: 00092E:VenworksFactionOverhaul.esm
 TemplateActors:
