@@ -12,7 +12,7 @@ Description:
 Type:
 - Ability
 Effects:
-- BaseEffect: 000A34:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 25
   Conditions:
@@ -30,7 +30,7 @@ Effects:
     ComparisonValue: 25
   EFIF: 0
   MUID: 1
-- BaseEffect: 000A34:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 50
   Conditions:
@@ -48,7 +48,7 @@ Effects:
     ComparisonValue: 50
   EFIF: 0
   MUID: 2
-- BaseEffect: 000A34:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 125
   Conditions:
@@ -66,7 +66,7 @@ Effects:
     ComparisonValue: 75
   EFIF: 0
   MUID: 3
-- BaseEffect: 000A34:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 250
   Conditions:
@@ -84,7 +84,7 @@ Effects:
     ComparisonValue: 100
   EFIF: 0
   MUID: 4
-- BaseEffect: 000A34:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 425
   Conditions:
@@ -102,7 +102,7 @@ Effects:
     ComparisonValue: 125
   EFIF: 0
   MUID: 5
-- BaseEffect: 000A34:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 500
   Conditions:
@@ -120,7 +120,7 @@ Effects:
     ComparisonValue: 150
   EFIF: 0
   MUID: 6
-- BaseEffect: 000A34:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 625
   Conditions:
@@ -138,7 +138,7 @@ Effects:
     ComparisonValue: 175
   EFIF: 0
   MUID: 7
-- BaseEffect: 000A4B:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 750
   Conditions:
@@ -156,7 +156,7 @@ Effects:
     ComparisonValue: 200
   EFIF: 0
   MUID: 8
-- BaseEffect: 000A4B:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 875
   Conditions:
@@ -174,7 +174,7 @@ Effects:
     ComparisonValue: 225
   EFIF: 0
   MUID: 9
-- BaseEffect: 000A4B:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 1000
   Conditions:
@@ -192,7 +192,7 @@ Effects:
     ComparisonValue: 250
   EFIF: 0
   MUID: 10
-- BaseEffect: 000A4B:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 1125
   Conditions:
@@ -210,7 +210,7 @@ Effects:
     ComparisonValue: 275
   EFIF: 0
   MUID: 11
-- BaseEffect: 000A4B:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 1250
   Conditions:
@@ -228,7 +228,7 @@ Effects:
     ComparisonValue: 300
   EFIF: 0
   MUID: 12
-- BaseEffect: 000A4B:VenworksFactionOverhaul.esm
+- BaseEffect: 000A50:VenworksFactionOverhaul.esm
   Data:
     Magnitude: 1500
   Conditions:

@@ -1,18 +1,6 @@
 FormKey: 000944:VenworksFactionOverhaul.esm
 EditorID: MCS_Definition_Spacer_Assault
-VirtualMachineAdapter:
-  Scripts:
-  - Name: MCS_NPCOverrideName
-    Properties:
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_MALE
-      Object: 0009DE:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_FEMALE
-      Object: 0009DE:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: Venpi_DebugEnabled
-      Object: 000800:VenpiCore.esm
+VirtualMachineAdapter: {}
 ODTY: 0
 Flags:
 - Respawn
@@ -25,27 +13,12 @@ Factions:
 - Faction: 04CE26:Starfield.esm
 - Faction: 27BB8C:Starfield.esm
 DeathItem: 27BB74:Starfield.esm
-TemplateActors: {}
 Race: 00347D:Starfield.esm
-CombatOverridePackageList: 0102ED:Starfield.esm
-Perks:
-- Perk: 000A3C:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A43:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A44:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A45:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A46:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A48:VenworksFactionOverhaul.esm
-  Rank: 1
 Items:
 - Item:
     Item: 3D0946:Starfield.esm
     Count: 1
-Confidence: Brave
+Confidence: Average
 EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
@@ -56,12 +29,13 @@ Keywords:
 - 06D977:Starfield.esm
 - 000A08:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Spacer Assault^
 CombatStyle: 2C562D:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
 DefaultOutfit: 2EB236:Starfield.esm
 SpaceOutfit: 3D094D:Starfield.esm
-DefaultPackageList: 2C55CA:Starfield.esm
 FormationFaction: 04CE26:Starfield.esm
-Pronoun: Unspecified

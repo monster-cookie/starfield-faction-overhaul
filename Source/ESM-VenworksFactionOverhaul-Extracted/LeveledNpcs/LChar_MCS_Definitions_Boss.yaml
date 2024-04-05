@@ -4,11 +4,6 @@ FormVersion: 556
 ODTY: 0
 Flags:
 - CalculateForEachItemInCount
-- 0x8
-- 0x10
-- 0x20
-- 0x40
-- 0x100
 Entries:
 - Level: 1
   Reference: 000939:VenworksFactionOverhaul.esm

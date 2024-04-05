@@ -1,0 +1,9 @@
+FormKey: 000A3D:VenworksFactionOverhaul.esm
+EditorID: CombatRole_Officer_Keyword
+FormVersion: 558
+Color: '#00FFFFFF'
+Type: None
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Officer Role

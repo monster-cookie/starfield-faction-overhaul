@@ -1,18 +1,6 @@
 FormKey: 000959:VenworksFactionOverhaul.esm
 EditorID: MCS_Definition_TheFirst_Heavy
-VirtualMachineAdapter:
-  Scripts:
-  - Name: MCS_NPCOverrideName
-    Properties:
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_FEMALE
-      Object: 000A06:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_MALE
-      Object: 000A06:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: Venpi_DebugEnabled
-      Object: 000800:VenpiCore.esm
+VirtualMachineAdapter: {}
 ODTY: 0
 Flags:
 - Respawn
@@ -23,28 +11,16 @@ Level:
 DispositionBase: 35
 Factions:
 - Faction: 26FB5B:Starfield.esm
-DeathItem: 26FB68:Starfield.esm
-TemplateActors: {}
+DeathItem: 00ABF8:Starfield.esm
+TemplateActors:
+  AiDataTemplate: 000976:VenworksFactionOverhaul.esm
+  Unknown1: 00097A:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
-CombatOverridePackageList: 0102ED:Starfield.esm
-Perks:
-- Perk: 000A3C:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A43:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A44:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A45:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A46:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A48:VenworksFactionOverhaul.esm
-  Rank: 1
 Items:
 - Item:
     Item: 0B8514:Starfield.esm
     Count: 1
-Confidence: Brave
+Confidence: Average
 EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
@@ -54,11 +30,13 @@ Keywords:
 - 000892:VenworksFactionOverhaul.esm
 - 000A0A:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: 1st Cav Heavy^
 CombatStyle: 2C5647:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
 DefaultOutfit: 133D53:Starfield.esm
 SpaceOutfit: 12B42F:Starfield.esm
-DefaultPackageList: 2C55CA:Starfield.esm
-Pronoun: Unspecified
+FormationFaction: 000A36:VenworksFactionOverhaul.esm

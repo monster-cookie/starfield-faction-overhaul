@@ -1,0 +1,22 @@
+FormKey: 3E8657:Starfield.esm
+MajorRecordFlagsRaw: 32768
+EditorID: LLI_CrimsonFleet_Officer
+FormVersion: 558
+StarfieldMajorRecordFlags:
+- VisibleWhenDistant
+ODTY: 0
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Level: 1
+  Reference: 12F6DE:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 3D0929:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 3D0935:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

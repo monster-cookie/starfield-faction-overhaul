@@ -1,0 +1,14 @@
+FormKey: 000A28:VenworksFactionOverhaul.esm
+EditorID: ScalingTier
+Name:
+  TargetLanguage: English
+  Value: ScalingTier
+Context: 'Format <Tier>.<MinLevel> where Tier is the stat tier (by 100s) and level is the minimum level for the winninf stat rule. '
+Abbreviation:
+  TargetLanguage: English
+  Value: SCLT
+DefaultValue: 0
+Flags:
+- GodModeImmune
+- Hardcoded
+Type: IntValue

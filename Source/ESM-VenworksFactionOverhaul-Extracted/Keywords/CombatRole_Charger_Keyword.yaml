@@ -3,3 +3,6 @@ EditorID: CombatRole_Charger_Keyword
 Color: '#00FFFFFF'
 Type: None
 FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Charger Role

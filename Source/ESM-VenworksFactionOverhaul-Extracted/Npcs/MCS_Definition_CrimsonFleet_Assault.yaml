@@ -1,18 +1,6 @@
 FormKey: 000938:VenworksFactionOverhaul.esm
 EditorID: MCS_Definition_CrimsonFleet_Assault
-VirtualMachineAdapter:
-  Scripts:
-  - Name: MCS_NPCOverrideName
-    Properties:
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_FEMALE
-      Object: 000902:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_MALE
-      Object: 000902:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: Venpi_DebugEnabled
-      Object: 000800:VenpiCore.esm
+VirtualMachineAdapter: {}
 ODTY: 0
 Flags:
 - Respawn
@@ -25,27 +13,15 @@ Factions:
 - Faction: 010B30:Starfield.esm
 - Faction: 04CE24:Starfield.esm
 DeathItem: 00ABF8:Starfield.esm
-TemplateActors: {}
+TemplateActors:
+  AiDataTemplate: 000976:VenworksFactionOverhaul.esm
+  Unknown1: 00097A:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
-CombatOverridePackageList: 0102ED:Starfield.esm
-Perks:
-- Perk: 000A3C:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A43:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A44:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A45:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A46:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A48:VenworksFactionOverhaul.esm
-  Rank: 1
 Items:
 - Item:
     Item: 3E8654:Starfield.esm
     Count: 1
-Confidence: Brave
+Confidence: Average
 EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
@@ -56,13 +32,14 @@ Keywords:
 - 03818E:Starfield.esm
 - 0546E0:Starfield.esm
 Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Pirate Assault^
 CombatStyle: 2C5638:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
 DefaultOutfit: 2EB236:Starfield.esm
 SpaceOutfit: 06682D:Starfield.esm
-DefaultPackageList: 2C55CA:Starfield.esm
 CrimeFaction: 010B30:Starfield.esm
 FormationFaction: 04CE24:Starfield.esm
-Pronoun: Unspecified

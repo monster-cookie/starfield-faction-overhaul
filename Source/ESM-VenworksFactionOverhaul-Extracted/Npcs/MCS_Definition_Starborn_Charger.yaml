@@ -1,18 +1,6 @@
 FormKey: 00094C:VenworksFactionOverhaul.esm
 EditorID: MCS_Definition_Starborn_Charger
-VirtualMachineAdapter:
-  Scripts:
-  - Name: MCS_NPCOverrideName
-    Properties:
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_FEMALE
-      Object: 000A04:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: LIST_NAMES_MALE
-      Object: 000A04:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: Venpi_DebugEnabled
-      Object: 000800:VenpiCore.esm
+VirtualMachineAdapter: {}
 ODTY: 0
 Flags:
 - Respawn
@@ -25,27 +13,15 @@ Factions:
 - Faction: 018EDE:Starfield.esm
 - Faction: 04CE27:Starfield.esm
 DeathItem: 27025F:Starfield.esm
-TemplateActors: {}
+TemplateActors:
+  AiDataTemplate: 000976:VenworksFactionOverhaul.esm
+  Unknown1: 00097A:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
-CombatOverridePackageList: 0102ED:Starfield.esm
-Perks:
-- Perk: 000A3C:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A43:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A44:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A45:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A46:VenworksFactionOverhaul.esm
-  Rank: 1
-- Perk: 000A48:VenworksFactionOverhaul.esm
-  Rank: 1
 Items:
 - Item:
     Item: 043D8B:Starfield.esm
     Count: 1
-Confidence: Brave
+Confidence: Average
 EnergyLevel: 50
 Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
@@ -55,12 +31,13 @@ Keywords:
 - 12FF1F:Starfield.esm
 - 000801:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Starborn Charger^
 CombatStyle: 1AE521:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
 DefaultOutfit: 100E31:Starfield.esm
 SpaceOutfit: 27025C:Starfield.esm
-DefaultPackageList: 2C55CA:Starfield.esm
 FormationFaction: 04CE27:Starfield.esm
-Pronoun: Unspecified

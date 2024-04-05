@@ -36,12 +36,12 @@ copy /y "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source
 
 @REM ESM is purely binary so need to pull from starfield dir where xedit has to have it 
 @echo "Copying the ESM from xEdit and adding to Source and Dist folders"
-copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM"
-copy /y "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist"
+copy /y "D:\MO2Staging\Starfield_Release\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM"
+copy /y "D:\MO2Staging\Starfield_Release\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist"
 
 @REM Use Spriggit to extract record from ESM
 @echo "Running Spriggit to extract record from ESM"
-"D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
+"D:\Program Files\Spriggit\Spriggit.CLI.exe" serialize --InputPath "D:\MO2Staging\Starfield_Release\mods\VenworksFactionOverhaul-Experimental\VenworksFactionOverhaul.esm" --OutputPath "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\ESM-VenworksFactionOverhaul-Extracted" --GameRelease Starfield --PackageName Spriggit.Yaml
 
 @REM Create and copy the BA2 Main Archive to Dist folder
 @echo "Creating the BA2 Main Archive"

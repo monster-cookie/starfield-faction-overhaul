@@ -1,0 +1,12 @@
+FormKey: 000A3A:VenworksFactionOverhaul.esm
+EditorID: GroupFactionFreestarRangers
+FormVersion: 558
+CrimeValues:
+  Arrest: True
+  AttackOnSight: True
+VendorValues:
+  EndHour: 24
+  BuysStolenItems: True
+  BuysNonStolenItems: True
+HERD: 0x0000C842140014000000000000000000
+GRPH: 0x00000000
