@@ -42,7 +42,7 @@ Keywords:
 Class: 010B2F:Starfield.esm
 Name:
   TargetLanguage: English
-  Value: Syndicate Boss^
+  Value: Syndicate Boss
 CombatStyle: 05473A:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1

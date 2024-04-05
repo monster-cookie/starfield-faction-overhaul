@@ -1,5 +1,5 @@
-FormKey: 000945:VenworksFactionOverhaul.esm
-EditorID: MCS_Definition_Spacer_Boss
+FormKey: 000A51:VenworksFactionOverhaul.esm
+EditorID: MCS_Definition_Ecliptic_Officer
 VirtualMachineAdapter:
   Scripts:
   - Name: ForceLegendaryActorScript
@@ -16,15 +16,18 @@ Level:
   Level: 1
 DispositionBase: 35
 Factions:
-- Faction: 04CE26:Starfield.esm
-- Faction: 27BB8C:Starfield.esm
-DeathItem: 27BB74:Starfield.esm
+- Faction: 04CE25:Starfield.esm
+- Faction: 27028D:Starfield.esm
+DeathItem: 27028B:Starfield.esm
+TemplateActors:
+  AiDataTemplate: 000976:VenworksFactionOverhaul.esm
+  Unknown1: 00097A:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
 ForcedLocations:
 - 003956:Starfield.esm
 Items:
 - Item:
-    Item: 25E1A2:Starfield.esm
+    Item: 3D60B2:Starfield.esm
     Count: 1
 Confidence: Average
 EnergyLevel: 50
@@ -32,18 +35,17 @@ Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
 Keywords:
-- 03818E:Starfield.esm
 - 12FF24:Starfield.esm
-- 000895:VenworksFactionOverhaul.esm
-- 000A08:VenworksFactionOverhaul.esm
+- 000800:VenworksFactionOverhaul.esm
+- 000A3D:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
 Name:
   TargetLanguage: English
-  Value: Spacer Admiral
-CombatStyle: 0D2143:Starfield.esm
+  Value: Ecliptic Sergeant Major
+CombatStyle: 2C5630:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
 DefaultOutfit: 2EB236:Starfield.esm
-SpaceOutfit: 3D094F:Starfield.esm
-FormationFaction: 04CE26:Starfield.esm
+SpaceOutfit: 27027D:Starfield.esm
+FormationFaction: 04CE25:Starfield.esm

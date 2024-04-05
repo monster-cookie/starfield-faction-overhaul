@@ -1,0 +1,22 @@
+FormKey: 0DFC40:Starfield.esm
+MajorRecordFlagsRaw: 32768
+EditorID: LLI_TheFirst_Officer
+FormVersion: 558
+StarfieldMajorRecordFlags:
+- VisibleWhenDistant
+ODTY: 0
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Level: 1
+  Reference: 12F6DE:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 3D092E:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 3D0935:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

@@ -1,5 +1,5 @@
-FormKey: 000952:VenworksFactionOverhaul.esm
-EditorID: MCS_Definition_Syndicate_Charger
+FormKey: 000A53:VenworksFactionOverhaul.esm
+EditorID: MCS_Definition_TheFirst_Recruit
 VirtualMachineAdapter: {}
 ODTY: 0
 Flags:
@@ -10,16 +10,15 @@ Level:
   Level: 1
 DispositionBase: 35
 Factions:
-- Faction: 04CE28:Starfield.esm
-- Faction: 270274:Starfield.esm
-DeathItem: 270269:Starfield.esm
+- Faction: 26FB5B:Starfield.esm
+DeathItem: 00ABF8:Starfield.esm
 TemplateActors:
   AiDataTemplate: 000976:VenworksFactionOverhaul.esm
   Unknown1: 00097A:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
 Items:
 - Item:
-    Item: 23231D:Starfield.esm
+    Item: 0DFC42:Starfield.esm
     Count: 1
 Confidence: Average
 EnergyLevel: 50
@@ -27,18 +26,17 @@ Responsibility: NoCrime
 Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
 Keywords:
-- 03818E:Starfield.esm
-- 06D976:Starfield.esm
+- 000898:VenworksFactionOverhaul.esm
 - 12FF1F:Starfield.esm
-- 000A09:VenworksFactionOverhaul.esm
+- 000A0A:VenworksFactionOverhaul.esm
 Class: 010B2F:Starfield.esm
 Name:
   TargetLanguage: English
-  Value: Syndicate Cutter
-CombatStyle: 2C563A:Starfield.esm
+  Value: 1st Cav Grunt
+CombatStyle: 2C5649:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1
-DefaultOutfit: 0061FD:Starfield.esm
-SpaceOutfit: 018DCF:Starfield.esm
-FormationFaction: 04CE28:Starfield.esm
+DefaultOutfit: 133D53:Starfield.esm
+SpaceOutfit: 12B42F:Starfield.esm
+FormationFaction: 000A36:VenworksFactionOverhaul.esm

@@ -27,18 +27,18 @@ DeathItem: 27028B:Starfield.esm
 TemplateActors:
   TraitTemplate: 10DD79:Starfield.esm
   StatsTemplate: 000931:VenworksFactionOverhaul.esm
-  FactionsTemplate: 00093F:VenworksFactionOverhaul.esm
-  SpellListTemplate: 00093F:VenworksFactionOverhaul.esm
+  FactionsTemplate: 000A51:VenworksFactionOverhaul.esm
+  SpellListTemplate: 000A51:VenworksFactionOverhaul.esm
   AiDataTemplate: 000971:VenworksFactionOverhaul.esm
-  AiPackagesTemplate: 00093F:VenworksFactionOverhaul.esm
-  ModelOrAnimationTemplate: 00093F:VenworksFactionOverhaul.esm
+  AiPackagesTemplate: 000A51:VenworksFactionOverhaul.esm
+  ModelOrAnimationTemplate: 000A51:VenworksFactionOverhaul.esm
   BaseDataTemplate: 270287:Starfield.esm
-  InventoryTemplate: 00093F:VenworksFactionOverhaul.esm
-  DefPackListTemplate: 00093F:VenworksFactionOverhaul.esm
-  AttackDataTemplate: 00093F:VenworksFactionOverhaul.esm
-  KeywordsTemplate: 00093F:VenworksFactionOverhaul.esm
+  InventoryTemplate: 000A51:VenworksFactionOverhaul.esm
+  DefPackListTemplate: 000A51:VenworksFactionOverhaul.esm
+  AttackDataTemplate: 000A51:VenworksFactionOverhaul.esm
+  KeywordsTemplate: 000A51:VenworksFactionOverhaul.esm
   Unknown1: 00097B:VenworksFactionOverhaul.esm
-  Unknown2: 00093F:VenworksFactionOverhaul.esm
+  Unknown2: 000A51:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
 Confidence: Brave
 EnergyLevel: 50
@@ -47,7 +47,7 @@ Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
 Name:
   TargetLanguage: English
-  Value: Ecliptic Officer*
+  Value: Ecliptic Sergeant Major
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1

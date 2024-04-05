@@ -41,7 +41,7 @@ Keywords:
 Class: 010B2F:Starfield.esm
 Name:
   TargetLanguage: English
-  Value: Ecliptic Boss^
+  Value: Ecliptic Major
 CombatStyle: 2C5630:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1

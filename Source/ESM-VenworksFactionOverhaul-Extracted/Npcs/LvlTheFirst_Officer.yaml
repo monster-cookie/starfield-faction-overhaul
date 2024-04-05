@@ -26,18 +26,18 @@ UseTemplateActors: 32127
 TemplateActors:
   TraitTemplate: 26FB6A:Starfield.esm
   StatsTemplate: 000931:VenworksFactionOverhaul.esm
-  FactionsTemplate: 000957:VenworksFactionOverhaul.esm
-  SpellListTemplate: 000957:VenworksFactionOverhaul.esm
+  FactionsTemplate: 000A52:VenworksFactionOverhaul.esm
+  SpellListTemplate: 000A52:VenworksFactionOverhaul.esm
   AiDataTemplate: 000972:VenworksFactionOverhaul.esm
-  AiPackagesTemplate: 000957:VenworksFactionOverhaul.esm
-  ModelOrAnimationTemplate: 000957:VenworksFactionOverhaul.esm
+  AiPackagesTemplate: 000A52:VenworksFactionOverhaul.esm
+  ModelOrAnimationTemplate: 000A52:VenworksFactionOverhaul.esm
   BaseDataTemplate: 26FB6B:Starfield.esm
-  InventoryTemplate: 000957:VenworksFactionOverhaul.esm
-  DefPackListTemplate: 000957:VenworksFactionOverhaul.esm
-  AttackDataTemplate: 000957:VenworksFactionOverhaul.esm
-  KeywordsTemplate: 000957:VenworksFactionOverhaul.esm
+  InventoryTemplate: 000A52:VenworksFactionOverhaul.esm
+  DefPackListTemplate: 000A52:VenworksFactionOverhaul.esm
+  AttackDataTemplate: 000A52:VenworksFactionOverhaul.esm
+  KeywordsTemplate: 000A52:VenworksFactionOverhaul.esm
   Unknown1: 00097B:VenworksFactionOverhaul.esm
-  Unknown2: 000957:VenworksFactionOverhaul.esm
+  Unknown2: 000A52:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
 ForcedLocations:
 - 003956:Starfield.esm
@@ -48,7 +48,7 @@ Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
 Name:
   TargetLanguage: English
-  Value: 1st Cav Boss*
+  Value: 1st Cav Sergeant
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1

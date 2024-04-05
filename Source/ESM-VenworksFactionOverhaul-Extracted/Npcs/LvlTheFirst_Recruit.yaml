@@ -19,19 +19,19 @@ UseTemplateActors: 32127
 TemplateActors:
   TraitTemplate: 26FB6A:Starfield.esm
   StatsTemplate: 000931:VenworksFactionOverhaul.esm
-  FactionsTemplate: 000956:VenworksFactionOverhaul.esm
-  SpellListTemplate: 000956:VenworksFactionOverhaul.esm
+  FactionsTemplate: 000A53:VenworksFactionOverhaul.esm
+  SpellListTemplate: 000A53:VenworksFactionOverhaul.esm
   AiDataTemplate: 000973:VenworksFactionOverhaul.esm
-  AiPackagesTemplate: 000956:VenworksFactionOverhaul.esm
-  ModelOrAnimationTemplate: 000956:VenworksFactionOverhaul.esm
+  AiPackagesTemplate: 000A53:VenworksFactionOverhaul.esm
+  ModelOrAnimationTemplate: 000A53:VenworksFactionOverhaul.esm
   BaseDataTemplate: 26FB6B:Starfield.esm
-  InventoryTemplate: 000956:VenworksFactionOverhaul.esm
+  InventoryTemplate: 000A53:VenworksFactionOverhaul.esm
   ScriptTemplate: 26FB6B:Starfield.esm
-  DefPackListTemplate: 000956:VenworksFactionOverhaul.esm
-  AttackDataTemplate: 000956:VenworksFactionOverhaul.esm
-  KeywordsTemplate: 000956:VenworksFactionOverhaul.esm
+  DefPackListTemplate: 000A53:VenworksFactionOverhaul.esm
+  AttackDataTemplate: 000A53:VenworksFactionOverhaul.esm
+  KeywordsTemplate: 000A53:VenworksFactionOverhaul.esm
   Unknown1: 00097A:VenworksFactionOverhaul.esm
-  Unknown2: 000956:VenworksFactionOverhaul.esm
+  Unknown2: 000A53:VenworksFactionOverhaul.esm
 Race: 00347D:Starfield.esm
 Confidence: Brave
 EnergyLevel: 50
@@ -40,7 +40,7 @@ Assistance: HelpsFriendsAndAllies
 UnknownAIDT: 1
 Name:
   TargetLanguage: English
-  Value: 1st Cav Recruit*
+  Value: 1st Cav Grunt
 NAM5: 0xFF00
 HeightMin: 1
 HeightMax: 1

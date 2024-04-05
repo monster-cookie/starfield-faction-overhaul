@@ -33,7 +33,7 @@ Keywords:
 Class: 010B2F:Starfield.esm
 Name:
   TargetLanguage: English
-  Value: Ecliptic Sniper^
+  Value: Ecliptic Sniper
 CombatStyle: 2C562F:Starfield.esm
 NAM5: 0xFF00
 HeightMin: 1
