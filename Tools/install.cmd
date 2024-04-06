@@ -11,5 +11,4 @@ mkdir "D:\MO2Staging\Starfield_Release\mods\VenworksFactionOverhaul-Experimental
 copy /y "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Dist\VenworksFactionOverhaul - Main.ba2" "D:\MO2Staging\Starfield_Release\mods\VenworksFactionOverhaul-Experimental"
 
 @echo "Deploying RTFP to MO2 Mod DIR"
-copy /y "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\RTFP\VenworksCoreConfig.txt" "D:\MO2Staging\Starfield_Release\mods\VenworksFactionOverhaul-Experimental\SFSE\Plugins\RealTimeFormPatcher"
 copy /y "C:\Repositories\Public\Starfield Mods\starfield-faction-overhaul\Source\RTFP\VenworksFactionOverhaulConfig.txt" "D:\MO2Staging\Starfield_Release\mods\VenworksFactionOverhaul-Experimental\SFSE\Plugins\RealTimeFormPatcher"
