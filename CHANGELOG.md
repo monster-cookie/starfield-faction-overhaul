@@ -1,4 +1,4 @@
 # Venworks Faction Overhaul
 
-## Version 2.0.5
-* Using new role based faction unique titles for the NPCs. See nexus post or discord channel for the list. See for more info: https://github.com/monster-cookie/starfield-faction-overhaul/blob/master/Documentation/FactionRoleTitles.md
+## Version 2.0.6
+* To avoid the file conflict that is confusing users, I have moved the Venpi Core RTFP config to that mod but this means you will need to handle its configuration for all mods in one go vs the last in the mod dependency chain. Sorry there is no way you can have you cake and eat it to. This is why I put it in both so you would only need to touch the end of the dependency chain now you will have to deal with it at each step if you need to change something at that level. 
