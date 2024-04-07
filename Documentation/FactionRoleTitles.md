@@ -1,67 +1,78 @@
 # Unique Role Titles for Each Faction
 
-## Assault Combat Role
+## Crimson Fleet/Pirate Role Titles
+- Generic (0): Pirate
+- Assault (1): Pirate Gunner
+- Boss (2): Pirate Commodore
+- Charger (3): Pirate Boarder
+- Heavy (4): Pirate Cannoneer
+- Recruit (5): Pirate Cabinboy
+- Officer (6): Pirate First Mate
+- Sniper (7): Pirate Watcher
+- Support (8): Pirate Doc
 
-- Pirate Gunner
-- Ecliptic Soldier
-- Spacer Ransacker
-- Starborn Hunter
-- Syndicate Member
-- 1st Cav Trooper
-- Va'ruun Conscript
+## Ecliptic Role Titles
+- Generic (0): Ecliptic
+- Assault (1): Ecliptic Soldier
+- Boss (2): Ecliptic Major
+- Charger (3): Ecliptic Special Forces
+- Heavy (4): Ecliptic Demolitions
+- Recruit (5): Ecliptic Recruit
+- Officer (6): Ecliptic Sergeant Major
+- Sniper (7): Ecliptic Sniper
+- Support (8): Ecliptic Medic
 
-## Boss Combat Role
+## Spacer Role Titles
+- Generic (0): Spacer
+- Assault (1): Spacer Ransacker
+- Boss (2): Spacer Admiral
+- Charger (3): Spacer Raider
+- Heavy (4): Spacer Ravenger
+- Recruit (5): Spacer Peon
+- Officer (6): Spacer Enforcer
+- Sniper (7): Spacer Crow
+- Support (8): Spacer Sawbones
 
-- Pirate Commodore
-- Ecliptic Major
-- Spacer Admiral
-- Starborn Exemplar
-- Syndicate Boss
-- 1st Cav Captain
-- Va'ruun Leader
+## Starborn Role Titles
+- Generic (0): Starborn
+- Assault (1): Starborn Hunter
+- Boss (2): Starborn Guildmaster
+- Charger (3): Starborn Adventurer
+- Heavy (4): Starborn Druid
+- Recruit (5): Starborn Finder
+- Officer (6): Starborn Exemplar
+- Sniper (7): Starborn Searcher
+- Support (8): Starborn Shaman
 
-## Charger Combat Role
-- Pirate Boarder
-- Ecliptic Special Forces
-- Spacer Raider
-- Starborn Adventurer
-- Syndicate Cutter
-- 1st Cav Elite
-- Va'ruun Zealot
+## Syndicate Role Titles
+- Generic (0): Syndicate
+- Assault (1): Syndicate Member
+- Boss (2): Syndicate Boss
+- Charger (3): Syndicate Cutter
+- Heavy (4): Syndicate Veteran
+- Recruit (5): Syndicate Thug
+- Officer (6): Syndicate Underboss
+- Sniper (7): Syndicate Lookout
+- Support (8): Syndicate Cooker
 
-## Heavy Combat Role
-- Pirate Cannoneer
-- Ecliptic Demolitions
-- Spacer Ravenger
-- Starborn Druid
-- Syndicate Veteran
-- 1st Cav Mechwarrior
-- Va'ruun Bomber
+## 1st Cav Role Titles
+- Generic (0): 1st Cav
+- Assault (1): 1st Cav Trooper
+- Boss (2): 1st Cav Captain
+- Charger (3): 1st Cav Elite
+- Heavy (4): 1st Cav Mechwarrior
+- Recruit (5): 1st Cav Grunt
+- Officer (6): 1st Cav Sergeant
+- Sniper (7): 1st Cav Marksman
+- Support (8): 1st Cav Specialist
 
-## Officer Combat Role
-- Pirate First Mate
-- Ecliptic Sergeant Major
-- 1st Cav Sergeant
-
-## Recruit Combat Role
-- Pirate Cabinboy
-- Spacer Peon
-- 1st Cav Grunt
-
-## Sniper Combat Role
-- Pirate Watcher
-- Ecliptic Sniper
-- Spacer Crow
-- Starborn Searcher
-- Syndicate Lookout
-- 1st Cav Marksman
-- Va'ruun Infiltrator
-
-## Support Combat Role
-- Pirate Doc
-- Ecliptic Medic
-- Spacer Sawbones
-- Starborn Shaman
-- Syndicate Cooker
-- 1st Cav Specialist
-- Va'ruun Shaman
+## Faction Role Titles
+- Generic (0): Va'ruun
+- Assault (1): Va'ruun Conscript
+- Boss (2): Va'ruun Leader
+- Charger (3): Va'ruun Zealot
+- Heavy (4): Va'ruun Bomber
+- Recruit (5): Va'ruun Initiate
+- Officer (6): Va'ruun Master
+- Sniper (7): Va'ruun Infiltrator
+- Support (8): Va'ruun Shaman
