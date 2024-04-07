@@ -66,7 +66,7 @@
 - Sniper (7): Syndicate Lookout
 - Support (8): Syndicate Cooker
 
-## The Fist Cavalry Role Titles
+## The First Cavalry Role Titles
 - Generic (0): 1st Cav
 - Assault (1): 1st Cav Trooper
 - Boss (2): 1st Cav Captain
