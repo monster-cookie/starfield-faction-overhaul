@@ -25,6 +25,12 @@ uDefaultLevelZone08max|999
 uDefaultLevelZone09min|200
 uDefaultLevelZone09max|999
 
+fLevelScalingMult|1
+iLevCharLevelDifferenceMax|10
+
 iCalcLevelAdjustDown|1
 iCalcLevelAdjustUp|30
 fLowLevelNPCBaseHealthMult|0.75
+
+iHoursToRespawnCell|12
+iHoursToRespawnCellCleared|48
