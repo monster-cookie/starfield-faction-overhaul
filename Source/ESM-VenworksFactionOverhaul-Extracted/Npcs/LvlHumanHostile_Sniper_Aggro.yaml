@@ -57,92 +57,32 @@ VirtualMachineAdapter:
       Name: FactionTypeUnitedColonies
       Object: 0546DC:Starfield.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_CrimsonFleet_Assault
-      Object: 000A13:VenworksFactionOverhaul.esm
+      Name: MCS_ClassTitles_CrimsonFleet
+      Object: 000A77:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_CrimsonFleet_Boss
-      Object: 000A14:VenworksFactionOverhaul.esm
+      Name: MCS_ClassTitles_Ecliptic
+      Object: 000A78:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_CrimsonFleet_Charger
-      Object: 000A15:VenworksFactionOverhaul.esm
+      Name: MCS_ClassTitles_HouseVaruun
+      Object: 000A79:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_CrimsonFleet_Heavy
-      Object: 000A16:VenworksFactionOverhaul.esm
+      Name: MCS_ClassTitles_Spacer
+      Object: 000A7A:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_CrimsonFleet_Recruit
-      Object: 000A17:VenworksFactionOverhaul.esm
+      Name: MCS_ClassTitles_Starborn
+      Object: 000A7B:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_CrimsonFleet_Sniper
-      Object: 000A18:VenworksFactionOverhaul.esm
+      Name: MCS_ClassTitles_Syndicate
+      Object: 000A7C:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_CrimsonFleet_Support
-      Object: 000A19:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Ecliptic_Assault
-      Object: 000A1A:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Ecliptic_Boss
-      Object: 000A1B:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Ecliptic_Charger
-      Object: 000A1C:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Ecliptic_Heavy
-      Object: 000A1D:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Ecliptic_Recruit
-      Object: 000A1E:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Ecliptic_Sniper
-      Object: 000A1F:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Ecliptic_Support
-      Object: 000A20:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Spacer_Assault
-      Object: 000A0B:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Spacer_Boss
-      Object: 000A0C:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Spacer_Charger
-      Object: 000A0D:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Spacer_Heavy
-      Object: 000A0E:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Spacer_Recruit
-      Object: 000A0F:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Spacer_Sniper
-      Object: 000A10:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_Spacer_Support
-      Object: 000A11:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_TheFirst_Assault
-      Object: 000A21:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_TheFirst_Boss
-      Object: 000A22:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_TheFirst_Charger
-      Object: 000A23:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_TheFirst_Heavy
-      Object: 000A24:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_TheFirst_Recruit
-      Object: 000A25:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_TheFirst_Sniper
-      Object: 000A26:VenworksFactionOverhaul.esm
-    - MutagenObjectType: ScriptObjectProperty
-      Name: MCS_AUTONAME_TheFirst_Support
-      Object: 000A27:VenworksFactionOverhaul.esm
+      Name: MCS_ClassTitles_TheFirst
+      Object: 000A7D:VenworksFactionOverhaul.esm
     - MutagenObjectType: ScriptObjectProperty
       Name: Venpi_DebugEnabled
       Object: 000800:VenpiCore.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CombatRole_Officer_Keyword
+      Object: 000A3D:VenworksFactionOverhaul.esm
 ObjectBounds:
   First: -0.591797, -0.3623047, 0
   Second: 0.59179676, 1.0341797, 1.2373047
